@@ -1,0 +1,121 @@
+{
+  "id": "jm-boj-cyber",
+  "type": "statute",
+  "title": "Bank of Jamaica Cybersecurity Framework and Guidance Notes",
+  "title_en": "Bank of Jamaica Cybersecurity Framework and Guidance Notes",
+  "short_name": "BOJ-CF",
+  "status": "in_force",
+  "issued_date": "2019-03-01",
+  "in_force_date": "2019-06-01",
+  "url": "https://boj.org.jm/wp-content/uploads/2019/03/Cybersecurity-Framework.pdf",
+  "description": "The Bank of Jamaica Cybersecurity Framework and Guidance Notes establish mandatory cybersecurity standards for deposit-taking institutions, payment service providers, and other entities regulated by the Bank of Jamaica. The Framework is based on the NIST Cybersecurity Framework and incorporates requirements from the Basel Committee on Banking Supervision's operational resilience principles and the Financial Stability Board's guidance on cyber incident reporting. The Framework covers governance, risk management, access control, incident response, and third-party risk management. Compliance is assessed as part of the Bank of Jamaica's supervisory examination process. Updated guidance notes were issued in 2022 to address risks from cloud computing, remote working, and virtual assets.",
+  "provisions": [
+    {
+      "provision_ref": "sec1",
+      "section": "1",
+      "title": "Section 1. Introduction and Scope",
+      "content": "This Cybersecurity Framework and accompanying Guidance Notes are issued by the Bank of Jamaica (BOJ) pursuant to its supervisory mandate under the Banking Services Act 2014 and the Bank of Jamaica Act. The Framework applies to all deposit-taking institutions (commercial banks, merchant banks, and building societies), payment service providers licensed under the Payments Clearing and Settlement Act 2010, and such other entities as may be designated by the BOJ. The Framework establishes the minimum cybersecurity standards that regulated entities must meet to obtain and maintain a licence from the Bank of Jamaica. Non-compliance with the Framework shall be treated as a ground for supervisory action, including licence suspension or revocation. The Framework is to be read together with the BOJ's Guidance Notes on Operational Risk Management, Business Continuity Planning, and Outsourcing, and with the requirements of the Data Protection Act 2020 and the Cybercrimes Act 2015."
+    },
+    {
+      "provision_ref": "sec2",
+      "section": "2",
+      "title": "Section 2. Governance and Accountability",
+      "content": "Regulated entities shall establish clear governance arrangements for cybersecurity, including: (a) a Board-level Cybersecurity Policy approved by the Board of Directors, setting out the entity's approach to cybersecurity risk and its risk appetite; (b) designation of a Chief Information Security Officer (CISO) or equivalent with appropriate seniority, qualifications, and independence; (c) a dedicated Cybersecurity Committee or Integration of cybersecurity into the existing Risk Committee, with regular reporting to the Board; (d) clear allocation of cybersecurity responsibilities among senior management; and (e) annual review of the Cybersecurity Policy and governance arrangements by the Board. The CISO shall have direct access to the Board and shall not be solely subordinate to a business line function that creates a conflict of interest. Regulated entities with assets exceeding three billion dollars shall designate a full-time CISO. Smaller entities may designate an existing senior officer with appropriate training and responsibilities to serve as CISO on a part-time basis, subject to approval by the BOJ."
+    },
+    {
+      "provision_ref": "sec3",
+      "section": "3",
+      "title": "Section 3. Risk Assessment",
+      "content": "Regulated entities shall conduct and document a comprehensive cybersecurity risk assessment at least annually and whenever there are significant changes to the entity's technology environment, business model, or threat landscape. The risk assessment shall: (a) identify and catalogue all information assets, including systems, data, and third-party connections; (b) identify and evaluate threats to those assets, including threats from cybercriminals, insiders, nation-state actors, and technology failures; (c) assess the vulnerabilities of each identified asset to the relevant threats; (d) assess the likely impact and probability of significant cyber incidents; (e) identify the controls in place to mitigate identified risks; and (f) determine the residual risk and whether it falls within the entity's stated risk appetite. The output of the risk assessment shall inform the entity's cybersecurity investment decisions and the prioritization of its security controls. Risk assessments shall be reviewed and approved by senior management and reported to the Board."
+    },
+    {
+      "provision_ref": "sec4",
+      "section": "4",
+      "title": "Section 4. Access Control",
+      "content": "Regulated entities shall implement robust access control measures to ensure that access to information systems and sensitive data is granted only to authorized users and only to the extent necessary for their role. Access control requirements include: (a) implementation of multi-factor authentication for all administrative access to critical systems and for all remote access to internal systems; (b) implementation of the principle of least privilege, ensuring that users are granted the minimum access necessary for their duties; (c) regular review and recertification of user access rights, at least every six months for privileged users; (d) prompt revocation of access rights when employment or the relevant business need ends; (e) prohibition on the use of shared or generic accounts for administrative functions; (f) logging of all access to critical systems and sensitive data, with logs retained for a minimum of twelve months; and (g) implementation of privileged access management controls for system administrators. Access control policies shall be reviewed and updated at least annually."
+    },
+    {
+      "provision_ref": "sec5",
+      "section": "5",
+      "title": "Section 5. Network and System Security",
+      "content": "Regulated entities shall implement appropriate technical controls to protect their networks and systems from unauthorized access and cyber attacks. Network and system security requirements include: (a) implementation of network segmentation to isolate critical systems and sensitive data from less secure parts of the network; (b) deployment and maintenance of firewalls, intrusion detection and prevention systems, and other perimeter defenses; (c) regular vulnerability scanning of all internet-facing systems and critical internal systems, with remediation of identified vulnerabilities within prescribed timelines based on severity; (d) annual penetration testing of critical systems by qualified independent testers, with critical and high vulnerabilities remediated within 30 days; (e) implementation of encrypted communications for all transmissions of sensitive data; (f) secure configuration management ensuring that systems are deployed with security hardening applied; and (g) patch management procedures ensuring that security patches are applied within prescribed timelines. Regulated entities shall maintain a network topology diagram and keep it current."
+    },
+    {
+      "provision_ref": "sec6",
+      "section": "6",
+      "title": "Section 6. Data Security",
+      "content": "Regulated entities shall implement appropriate controls to protect the confidentiality, integrity, and availability of customer data and other sensitive information. Data security requirements include: (a) classification of all data according to sensitivity, with controls appropriate to each classification level; (b) encryption of all sensitive customer data at rest using industry-recognized encryption standards; (c) encryption of all sensitive customer data in transit; (d) data loss prevention controls to prevent the unauthorized exfiltration of sensitive data; (e) controls on the use of removable media and portable storage devices; (f) secure disposal of data and equipment in accordance with the Data Protection Act 2020 and BOJ guidance; and (g) maintenance of a data inventory identifying where sensitive customer data is held, how it is processed, and who has access to it. Regulated entities shall comply with the data breach notification requirements of the Data Protection Act 2020 and shall also notify the Bank of Jamaica of any breach that is likely to have a material impact on the entity's operations or its customers."
+    },
+    {
+      "provision_ref": "sec7",
+      "section": "7",
+      "title": "Section 7. Incident Response",
+      "content": "Regulated entities shall establish and maintain a Cybersecurity Incident Response Plan (CIRP) that provides for the prompt detection, containment, investigation, and recovery from cyber incidents. The CIRP shall: (a) define the categories and severity levels of cyber incidents; (b) establish clear roles and responsibilities for incident response; (c) specify escalation and communication procedures for incidents of different severity levels; (d) include procedures for containing and eradicating threats; (e) include procedures for recovering systems and data; and (f) provide for post-incident review and lessons learned. Regulated entities shall notify the Bank of Jamaica of a significant cyber incident within 24 hours of becoming aware of it, using the notification form prescribed by the BOJ. A significant cyber incident includes any incident that: causes or is likely to cause material disruption to operations; results in unauthorized access to sensitive customer data; or involves ransom demands or payments. Regulated entities shall test their CIRPs at least annually through tabletop exercises or simulated incident response exercises."
+    },
+    {
+      "provision_ref": "sec8",
+      "section": "8",
+      "title": "Section 8. Business Continuity and Disaster Recovery",
+      "content": "Regulated entities shall maintain Business Continuity Plans (BCPs) and Disaster Recovery Plans (DRPs) that address the recovery of critical systems and services following a significant cyber incident. Business continuity and disaster recovery requirements include: (a) definition of recovery time objectives (RTO) and recovery point objectives (RPO) for all critical systems; (b) regular backup of critical data, with backups stored securely and tested for recoverability at least quarterly; (c) maintenance of offline or air-gapped backups to protect against ransomware attacks that target backup systems; (d) annual testing of BCPs and DRPs, including full failover exercises where practicable; (e) documentation of the results of BCP and DRP tests and remediation of identified gaps; and (f) regular updating of BCPs and DRPs to reflect changes in the technology environment. Regulated entities shall ensure that their BCPs and DRPs address scenarios including ransomware attacks, extended system outages, and compromise of critical service providers. The BOJ may request evidence of BCP and DRP testing as part of the supervisory examination process."
+    },
+    {
+      "provision_ref": "sec9",
+      "section": "9",
+      "title": "Section 9. Third-Party and Supply Chain Risk",
+      "content": "Regulated entities shall manage cybersecurity risks arising from their relationships with third-party service providers, including cloud providers, payment processors, software vendors, and other technology suppliers. Third-party risk management requirements include: (a) conduct of cybersecurity due diligence before entering into a material third-party relationship, including assessment of the provider's security controls and incident response capabilities; (b) inclusion of cybersecurity requirements in all material contracts with third-party service providers, including requirements for notification of security incidents; (c) ongoing monitoring of the cybersecurity performance of material third parties, including review of security certifications and incident reports; (d) maintenance of an inventory of all material third-party relationships and the data and systems they can access; and (e) development of exit plans for material third-party relationships to ensure continuity of operations in the event of a service provider failure or security incident. Cloud service engagements shall be subject to a Cloud Risk Assessment and shall comply with the BOJ's guidance on outsourcing to cloud service providers."
+    },
+    {
+      "provision_ref": "sec10",
+      "section": "10",
+      "title": "Section 10. Employee Awareness and Training",
+      "content": "Regulated entities shall ensure that all employees, contractors, and other personnel with access to the entity's systems and data receive appropriate cybersecurity awareness training. Training requirements include: (a) mandatory cybersecurity awareness training for all staff upon joining the entity and at least annually thereafter; (b) role-specific training for staff with access to sensitive systems or data, or with responsibilities for cybersecurity governance or operations; (c) regular phishing simulation exercises to assess employee susceptibility to phishing attacks and to reinforce awareness training; (d) training on the entity's specific cybersecurity policies, including acceptable use, incident reporting, and data handling requirements; and (e) specialized training for senior management and Board members on cybersecurity risk governance. Records of training completion shall be maintained and made available to the Bank of Jamaica on request. The effectiveness of cybersecurity training programs shall be assessed at least annually through metrics including phishing simulation results and incident reports attributable to human error."
+    },
+    {
+      "provision_ref": "sec11",
+      "section": "11",
+      "title": "Section 11. Payment System Security",
+      "content": "Regulated entities that participate in payment systems shall implement controls to protect the integrity and security of payment transactions. Payment security requirements include: (a) compliance with the Payment Card Industry Data Security Standard (PCI DSS) for all systems that store, process, or transmit card data; (b) implementation of transaction monitoring systems capable of detecting fraudulent or anomalous transactions in near-real time; (c) controls to verify the authenticity of payment instructions, including dual authorization for high-value transactions and real-time fraud scoring; (d) implementation of SWIFT Customer Security Programme (CSP) requirements for entities using the SWIFT messaging network; (e) controls to detect and respond to account takeover and unauthorized fund transfer attempts; and (f) customer authentication requirements for online banking and mobile banking transactions proportionate to the value and risk of the transaction. Regulated entities shall report significant payment fraud incidents to the Bank of Jamaica and to the Jamaica Bankers Association fraud monitoring unit."
+    },
+    {
+      "provision_ref": "sec12",
+      "section": "12",
+      "title": "Section 12. Virtual Assets and Fintech",
+      "content": "Regulated entities that provide or use virtual asset services, or that engage with fintech companies and innovation services, shall apply appropriate cybersecurity controls commensurate with the risks. Requirements for virtual asset activities include: (a) implementation of cold storage or multi-signature custody arrangements for virtual assets held in custody for customers, with the majority of assets held offline; (b) regular reconciliation of on-chain holdings against off-chain ledger balances; (c) controls on the withdrawal of virtual assets, including multi-factor authentication, time delays, and transaction limits; (d) compliance with the Financial Action Task Force Travel Rule for virtual asset transfers, including transmission of originator and beneficiary information; and (e) implementation of blockchain analytics tools to detect and block transactions involving sanctioned addresses or suspected illicit funds. Fintech partnerships shall be subject to the third-party risk management requirements of this Framework. Regulated entities shall notify the Bank of Jamaica before entering into material fintech or virtual asset service arrangements."
+    },
+    {
+      "provision_ref": "sec13",
+      "section": "13",
+      "title": "Section 13. Supervisory Assessment",
+      "content": "The Bank of Jamaica shall assess the cybersecurity of regulated entities as part of its ongoing supervisory program, using both on-site examinations and off-site monitoring. The supervisory assessment shall cover: (a) the adequacy of governance arrangements for cybersecurity; (b) the comprehensiveness and currency of the entity's cybersecurity risk assessment; (c) the effectiveness of technical controls in place; (d) the maturity of the entity's incident response capability; (e) the effectiveness of employee training and awareness programs; and (f) the management of third-party and supply chain risks. The BOJ may commission independent assessments of the cybersecurity of regulated entities where it has concerns about the adequacy of their controls. Regulated entities shall provide the BOJ with timely and complete information for the purposes of supervisory assessment, including access to systems, personnel, and documentation. The results of cybersecurity assessments shall be shared with the Board of Directors of the regulated entity and shall be used to inform the BOJ's assessment of the entity's overall safety and soundness."
+    },
+    {
+      "provision_ref": "sec14",
+      "section": "14",
+      "title": "Section 14. Threat Intelligence Sharing",
+      "content": "The Bank of Jamaica shall facilitate the sharing of threat intelligence among regulated entities and between regulated entities and relevant government agencies, including CIRT-JM and the Financial Investigations Division. Regulated entities shall: (a) participate in the Jamaica Bankers Association cybersecurity information sharing forum; (b) report significant cyber threats and incidents to the BOJ and to CIRT-JM; (c) cooperate with the BOJ and with other regulated entities in the analysis of systemic cyber threats to the financial sector; and (d) implement indicators of compromise shared by the BOJ or by information sharing forums in a timely manner. The BOJ shall maintain a Financial Sector Cyber Threat Intelligence service providing regulated entities with curated threat intelligence on threats relevant to the Jamaican financial sector. Threat intelligence shared through supervised channels shall be treated as confidential and shall not be disclosed without the consent of the originating entity or the BOJ."
+    },
+    {
+      "provision_ref": "sec15",
+      "section": "15",
+      "title": "Section 15. Regulatory Sanctions",
+      "content": "The Bank of Jamaica may impose the following sanctions on a regulated entity that fails to comply with the requirements of this Framework: (a) issuance of a formal supervisory directive requiring the entity to take specified remedial action within a specified period; (b) imposition of a financial penalty of up to two million dollars per breach or per day of continuing breach; (c) imposition of additional supervisory conditions on the entity's licence; (d) restriction of the entity's business activities pending remediation of cybersecurity deficiencies; (e) suspension of the entity's licence; and (f) in cases of serious and persistent non-compliance, revocation of the entity's licence. In determining the appropriate sanction, the BOJ shall have regard to: the nature and severity of the breach; the harm or risk of harm to customers and the financial system; the entity's compliance history; and any remedial action taken. Sanctions imposed by the BOJ shall be subject to appeal to the Financial Services Commission Review Tribunal. The BOJ shall publish information on material sanctions imposed under this section."
+    }
+  ],
+  "definitions": [
+    {
+      "term": "Chief Information Security Officer",
+      "definition": "The senior officer designated by a regulated entity with primary responsibility for developing, implementing, and overseeing the entity's cybersecurity program.",
+      "source_provision": "sec2"
+    },
+    {
+      "term": "recovery time objective",
+      "definition": "The maximum acceptable period of time that a regulated entity's critical systems or services may be unavailable following a cyber incident or other disruption.",
+      "source_provision": "sec8"
+    },
+    {
+      "term": "significant cyber incident",
+      "definition": "A cyber incident that causes or is likely to cause material disruption to operations, results in unauthorized access to sensitive customer data, or involves ransom demands or payments.",
+      "source_provision": "sec7"
+    }
+  ]
+}

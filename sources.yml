@@ -1,0 +1,25 @@
+schema_version: "1.0"
+mcp_name: "Jamaican Law MCP"
+jurisdiction: "JM"
+
+sources:
+  - name: "Ministry of Justice Jamaica"
+    authority: "Ministry of Justice Jamaica"
+    official_portal: "https://moj.gov.jm"
+    retrieval_method: "HTML_SCRAPE"
+    update_frequency: "weekly"
+    last_ingested: "2026-02-21"
+    license_or_terms:
+      type: "Government Open Data"
+      url: "https://moj.gov.jm"
+      summary: "Official legislative texts are public domain"
+    coverage:
+      scope: "Data protection, cybersecurity, e-commerce, criminal law cyber provisions"
+      limitations: "AI-generated seed data; full official ingestion pending"
+    languages:
+      - "en"
+
+data_freshness:
+  automated_checks: true
+  check_frequency: "weekly"
+  last_verified: "2026-02-21"
