@@ -49,9 +49,8 @@ export async function listSources(
           url: 'https://laws.moj.gov.jm',
           license: 'Government publication (see portal terms/disclaimer)',
           coverage:
-            'Selected Jamaican statutes covering access to information, electronic transactions, ' +
-            'telecommunications, evidence, interception of communications, competition, ' +
-            'money laundering, financial institutions, credit reporting, and payment systems',
+            'Comprehensive Laws of Jamaica corpus including revised statutes, ' +
+            'Acts of Parliament, and revised subsidiary legislation',
           languages: ['en'],
         },
       ],

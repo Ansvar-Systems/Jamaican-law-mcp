@@ -14,8 +14,8 @@ sources:
       url: "https://laws.moj.gov.jm"
       summary: "Official laws portal; online copies are provided for information."
     coverage:
-      scope: "10 Jamaican statutes for privacy, communications, cyber-enabled offences, and financial compliance"
-      limitations: "Some official Acts on the portal are scan-only or non-extractable PDFs and were skipped (documented in data/source/ingestion-report.json)."
+      scope: "Revised statutes, Acts of Parliament, and revised subsidiary legislation from the Laws of Jamaica portal"
+      limitations: "Section-level extraction depends on machine-readable PDF text; scan-only or inaccessible documents are retained as metadata-only entries (documented in data/source/ingestion-report.json)."
     languages:
       - "en"
 

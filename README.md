@@ -23,7 +23,7 @@ npx @ansvar/jamaican-law-mcp
 
 ## Data Sources
 
-Official statutes from the Ministry of Justice Laws of Jamaica portal (`https://laws.moj.gov.jm`), ingested from source PDFs into section-level seed data.
+Comprehensive laws corpus from the Ministry of Justice Laws of Jamaica portal (`https://laws.moj.gov.jm`), including revised statutes, Acts of Parliament, and revised subsidiary legislation, with section-level extraction where machine-readable text is available.
 
 ## License
 

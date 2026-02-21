@@ -50,6 +50,7 @@ export function getAbout(db: InstanceType<typeof Database>, context: AboutContex
       license: 'Government publication (see portal terms/disclaimer)',
       jurisdiction: 'JM',
       languages: ['en'],
+      coverage: 'Revised statutes, Acts of Parliament, and revised subsidiary legislation',
     },
   };
 }
