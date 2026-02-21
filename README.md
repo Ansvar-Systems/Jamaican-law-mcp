@@ -23,7 +23,7 @@ npx @ansvar/jamaican-law-mcp
 
 ## Data Sources
 
-AI-generated seed data covering 10 key cybersecurity and data protection laws. Full official ingestion pending.
+Official statutes from the Ministry of Justice Laws of Jamaica portal (`https://laws.moj.gov.jm`), ingested from source PDFs into section-level seed data.
 
 ## License
 

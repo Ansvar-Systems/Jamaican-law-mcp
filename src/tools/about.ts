@@ -44,11 +44,11 @@ export function getAbout(db: InstanceType<typeof Database>, context: AboutContex
       eu_references: safeCount(db, 'SELECT COUNT(*) as count FROM eu_references'),
     },
     data_source: {
-      name: 'Official Legal Database',
-      authority: 'Government (State Chancellery of Jamaican)',
-      url: 'https://moj.gov.jm',
-      license: 'Creative Commons Attribution 4.0 International (CC BY 4.0)',
-      jurisdiction: 'EE',
+      name: 'Laws of Jamaica',
+      authority: 'Ministry of Justice, Jamaica',
+      url: 'https://laws.moj.gov.jm',
+      license: 'Government publication (see portal terms/disclaimer)',
+      jurisdiction: 'JM',
       languages: ['en'],
     },
   };

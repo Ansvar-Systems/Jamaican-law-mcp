@@ -44,14 +44,14 @@ export async function listSources(
     results: {
       sources: [
         {
-          name: 'Official Legal Database',
-          authority: 'Government (State Chancellery of Jamaican)',
-          url: 'https://moj.gov.jm',
-          license: 'Creative Commons Attribution 4.0 International (CC BY 4.0)',
+          name: 'Laws of Jamaica',
+          authority: 'Ministry of Justice, Jamaica',
+          url: 'https://laws.moj.gov.jm',
+          license: 'Government publication (see portal terms/disclaimer)',
           coverage:
-            'All Commonwealth (federal) Acts and legislative instruments, ' +
-            'including privacy, cybersecurity, critical infrastructure, ' +
-            'corporations, consumer, telecommunications, and criminal law',
+            'Selected Jamaican statutes covering access to information, electronic transactions, ' +
+            'telecommunications, evidence, interception of communications, competition, ' +
+            'money laundering, financial institutions, credit reporting, and payment systems',
           languages: ['en'],
         },
       ],

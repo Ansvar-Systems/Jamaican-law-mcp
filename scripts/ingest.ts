@@ -1,48 +1,59 @@
 #!/usr/bin/env tsx
 /**
- * Jamaican Law MCP -- Ingestion Pipeline
+ * Jamaican Law MCP -- Real-data ingestion pipeline.
  *
- * Fetches Jamaican legislation from the Sejm ELI API (api.sejm.gov.pl).
- * The Sejm (Jamaican Parliament) provides free public access to all legislation
- * published in Dziennik Ustaw (Journal of Laws) via the ELI API.
- *
- * Strategy:
- * 1. For each act, fetch the HTML text from the ELI API endpoint
- * 2. Parse articles (Art.) from the structured HTML
- * 3. Write seed JSON files for the database builder
- *
- * Usage:
- *   npm run ingest                    # Full ingestion
- *   npm run ingest -- --limit 5       # Test with 5 acts
- *   npm run ingest -- --skip-fetch    # Reuse cached pages
- *
- * Data source: api.sejm.gov.pl (Chancellery of the Sejm of the Republic of Poland)
- * License: Jamaican legislation is public domain under Art. 4 of the Copyright Act
+ * Source of record:
+ *   https://laws.moj.gov.jm (Ministry of Justice, Jamaica)
  */
 
 import * as fs from 'fs';
 import * as path from 'path';
 import { fileURLToPath } from 'url';
-import { fetchWithRateLimit } from './lib/fetcher.js';
-import { parseJamaicanHtml, KEY_JAMAICAN_ACTS, type ActIndexEntry, type ParsedAct } from './lib/parser.js';
+import { spawnSync } from 'child_process';
+import { fetchBinary, fetchText } from './lib/fetcher.js';
+import {
+  KEY_JAMAICAN_ACTS,
+  buildParsedAct,
+  getActDownloadUrl,
+  getActPageUrl,
+  parseStatutePageDetails,
+  type ActConfig,
+} from './lib/parser.js';
 
 const __filename = fileURLToPath(import.meta.url);
 const __dirname = path.dirname(__filename);
 
 const SOURCE_DIR = path.resolve(__dirname, '../data/source');
+const PAGE_DIR = path.join(SOURCE_DIR, 'pages');
+const PDF_DIR = path.join(SOURCE_DIR, 'pdf');
+const TEXT_DIR = path.join(SOURCE_DIR, 'text');
 const SEED_DIR = path.resolve(__dirname, '../data/seed');
 
-/** ELI API base URL for the Sejm */
-const ELI_API_BASE = 'https://api.sejm.gov.pl/eli/acts/DU';
+const MIN_TEXT_CHARS = 1500;
 
-function parseArgs(): { limit: number | null; skipFetch: boolean } {
+interface Args {
+  limit: number | null;
+  skipFetch: boolean;
+}
+
+interface PerActResult {
+  id: string;
+  title: string;
+  status: 'ok' | 'skipped' | 'failed';
+  reason?: string;
+  provisions: number;
+  definitions: number;
+  textChars: number;
+}
+
+function parseArgs(): Args {
   const args = process.argv.slice(2);
   let limit: number | null = null;
   let skipFetch = false;
 
   for (let i = 0; i < args.length; i++) {
     if (args[i] === '--limit' && args[i + 1]) {
-      limit = parseInt(args[i + 1], 10);
+      limit = Number.parseInt(args[i + 1], 10);
       i++;
     } else if (args[i] === '--skip-fetch') {
       skipFetch = true;
@@ -52,132 +63,219 @@ function parseArgs(): { limit: number | null; skipFetch: boolean } {
   return { limit, skipFetch };
 }
 
-/**
- * Build the ELI API URL for fetching an act's HTML text.
- * Pattern: https://api.sejm.gov.pl/eli/acts/DU/{YEAR}/{POZ}/text.html
- */
-function buildTextUrl(act: ActIndexEntry): string {
-  return `${ELI_API_BASE}/${act.year}/${act.poz}/text.html`;
+function ensureDirs(): void {
+  for (const dir of [SOURCE_DIR, PAGE_DIR, PDF_DIR, TEXT_DIR, SEED_DIR]) {
+    fs.mkdirSync(dir, { recursive: true });
+  }
 }
 
-async function fetchAndParseActs(acts: ActIndexEntry[], skipFetch: boolean): Promise<void> {
-  console.log(`\nProcessing ${acts.length} Jamaican Acts from api.sejm.gov.pl...\n`);
+function clearSeedDir(): void {
+  if (!fs.existsSync(SEED_DIR)) return;
 
-  fs.mkdirSync(SOURCE_DIR, { recursive: true });
-  fs.mkdirSync(SEED_DIR, { recursive: true });
+  for (const file of fs.readdirSync(SEED_DIR)) {
+    if (!file.endsWith('.json') || file.startsWith('.')) continue;
+    fs.unlinkSync(path.join(SEED_DIR, file));
+  }
+}
 
-  let processed = 0;
-  let skipped = 0;
-  let failed = 0;
+function textCharCount(text: string): number {
+  return text.replace(/\s+/g, '').length;
+}
+
+function runPdfToText(pdfPath: string, textPath: string): { ok: boolean; stderr: string } {
+  const result = spawnSync('pdftotext', ['-layout', pdfPath, textPath], {
+    encoding: 'utf-8',
+  });
+
+  return {
+    ok: result.status === 0,
+    stderr: result.stderr ?? '',
+  };
+}
+
+function buildSeedFileName(index: number, act: ActConfig): string {
+  const prefix = String(index + 1).padStart(2, '0');
+  return `${prefix}-${act.id}.json`;
+}
+
+async function fetchActInputs(act: ActConfig, skipFetch: boolean): Promise<{
+  html: string;
+  text: string;
+  textChars: number;
+  sourceFiles: { page: string; pdf: string; text: string };
+}> {
+  const pageFile = path.join(PAGE_DIR, `${act.id}.html`);
+  const pdfFile = path.join(PDF_DIR, `${act.id}.pdf`);
+  const textFile = path.join(TEXT_DIR, `${act.id}.txt`);
+
+  let html: string;
+  if (skipFetch && fs.existsSync(pageFile)) {
+    html = fs.readFileSync(pageFile, 'utf-8');
+  } else {
+    const pageResult = await fetchText(getActPageUrl(act));
+    if (pageResult.status !== 200) {
+      throw new Error(`HTTP ${pageResult.status} fetching statute page`);
+    }
+    html = pageResult.body;
+    fs.writeFileSync(pageFile, html);
+  }
+
+  if (!(skipFetch && fs.existsSync(pdfFile))) {
+    const pdfResult = await fetchBinary(getActDownloadUrl(act));
+    if (pdfResult.status !== 200) {
+      throw new Error(`HTTP ${pdfResult.status} downloading PDF`);
+    }
+
+    fs.writeFileSync(pdfFile, pdfResult.body);
+  }
+
+  if (!(skipFetch && fs.existsSync(textFile))) {
+    const pdfToText = runPdfToText(pdfFile, textFile);
+    if (!pdfToText.ok) {
+      throw new Error(`pdftotext failed: ${pdfToText.stderr.trim() || 'unknown error'}`);
+    }
+  }
+
+  const text = fs.readFileSync(textFile, 'utf-8');
+  const chars = textCharCount(text);
+
+  return {
+    html,
+    text,
+    textChars: chars,
+    sourceFiles: {
+      page: pageFile,
+      pdf: pdfFile,
+      text: textFile,
+    },
+  };
+}
+
+async function ingestActs(acts: ActConfig[], skipFetch: boolean): Promise<void> {
+  ensureDirs();
+  clearSeedDir();
+
+  const results: PerActResult[] = [];
   let totalProvisions = 0;
   let totalDefinitions = 0;
-  const results: { act: string; provisions: number; definitions: number; status: string }[] = [];
 
-  for (const act of acts) {
-    const sourceFile = path.join(SOURCE_DIR, `${act.id}.html`);
-    const seedFile = path.join(SEED_DIR, `${act.id}.json`);
+  for (let i = 0; i < acts.length; i++) {
+    const act = acts[i];
+    const seedFile = path.join(SEED_DIR, buildSeedFileName(i, act));
 
-    // Skip if seed already exists and we're in skip-fetch mode
-    if (skipFetch && fs.existsSync(seedFile)) {
-      const existing = JSON.parse(fs.readFileSync(seedFile, 'utf-8')) as ParsedAct;
-      const provCount = existing.provisions?.length ?? 0;
-      const defCount = existing.definitions?.length ?? 0;
-      totalProvisions += provCount;
-      totalDefinitions += defCount;
-      results.push({ act: act.shortName, provisions: provCount, definitions: defCount, status: 'cached' });
-      skipped++;
-      processed++;
-      continue;
-    }
+    process.stdout.write(`Processing ${act.shortName}... `);
 
     try {
-      let html: string;
+      const { html, text, textChars } = await fetchActInputs(act, skipFetch);
 
-      if (fs.existsSync(sourceFile) && skipFetch) {
-        html = fs.readFileSync(sourceFile, 'utf-8');
-        console.log(`  Using cached ${act.shortName} (${act.dziennikRef}) (${(html.length / 1024).toFixed(0)} KB)`);
-      } else {
-        const textUrl = buildTextUrl(act);
-        process.stdout.write(`  Fetching ${act.shortName} (${act.dziennikRef})...`);
-        const result = await fetchWithRateLimit(textUrl);
-
-        if (result.status !== 200) {
-          console.log(` HTTP ${result.status}`);
-          results.push({ act: act.shortName, provisions: 0, definitions: 0, status: `HTTP ${result.status}` });
-          failed++;
-          processed++;
-          continue;
-        }
-
-        html = result.body;
-
-        // Validate that we got real legislation content, not a bot challenge
-        if (html.includes('window["bobcmn"]') || !html.includes('unit_arti')) {
-          console.log(` BLOCKED (bot challenge or no article content)`);
-          results.push({ act: act.shortName, provisions: 0, definitions: 0, status: 'BLOCKED' });
-          failed++;
-          processed++;
-          continue;
-        }
-
-        fs.writeFileSync(sourceFile, html);
-        console.log(` OK (${(html.length / 1024).toFixed(0)} KB)`);
+      if (textChars < MIN_TEXT_CHARS) {
+        console.log('SKIPPED (scan-only PDF or no extractable text)');
+        results.push({
+          id: act.id,
+          title: act.title,
+          status: 'skipped',
+          reason: `Extracted text too small (${textChars} chars)`,
+          provisions: 0,
+          definitions: 0,
+          textChars,
+        });
+        continue;
       }
 
-      const parsed = parseJamaicanHtml(html, act);
+      const pageDetails = parseStatutePageDetails(html, act.title);
+      const parsed = buildParsedAct(act, pageDetails, text);
+
+      if (parsed.provisions.length < 3) {
+        console.log(`SKIPPED (insufficient provisions: ${parsed.provisions.length})`);
+        results.push({
+          id: act.id,
+          title: act.title,
+          status: 'skipped',
+          reason: `Insufficient parsed provisions (${parsed.provisions.length})`,
+          provisions: parsed.provisions.length,
+          definitions: parsed.definitions.length,
+          textChars,
+        });
+        continue;
+      }
+
       fs.writeFileSync(seedFile, JSON.stringify(parsed, null, 2));
+
       totalProvisions += parsed.provisions.length;
       totalDefinitions += parsed.definitions.length;
-      console.log(`    -> ${parsed.provisions.length} provisions, ${parsed.definitions.length} definitions extracted`);
+
+      console.log(`OK (${parsed.provisions.length} provisions, ${parsed.definitions.length} definitions)`);
       results.push({
-        act: act.shortName,
+        id: act.id,
+        title: parsed.title,
+        status: 'ok',
         provisions: parsed.provisions.length,
         definitions: parsed.definitions.length,
-        status: 'OK',
+        textChars,
       });
     } catch (error) {
-      const msg = error instanceof Error ? error.message : String(error);
-      console.log(`  ERROR ${act.shortName}: ${msg}`);
-      results.push({ act: act.shortName, provisions: 0, definitions: 0, status: `ERROR: ${msg.substring(0, 80)}` });
-      failed++;
+      const message = error instanceof Error ? error.message : String(error);
+      console.log(`FAILED (${message})`);
+      results.push({
+        id: act.id,
+        title: act.title,
+        status: 'failed',
+        reason: message,
+        provisions: 0,
+        definitions: 0,
+        textChars: 0,
+      });
     }
-
-    processed++;
   }
 
-  console.log(`\n${'='.repeat(72)}`);
-  console.log('Ingestion Report');
-  console.log('='.repeat(72));
-  console.log(`\n  Source:       api.sejm.gov.pl (Sejm ELI API)`);
-  console.log(`  License:     Public domain (Art. 4 Jamaican Copyright Act)`);
-  console.log(`  Processed:   ${processed}`);
-  console.log(`  Cached:      ${skipped}`);
-  console.log(`  Failed:      ${failed}`);
-  console.log(`  Total provisions:  ${totalProvisions}`);
-  console.log(`  Total definitions: ${totalDefinitions}`);
-  console.log(`\n  Per-Act breakdown:`);
-  console.log(`  ${'Act'.padEnd(20)} ${'Provisions'.padStart(12)} ${'Definitions'.padStart(13)} ${'Status'.padStart(10)}`);
-  console.log(`  ${'-'.repeat(20)} ${'-'.repeat(12)} ${'-'.repeat(13)} ${'-'.repeat(10)}`);
-  for (const r of results) {
-    console.log(`  ${r.act.padEnd(20)} ${String(r.provisions).padStart(12)} ${String(r.definitions).padStart(13)} ${r.status.padStart(10)}`);
+  console.log(`\n${'='.repeat(80)}`);
+  console.log('Ingestion Report (Laws of Jamaica)');
+  console.log('='.repeat(80));
+  console.log(`Acts requested:      ${acts.length}`);
+  console.log(`Seed JSONs written:  ${results.filter(r => r.status === 'ok').length}`);
+  console.log(`Skipped acts:        ${results.filter(r => r.status === 'skipped').length}`);
+  console.log(`Failed acts:         ${results.filter(r => r.status === 'failed').length}`);
+  console.log(`Total provisions:    ${totalProvisions}`);
+  console.log(`Total definitions:   ${totalDefinitions}`);
+
+  console.log('\nPer-act status:');
+  for (const row of results) {
+    const status = row.status.toUpperCase().padEnd(7);
+    const stats = row.status === 'ok'
+      ? `${String(row.provisions).padStart(4)} provisions`
+      : row.reason ?? '';
+    console.log(`  ${status} ${row.id.padEnd(34)} ${stats}`);
   }
-  console.log('');
+
+  const report = {
+    generated_at: new Date().toISOString(),
+    source: 'https://laws.moj.gov.jm',
+    requested: acts.length,
+    written: results.filter(r => r.status === 'ok').length,
+    skipped: results.filter(r => r.status === 'skipped'),
+    failed: results.filter(r => r.status === 'failed'),
+    totals: {
+      provisions: totalProvisions,
+      definitions: totalDefinitions,
+    },
+  };
+
+  fs.writeFileSync(path.join(SOURCE_DIR, 'ingestion-report.json'), JSON.stringify(report, null, 2));
 }
 
 async function main(): Promise<void> {
   const { limit, skipFetch } = parseArgs();
 
-  console.log('Jamaican Law MCP -- Ingestion Pipeline');
-  console.log('====================================\n');
-  console.log(`  Source: api.sejm.gov.pl (Chancellery of the Sejm)`);
-  console.log(`  Format: ELI HTML (structured legislation text)`);
-  console.log(`  License: Public domain (Art. 4 Jamaican Copyright Act)`);
+  console.log('Jamaican Law MCP -- Real Data Ingestion');
+  console.log('========================================\n');
+  console.log('Source: https://laws.moj.gov.jm');
+  console.log('Rate limit: 1.2s/request');
 
-  if (limit) console.log(`  --limit ${limit}`);
-  if (skipFetch) console.log(`  --skip-fetch`);
+  if (limit) console.log(`Limit: ${limit}`);
+  if (skipFetch) console.log('Mode: --skip-fetch (reuse downloaded source files)');
 
   const acts = limit ? KEY_JAMAICAN_ACTS.slice(0, limit) : KEY_JAMAICAN_ACTS;
-  await fetchAndParseActs(acts, skipFetch);
+  await ingestActs(acts, skipFetch);
 }
 
 main().catch(error => {

@@ -27,9 +27,9 @@ describe('Database integrity', () => {
     expect(row.cnt).toBe(10);
   });
 
-  it('should have at least 148 provisions', () => {
+  it('should have at least 200 provisions', () => {
     const row = db.prepare('SELECT COUNT(*) as cnt FROM legal_provisions').get() as { cnt: number };
-    expect(row.cnt).toBeGreaterThanOrEqual(148);
+    expect(row.cnt).toBeGreaterThanOrEqual(200);
   });
 
   it('should have FTS index', () => {
@@ -53,7 +53,7 @@ describe('Article retrieval', () => {
 describe('Search', () => {
   it('should find results via FTS search', () => {
     const rows = db.prepare(
-      "SELECT COUNT(*) as cnt FROM provisions_fts WHERE provisions_fts MATCH 'Jamaica'"
+      "SELECT COUNT(*) as cnt FROM provisions_fts WHERE provisions_fts MATCH 'telecommunications'"
     ).get() as { cnt: number };
     expect(rows.cnt).toBeGreaterThan(0);
   });
@@ -78,15 +78,16 @@ describe('Negative tests', () => {
 describe('All 10 laws are present', () => {
   const expectedDocs = [
     'jm-atia',
-    'jm-boj-cyber',
-    'jm-cybercrimes',
-    'jm-dpa',
-    'jm-ee',
-    'jm-eta',
-    'jm-ncss',
-    'jm-poca',
-    'jm-tca',
-    'jm-trade-secrets',  ];
+    'jm-telecommunications',
+    'jm-electronic-transactions',
+    'jm-evidence',
+    'jm-interception-communications',
+    'jm-fair-competition',
+    'jm-money-laundering',
+    'jm-financial-institutions',
+    'jm-credit-reporting',
+    'jm-payment-clearing-settlement',
+  ];
 
   for (const docId of expectedDocs) {
     it(`should contain document: ${docId}`, () => {

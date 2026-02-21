@@ -2,7 +2,7 @@
 /**
  * Drift detection for Jamaican Law MCP.
  *
- * Checks if upstream www.riigiteataja.ee content has changed since last ingestion.
+ * Checks if upstream statute sources have changed since last ingestion.
  * Uses the golden-hashes.json fixture to verify content integrity.
  */
 

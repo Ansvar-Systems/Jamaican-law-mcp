@@ -3,23 +3,23 @@ mcp_name: "Jamaican Law MCP"
 jurisdiction: "JM"
 
 sources:
-  - name: "Ministry of Justice Jamaica"
-    authority: "Ministry of Justice Jamaica"
-    official_portal: "https://moj.gov.jm"
-    retrieval_method: "HTML_SCRAPE"
-    update_frequency: "weekly"
+  - name: "Laws of Jamaica"
+    authority: "Ministry of Justice, Jamaica"
+    official_portal: "https://laws.moj.gov.jm"
+    retrieval_method: "PDF_DOWNLOAD + PDFTOTEXT"
+    update_frequency: "monthly"
     last_ingested: "2026-02-21"
     license_or_terms:
-      type: "Government Open Data"
-      url: "https://moj.gov.jm"
-      summary: "Official legislative texts are public domain"
+      type: "Government Publication (informational use)"
+      url: "https://laws.moj.gov.jm"
+      summary: "Official laws portal; online copies are provided for information."
     coverage:
-      scope: "Data protection, cybersecurity, e-commerce, criminal law cyber provisions"
-      limitations: "AI-generated seed data; full official ingestion pending"
+      scope: "10 Jamaican statutes for privacy, communications, cyber-enabled offences, and financial compliance"
+      limitations: "Some official Acts on the portal are scan-only or non-extractable PDFs and were skipped (documented in data/source/ingestion-report.json)."
     languages:
       - "en"
 
 data_freshness:
-  automated_checks: true
-  check_frequency: "weekly"
+  automated_checks: false
+  check_frequency: "monthly"
   last_verified: "2026-02-21"

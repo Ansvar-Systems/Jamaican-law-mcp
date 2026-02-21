@@ -30,12 +30,12 @@ export function generateResponseMetadata(
   }
 
   return {
-    data_source: 'Official Legal Database (moj.gov.jm) — Government (State Chancellery of Jamaican)',
-    jurisdiction: 'EE',
+    data_source: 'Laws of Jamaica (laws.moj.gov.jm) — Ministry of Justice, Jamaica',
+    jurisdiction: 'JM',
     disclaimer:
-      'This data is sourced from the Official Legal Database under public domain. ' +
-      'The authoritative versions are maintained by Government (State Chancellery of Jamaican). ' +
-      'Always verify with the official Official Legal Database portal (moj.gov.jm).',
+      'This data is sourced from the Ministry of Justice Laws of Jamaica portal. ' +
+      'Per the portal disclaimer, online versions are for information and printed official versions prevail. ' +
+      'Always verify with the official portal (laws.moj.gov.jm).',
     freshness,
   };
 }
