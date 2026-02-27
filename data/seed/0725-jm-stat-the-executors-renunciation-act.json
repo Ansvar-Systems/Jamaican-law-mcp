@@ -7,6 +7,19 @@
   "status": "in_force",
   "url": "https://laws.moj.gov.jm/library/statute/the-executors-renunciation-act",
   "description": "Category: statute | Source: https://laws.moj.gov.jm/library/statute/the-executors-renunciation-act | Legal areas: Trusts and Estates",
-  "provisions": [],
+  "provisions": [
+    {
+      "provision_ref": "sec2",
+      "section": "2",
+      "title": "Section 2",
+      "content": "2. Any person named and appointed an executor or Executor\n                                                             ereciiting\nexecutrix who shall not have in any way acted or interfered deed  of\nwith the estate of his or her testator or testatrix, and\nwho shall at any time execute and record in the Record\nOffice, a deed of renunciation and disclaimer of such office\nand appointment of executor or executrix, shall,\nimmediately on the record of the said deed of renunciation,\nbe absolutely relieved and discharged of the said trust;\nand shall not be joined as a plaintiff or a defendant in any\naction, suit, or proceeding in any court of this Island."
+    },
+    {
+      "provision_ref": "sec3",
+      "section": "3",
+      "title": "Section 3",
+      "content": "3. Every person who shall execute and record in the Effectof\noffice aforesaid such deed of renunciation and disclaimer d a d .\nof such office and appointment of executor or executrix\nshall be deemed and taken to have for ever abandoned and\nsurrendered all right, title, interest, and claim to the\noffice and appointment of executor or executrix under the\nwill of the person by whom he or she was so named and\nappointed an executor or executrix, and shall not at any\ntime thereafter be entitled to claim or have granted to\nhim or her probate of the will of his or her testator\nor testatrix."
+    }
+  ],
   "definitions": []
 }

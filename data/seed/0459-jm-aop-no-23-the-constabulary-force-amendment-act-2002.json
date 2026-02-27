@@ -7,6 +7,19 @@
   "status": "in_force",
   "url": "https://laws.moj.gov.jm/library/act-of-parliament/no-23-the-constabulary-force-amendment-act-2002",
   "description": "Category: act_of_parliament | Source: https://laws.moj.gov.jm/library/act-of-parliament/no-23-the-constabulary-force-amendment-act-2002 | Year: 2002",
-  "provisions": [],
+  "provisions": [
+    {
+      "provision_ref": "sec1",
+      "section": "1",
+      "title": "Section 1",
+      "content": "1. This Act may be cited as the Constabulary Force Short title\n   (Amendment) Act, 2002, and shall be read and construed ±\".S\"\n   as one with the Constabulary Force Act (hereinafter referred\n   to as the principal Act) and all amendments thereto."
+    },
+    {
+      "provision_ref": "sec2",
+      "section": "2",
+      "title": "Section 2",
+      "content": "2. Section 56 of the principal Act is amended-                 .Amendment\n                                                                    of section\n          (a) in subsection )(a)-                                   .3\n                                                                     %\n                  (i) by inserting in sub-paragraph (i) immediately\n                     before the word on\" the words \"subject\n                     to sub-paragraph (iii),\";\n         2              [No. 23]       The Constabulary Force (Amendment) Act, 2002\n                                        (ii) by deleting the word \"or\" at the end\n                                             sub-paragraph (ii) and by inserting ne»\n                                              thereafter the following as sub-paragra,\n                                              (iii)\n                                                    (iii) at his option, after completing\n                                                          not less than thirty years of\n                                                          service; or\";\n                            (b) by renumbering subsection (4) as subsection (5);\n                            (c) by inserting immediately after subsection (3), the:\n                                following-                                        ,\n                                                                                  I\n                                     \" (4) Notwithstanding the provisions of sub-\n                                     section (1) (a) (iii) and of section 57, the\n                                     normal retiring age of any Constable shall\n                                    be sixty years.\".\nPRINTED BY JAMAICA PRINTING SERVICES (1992) LTD., (GOVERNMENT PRINTERS), DUKE ST., KGN., JAMAICA."
+    }
+  ],
   "definitions": []
 }

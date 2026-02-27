@@ -7,6 +7,37 @@
   "status": "in_force",
   "url": "https://laws.moj.gov.jm/library/subsidiary-legislation/the-unlawful-possession-of-property-act",
   "description": "Category: subsidiary_legislation | Source: https://laws.moj.gov.jm/library/subsidiary-legislation/the-unlawful-possession-of-property-act",
-  "provisions": [],
-  "definitions": []
+  "provisions": [
+    {
+      "provision_ref": "sec1",
+      "section": "1",
+      "title": "Section 1",
+      "content": "1. These Regulations may be cited as the Authorized Persons (Rates\nof Pay) Regulations, 1954."
+    },
+    {
+      "provision_ref": "sec2",
+      "section": "2",
+      "title": "Section 2",
+      "content": "2. In these Regulations-\n       \"day\" means the period between twelve o'clock midnight of one\n           day and twelve o'clock midnight of the next succeeding day;\n       \"duty\" includes the attendance at any court for the purpose of\n           giving evidence on behalf of the prosecution in connection\n            with any offence against the Act."
+    },
+    {
+      "provision_ref": "sec3",
+      "section": "3",
+      "title": "Section 3",
+      "content": "3. Every authorized person shall be remunerated in respect of the\nperformance of any duty under the Act at the rate of eighty cents for\neach day upon which he performs any such duty."
+    },
+    {
+      "provision_ref": "sec4",
+      "section": "4",
+      "title": "Section 4",
+      "content": "4. Every authorized person attending any court within his own parish\nshall receive a travelling allowance of two cents per mile one way\nexcept when provided with transport at Government expense.\n-\n                F h e inclusion of this page is authorized by L.N. 4119761"
+    }
+  ],
+  "definitions": [
+    {
+      "term": "day",
+      "definition": "the period between twelve o'clock midnight of one",
+      "source_provision": "sec2"
+    }
+  ]
 }

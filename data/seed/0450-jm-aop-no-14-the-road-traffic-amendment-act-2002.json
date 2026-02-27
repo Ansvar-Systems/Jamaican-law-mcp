@@ -7,6 +7,13 @@
   "status": "in_force",
   "url": "https://laws.moj.gov.jm/library/act-of-parliament/no-14-the-road-traffic-amendment-act-2002",
   "description": "Category: act_of_parliament | Source: https://laws.moj.gov.jm/library/act-of-parliament/no-14-the-road-traffic-amendment-act-2002 | Year: 2002",
-  "provisions": [],
+  "provisions": [
+    {
+      "provision_ref": "sec1",
+      "section": "1",
+      "title": "Section 1",
+      "content": "1. This Act may be cited as the Road Traffic (Amend- Short title,\nment) Act, 2002 and shall be read and construed as \"\"\"\";\none with the Road Traffic Act (hereinafter referred to as commence-\nthe principal Act) and all amendments thereto, and shall come mcnt.\ninto operation on a date to be appointed by the Minister\nby notice published in the Gazette.\n2               [No. 14]         The Road Traffic (Amendment) Act, 2002\nAmendment         2. Subsection (1) of section 4 of the principal Act is\nof section\n4 of prin-      amended by inserting immediately after the words \"these\ncipal Aot.\n                Authorities\" the words \"or to such private entity or person\n                as the Island Traffic Authority may from time to time\n                designate\".\n    PRINTED BY JAMAICA PRINTING SERVICES (1992) LTD., (GOVERNMENT PRINTERS), DUKE ST., KGN., JAMAICA."
+    }
+  ],
   "definitions": []
 }

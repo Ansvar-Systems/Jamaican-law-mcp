@@ -7,6 +7,43 @@
   "status": "in_force",
   "url": "https://laws.moj.gov.jm/library/statute/the-public-utillities-protection-act",
   "description": "Category: statute | Source: https://laws.moj.gov.jm/library/statute/the-public-utillities-protection-act | Legal areas: Constitution",
-  "provisions": [],
+  "provisions": [
+    {
+      "provision_ref": "sec2",
+      "section": "2",
+      "title": "Section 2",
+      "content": "2. In this Act-                                                    Interpreta-\n                                                                     tion.\n     “public utility” includes any electric light, telephone,\n         telegraph, water, sewerage, cable or wireless ser-\n         vice, system or undertaking and any other service\n         system, or undertaking which the Minister may\n         from time to time declare to be a public utility for\n         the purposes of this Act;\n     “works” includes such cable, wire, line conduit, meter,\n         pole, pipe, main, premises, plant, machinery, ap-\n         paratus, dam, reservoir, tank, equipment, matter\n         or thing as are erected or used by a public utility\n         for or in connection with its operations."
+    },
+    {
+      "provision_ref": "sec3",
+      "section": "3",
+      "title": "Section 3",
+      "content": "3.-(1) Subject to the provisions of this section, any per- tmpau\n                                                              Offence to\n                                                                        on\nson who, as respects any public utility-                      or interfere.\n                                                              etc., with\n     (a) trespasses upon the works or any part thereof; or works.\n     (b) unless acting pursuant to the express authority of\n          the licensee or owner of the public utility or pur-\n          suant to a licence duly issued to him in relation\n          to such works under any law for the time being\n          in force, meddles, interferes or tampers with the\n          works or any part thereof,\ncommits an offence under this Act.\n       (2) Without prejudice to any liability under contract,\nsubsection (1) shall not apply in respect of a consumer in\n         F   e inclusion of this me is authorized by L.N. 25119851\n4                            PUBLIC UTILITIES PROTECTION\n              relation to works which are located on his premises and\n              which, having regard to a contract relating to such premises\n              between the consumer, in his capacity as such, and the\n              public utility, are intended to be used or dealt with by the\n              consumer in the ordinary course of his enjoyment of the\n              service provided under that contract, unless in relation to\n              such works located as aforesaid any act is done which-\n                    (a) is expressly forbidden by the consumer’s contract\n                         with the public utility or is inconsistent with the\n                         terms of such contract; and\n                    (b) is detrimental to the safety or efficient operation of\n                         the works.\n                    (3) It shall be a defence to a charge against a con-\n              sumer pursuant to subsection (2) for him to prove that\n              there were reasonable grounds on which he assumed that\n              the act constituting the alleged offence would not be de-\n              trimental to the safety or efficient operation of the works.\n                     (4) In this section “consumer” means any person\n              who holds a contract with a public utility for the supply\n              of services by that utility.\nMeddling,"
+    },
+    {
+      "provision_ref": "sec4",
+      "section": "4",
+      "title": "Section 4",
+      "content": "4. Any constable may seize and detain any apparatus or apparatus.\n                                                          Seizure of\ncontrivance that was used in connection with the commis-\nsion of an offence under section 3 or 4.\n         [The inclusion of this page is autholjzed by L.N. 25/1985]\n6                             PUBLIC UTILlTiES PROTECTION\nPenalty.          8 . 4 1 ) A person convicted of an offence under this Act\n               is liable on summary conviction by a Resident Magistrate’s\n               Court to a fine not exceeding ten thousand dollars or to im-\n               prisonment for a term not exceeding twelve months or to\n               both such fine and imprisonment,\n                       (2) In addition to any punishment imposed pursuant\n               to subsection (I), the Court may order the forfeiture of any\n               apparatus or contrivance, not being the property of the pub-\n               lic utility, that was used in connection with the commission\n               of any offence under section 3 or 4.\n                       (3) If, on the application of any person prejudiced\n               by an order made by the Court under subsection (2), the\n               Court is satisfied that it is just to revoke such order, the\n               Court may, on such terms and conditions, if any, as it thinks\n               fit, revoke the order.\n                       (4) An application to the Court under subsection\n               (3) for the revocation of an order shall be made within three\n               months from the date of the order; but where the applicant\n               satisfies the Court that in the special circumstances of the\n               case such application could not practicably be made within\n               such three months aforesaid, the time (whether expired or\n               not) for making that application may be extended by the\n               Court as it thinks just.\nConsent of       9. A prosecution for an offence under section.5 or 6 shall\nD W o r of     not be instituted except by or with the consent of the Di-\nPublic Pro-\nsecutions.     rector of Public Prosecutions.\nRegulations.     10. The Minister may make regulations generally for the\n               better carrying out of the obiects and purposes of this Act."
+    },
+    {
+      "provision_ref": "sec5",
+      "section": "5",
+      "title": "Section 5",
+      "content": "5. Any director, officer or employee of a public utility Offence to\n                                                              solicit\nor any person purporting to act on his own behalf or on inducement.\naccount of such director, officer or employee, who solicits,\nreceives or agrees to receive for himself or any other person\nmoney or money’s worth or any advantage from another\nperson-\n     (a) as an inducement to show preference or to have\n         preference shown, as the case may be, to any per-\n          son in the provision of services by a public uti-\n         lity, by the doing or forbearing to do of anything\n         in respect of any transaction, actual or proposed,\n         relating to such services; or\n     (6) as a reward for showing preference or, as the case\n         may be, having preference shown, as mentioned\n         in paragraph (a),\ncommits an offence under this Act."
+    },
+    {
+      "provision_ref": "sec6",
+      "section": "6",
+      "title": "Section 6",
+      "content": "6. Any person who gives, promises or offers money or offer     Offence to\n                                                                      hduce-\nmoney’s worth or any advantage to a director, officer or ment.\nemployee of a public utility or to any person purporting\nto act on his own behalf or on account of such director,\nofficer or employee-\n     (a) as an inducement to show preference or to have\n           preference shown, as the case may ‘be,to any per-\n           son in the provision of services by a pubilc utility,\n           by the doing or forbearing to do anything in re-\n           spect of any transaction, real or proposed, relating\n           to such services; or\n     ( b ) as a reward for showing preference or, as the case\n           may be, having preference shown, as mentioned\n           in paragraph (a),\ncoiiimits an offence under this Act."
+    },
+    {
+      "provision_ref": "sec10",
+      "section": "10",
+      "title": "Section 10",
+      "content": "10. Regulations.\n                PUBLIC UTILITIES PROTECTION                                        3\n      THE PUBLIC UTILITIES PROTECTION ACT\n                                            114th November, 1984.1           A&\n                                                                      19 of 1984"
+    }
+  ],
   "definitions": []
 }

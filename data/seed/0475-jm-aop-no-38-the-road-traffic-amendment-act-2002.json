@@ -7,6 +7,19 @@
   "status": "in_force",
   "url": "https://laws.moj.gov.jm/library/act-of-parliament/no-38-the-road-traffic-amendment-act-2002",
   "description": "Category: act_of_parliament | Source: https://laws.moj.gov.jm/library/act-of-parliament/no-38-the-road-traffic-amendment-act-2002 | Year: 2002",
-  "provisions": [],
+  "provisions": [
+    {
+      "provision_ref": "sec1",
+      "section": "1",
+      "title": "Section 1",
+      "content": "1. This Act may be cited as the Road Traffic (Amendment) Short title\n (No. 2) Act, 2002 and shall be read and construed as one with the 5,,,,c».\n Road Traffic Act (hereinafter referred to as the principal Act) and\n  all amendments thereto.                                              Amendment\n                                                                       of section I 5"
+    },
+    {
+      "provision_ref": "sec2",
+      "section": "2",
+      "title": "Section 2",
+      "content": "2. Section 15 of the principal Act is amended-\n         (a) in the marginal note, by inserting next after the word ?'P\"\"\n              «pand\" where it last appears the words \"and the Road\n              Maintenance Fund\";\n  2              [No. 38]           The Road Traffic (Amendment) Act, 2002\n                        (b) by deleting from subsection (I) the words \"subsection\n                               (2)\" and substituting therefor the words \"subsections\n                               (2) and (3)\"; and\n                        (c) by inserting next after subsection (2) the following as\n                            subsection (3)\n                           \"    (3) An amount equivalent to 33¥ per cent of licence\n                duties on motor vehicles shall be paid into or accrue to the Road\n                Maintenance Fund established under the Road Maintenance Fund\n                Act.\".\nPRINTED BY JAMAICA PRINTING SERVICES (1992) LTD., (GOVERNMENT PRINTERS), DUKE STREET, KINGSTON, JAMAICA."
+    }
+  ],
   "definitions": []
 }

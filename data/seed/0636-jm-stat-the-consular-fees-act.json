@@ -7,6 +7,30 @@
   "status": "in_force",
   "url": "https://laws.moj.gov.jm/library/statute/the-consular-fees-act",
   "description": "Category: statute | Source: https://laws.moj.gov.jm/library/statute/the-consular-fees-act | Legal areas: Citizenship and Nationality",
-  "provisions": [],
-  "definitions": []
+  "provisions": [
+    {
+      "provision_ref": "sec2",
+      "section": "2",
+      "title": "Section 2",
+      "content": "2. In this Act-                                           Interpteta-\n                                                            tion.\n     \"Minister\" means the Minister responsible for external\n         affairs;\n     \"consular officer\" means a consul-general, consul,\n         vice-consul or consular agent appointed to repre-\n         sent Jamaica and holding a valid exequatur or\n         other authorization to perform consular functions."
+    },
+    {
+      "provision_ref": "sec3",
+      "section": "3",
+      "title": "Section 3",
+      "content": "3.-(1) It shall be lawful for the Minister, by order to power t,\nfix the fees to be taken in respect of any matter or thing\ndone by a consular officer in the execution of his ofice,\nand vary such fees by way of increase or decrease, and to\nabolish fees, and to create new fees.\n       (2) Every such order shall set out in the Schedule\nthereto the duties for which a consular officer shall charge\na fee.\n       (3) Every order made under this section shall be\nsubject to negative resolution of the House of Represen-\ntatives.\n       (4) A consular officer shall not, save as may be pro-\nvided by any order made under this Act, ask for or take\nany fee or reward for or on account of any act, thing, or\nservice done, performed, or rendered by him i n the\nexecution of his office.\n2                                    CONSULAR FEES\nTable of       4. Every consular officer shall cause to be exhibited in\nfees to be\nexhibited.   a C O ~ S P ~ C U O U Splace in his consular office a copy of the\n             table of fees to be taken under any order made under this\n             Act, and shall permit the same to be inspected by any\n             person interested therein.\nPaymentof      5. All fees levied under this Act shall be public moneys\nfees into\n    Con-     and shall be paid into the Consolidated Fund.\nsolidated\nFund."
+    }
+  ],
+  "definitions": [
+    {
+      "term": "Minister",
+      "definition": "the Minister responsible for external",
+      "source_provision": "sec2"
+    },
+    {
+      "term": "consular officer",
+      "definition": "a consul-general, consul,",
+      "source_provision": "sec2"
+    }
+  ]
 }

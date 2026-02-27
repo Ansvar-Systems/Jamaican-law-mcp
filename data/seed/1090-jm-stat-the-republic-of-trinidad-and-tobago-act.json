@@ -7,6 +7,25 @@
   "status": "in_force",
   "url": "https://laws.moj.gov.jm/library/statute/the-republic-of-trinidad-and-tobago-act",
   "description": "Category: statute | Source: https://laws.moj.gov.jm/library/statute/the-republic-of-trinidad-and-tobago-act | Legal areas: Citizenship and Nationality",
-  "provisions": [],
+  "provisions": [
+    {
+      "provision_ref": "sec1",
+      "section": "1",
+      "title": "Section 1",
+      "content": "1. This Act may be cited as the Republic of Trlnidad Shorttitle.\nand Tobago Act."
+    },
+    {
+      "provision_ref": "sec2",
+      "section": "2",
+      "title": "Section 2",
+      "content": "2. In this Act-                                                       Interpreta-\n                                                                        tion.\n     “commencement of this Act” means the 1st day of\n         August, 1976.\n     “existing law” means all law which, whether being a\n          rule of law or a provision of an Act of Parliament\n          or of any other enactment or instrument whatso-\n         ever, is in force on the date of commencement of\n         this Act or has been passed or made before that\n         date and comes into force thereafter;\n     “Minister” means the Minister for the time being\n         responsible for foreign affairs;\n     “Parliament” means the Parliament of Jamaica."
+    },
+    {
+      "provision_ref": "sec3",
+      "section": "3",
+      "title": "Section 3",
+      "content": "3.-(1) On and after the commencement of this Act, all Operation\nexisting law shall, unless and until provision to the contrary ~ ~ ~ . x i s t i n n\nis made by Parliament or some other authority having power\nin that behalf, and subject to subsection (2), have the\nsame operation in relation to the Republic of Trinidad and\nTobago, and persons and things belonging to or connected\nwith the Republic of Trinidad and Tobago, as it would\nhave apart from this subsection if Trinidad and Tobago\nhad not become a republic.\n         (2) The Minister may, by order, make such adapta-\ntions in any enactment passed before or after the commence-\nment of this Act, or in any instrument having effect under\nany such enactment, as appear to him necessary or ex-\n         frhe inclusion of this page is authorized by LN. 57/1981]\n2             REPUBLIC OF TRINIDAD AND TOBAGO\n    pedient in consequence of Trinidad and Tobago having\n    become a republic, and any such order may, though made\n    after the commencement of this Act, be made so as to\n    have effect from the date of such commencement.\n          (3) Every order made under subsection (2) shall be\n    subject to negative resolution.\n           u h e inclusion of this page is authorized by L.N. 57/1981]"
+    }
+  ],
   "definitions": []
 }

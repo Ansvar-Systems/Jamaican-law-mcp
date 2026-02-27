@@ -7,6 +7,19 @@
   "status": "in_force",
   "url": "https://laws.moj.gov.jm/library/statute/the-retiring-allowances-parish-councillors-act",
   "description": "Category: statute | Source: https://laws.moj.gov.jm/library/statute/the-retiring-allowances-parish-councillors-act | Legal areas: Local Government",
-  "provisions": [],
+  "provisions": [
+    {
+      "provision_ref": "sec9",
+      "section": "9",
+      "title": "Section 9",
+      "content": "9. Cessation of retiring allowance if person in receipt thereof again\n    becomes a councillor."
+    },
+    {
+      "provision_ref": "sec15",
+      "section": "15",
+      "title": "Section 15",
+      "content": "15. Power to make regulations.\n   - --       -       --      -\n          \\The Indualon of thls page I8 authorized by L.N. 180A120061"
+    }
+  ],
   "definitions": []
 }

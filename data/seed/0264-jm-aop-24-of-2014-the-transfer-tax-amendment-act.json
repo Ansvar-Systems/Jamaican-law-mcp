@@ -7,6 +7,19 @@
   "status": "in_force",
   "url": "https://laws.moj.gov.jm/library/act-of-parliament/24-of-2014-the-transfer-tax-amendment-act",
   "description": "Category: act_of_parliament | Source: https://laws.moj.gov.jm/library/act-of-parliament/24-of-2014-the-transfer-tax-amendment-act | Year: 2014",
-  "provisions": [],
+  "provisions": [
+    {
+      "provision_ref": "sec3",
+      "section": "3",
+      "title": "Section 3",
+      "content": "3. Section 19 of the principal Act is amended by inserting next Amendrnentof\n      after subsection (2A) the following subsection-                    s~i~n 19 of\n                                                                         pnnclpal Act.\n            \"    (2B) Subsection (2) shall not have effect in relation to\n            any document effecting or evidel!st,I!g a transfer that is exempt\n            under section 17(1)(f).\".         . .."
+    },
+    {
+      "provision_ref": "sec4",
+      "section": "4",
+      "title": "Section 4",
+      "content": "4. Section 33 of the principal Act is amended-                          Arnendrnentof\n                                                                                 section 33 of\n            (a) in subsection (2), by deleting the words \"subsection (2A)\"       principal Act.\n                and substituting therefor the words \"subsections (2A) and\n                (2B)\";\n            (b) by inserting next after subsection (2A) the following\n                subsection­\n                        \"    (2B) The provisions of subsection (2) shall\n                        not have effect in relation to a transfer that is\n                        exempt under section 17(1)(f).\".\n         Passed in the House of Representatives this 2nd day of December, 2014.\n                                                               MICHAEL A. PEART\n                                                                                   Speaker.\n         Passed in the Senate this 18th day ofDecember, 2014.\n                                                    ANGELA R. BROWN-BURKE\n                                                                       Deputy President.\n         This printed impression has been carefolly\n      compared by me with the authenticated\n       impression of the foregoing Act, and has been\n\"c.   found by me to be a true and correct printed copy\n~     ofthe said Act.\n\".'"
+    }
+  ],
   "definitions": []
 }

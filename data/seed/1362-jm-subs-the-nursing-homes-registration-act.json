@@ -7,6 +7,54 @@
   "status": "in_force",
   "url": "https://laws.moj.gov.jm/library/subsidiary-legislation/the-nursing-homes-registration-act",
   "description": "Category: subsidiary_legislation | Source: https://laws.moj.gov.jm/library/subsidiary-legislation/the-nursing-homes-registration-act",
-  "provisions": [],
-  "definitions": []
+  "provisions": [
+    {
+      "provision_ref": "sec1",
+      "section": "1",
+      "title": "Section 1",
+      "content": "1. These Regulations may be cited as the Nursing Homes Registra-\ntion Regulations, 1934."
+    },
+    {
+      "provision_ref": "sec2",
+      "section": "2",
+      "title": "Section 2",
+      "content": "2. In these Regulations. unless the context otherwise requires-\n    \"keeper of a nursing home\" means any person who carries on a\n         nursing home as defined in section 2 of the Act;\n    \"register\" includes a book, card or form;\n    \"infectious disease\" means an infectious disease which a keeper\n         of a nursing home may be required to notify in pursuance of\n         the Public Health Law."
+    },
+    {
+      "provision_ref": "sec3",
+      "section": "3",
+      "title": "Section 3",
+      "content": "3. A keeper of a nursing home shall--\n   ( 1 ) keep in proper order a register of patients received into and of\n         children born to patients in the home;\n   (2) enter in such registm fully. punctually, and legibly the following\n       particulars-\n            (a) a reference number for each patient;\n            (b) the name and address of the patient as given by or on\n                 behalf of the patient;\n            (c) the date on which the patient entered the home;\n            (d) the disease or disability from which the patient is\n                 suffering;\n            (e) all operations performed in the nursing home giving the\n                 date of each operation, the name of the operating\n                 surgeon and of each other doctor assisting in the\n                 operation, the name of the anaesthetist and the nature\n                 of the anaesthetic;\n               IThe indudon of thb p w ir authorized by L.N. 41 I9761\n   THE NURSING HOMES REGISTRATION REGULATIONS, 1934\n          ( f ) the amount of every payment made to such keeper by\n                 or on behalf of the patient and the number of the\n                 receipt given for such payment;\n           (g) the date on which the patient and any child born to any\n                 patient in the home left the home;\n           (h) if the patient or any child born to any patient in the\n                 home died at the home, the date and hour of death;\n           (i) if the patient suffered from any infectious disease while\n                 at the home, the nature of such disease and the action\n                 taken;\n      and if the nursing home is a maternity home-\n           ( j ) the date and hour of delivery of the patient, the number\n                  of children then born, their sex, and whether born alive\n                  or dead;\n           (k) the name and address of the person who delivered the\n                 patient;\n           ( I ) the method of feeding each child, and, if the method\n                 has been varied, the period or periods during which\n                 each method was followed;\n           (m) the date and hour of any miscarriage occurring in the\n                 home;\n           (n) if the patient suffered from any illness due to abnormal\n                 causes while at the home, the nature of such illness\n                 and the action taken;\n  (3) either keep the particulars of every patient together in alphabet-\n      ical order in the register according to the name of the patient or\n      keep a correct alphabetical index of the patients;\n   (4) keep a case record giving-\n           (a) a daily statement of the health of every patient in the\n               home suffering from acute illness;\n           (b) if the home is a maternity home, a daily statement\n               of the health of every patient to whom a child is born\n               in the home, and of every child so born;\n           (c)    a periodical statement of the health of any other patient\n                  in the home."
+    },
+    {
+      "provision_ref": "sec4",
+      "section": "4",
+      "title": "Section 4",
+      "content": "4. A keeper of a nursing home which is a matcmnity home shall,\nwhenever he anranges or is a party to any arrangement for the removal\nof a child born in the home to other premises to be placed in the\n                                                        k L.N. 41 19761\n                 tThc indudon of thia pago is e u t h o ~\n   THE NURSING HOMES REGISTRATION REGULATIONS, 1934\ncustody or care of any pmson other than its parent or guardian or a\nrelative, keep in the register of patients and in readily ascertainable\nconnexion with the entry relating to the mother of the child a record\nspecifying the address of such premises, the name of the person in\nwhose custody or care the child is placed, the date of the removal\nof the child and the amount of payment (if any) made to the keeper\nin respect of the arrangement."
+    },
+    {
+      "provision_ref": "sec5",
+      "section": "5",
+      "title": "Section 5",
+      "content": "5. A keeper of a nursing home shall in addition to the other records\nrequired by these Regulations-\n   (1) keep a book of forms of numbered receipts with a duplicate of\n       each receipt;\n   (2) keep in such book a duplicate of each receipt issued;\n   (3) enter or show on every receipt issued by him-\n                his name and the address of the home;\n                 date of payment;\n                 the name and reference number in the register of\n                 patients of the patient in respect of whom a payment\n                 has been made for which the receipt is given;\n                particulars of any payment made by the keeper (included\n                 in that for which the receipt is given) to any medical\n                 practitioner or other person for services or goods\n                 supplied; and\n                if the payment is made in respect of a child, the date\n                 of the birth of the child and its name or names\n                of a nursing home shall-\n    (I) within twenty-four hours of the death at the home of any patient\n       or of any child born to a patient send to the Chief Medical\n        Officer notice in writing by letter post, or by bearer, stating on\n        such notification-\n             (a) the date and hour of death; and\n             (b) if under the provisions of the Registration (Births and\n                  Deaths) Act notice has been given to him that\n                  a medical certificate of the cause of death has been\n                  signed by the certifying medical practitioner, the serial\n                  number of such notice; or\n                [Tbe hdusion of thL paee ia authorized by L.N. 4119761\n    THE NURSING HOMES REGISTRATION REGULATIONS. 1934\n           (c) if such notice has not been given to him, the cause\n                of death to the best of his knowledge;\n   (2) if an inquest is held in respect of any such death, within twenty-\n      four hours of the conclusion thereof send to the Chief Medical\n       Officer notice in writing by letter post or by bearer, stating the\n       date of the inquest and the cause of death as found by the\n       coroner or jury."
+    },
+    {
+      "provision_ref": "sec7",
+      "section": "7",
+      "title": "Section 7",
+      "content": "7.-(1) Any person desirous of appealing to the Nursing Homes\nAppeal Tribunal against an order refusing an application for registra-\ntion or for the cancellation of any registration shall within the prescrib-\ned period of fourteen days forward to the Secretary of the Tribunal\nnotice in wfiting of such appeal and all relevant documents and papers.\nThe notice of appeal may be in the form of an ordinary Ietter and\n shall set forth clearly the @roundsof appeal.\n      (2) The appellant shall be notified in writing by the Secretary\nof the Tribunal of the date on and the hour and place at which the\nappeal wilI be heard.\n      (3) The appellant shall have the right to be represented by\ncounsel or solicitor at the hearing of the appeal.\n      (4) The appellant shall be notified in writing by the Secretary\nof the Tribunal of the decision of the Tribunal on the appcal.\n                IThe Indudon of thb page b rutbor&d by L.N. 4119761"
+    }
+  ],
+  "definitions": [
+    {
+      "term": "keeper of a nursing home",
+      "definition": "any person who carries on a",
+      "source_provision": "sec2"
+    },
+    {
+      "term": "infectious disease",
+      "definition": "an infectious disease which a keeper",
+      "source_provision": "sec2"
+    }
+  ]
 }

@@ -7,6 +7,69 @@
   "status": "in_force",
   "url": "https://laws.moj.gov.jm/library/statute/the-clean-air-act",
   "description": "Category: statute | Source: https://laws.moj.gov.jm/library/statute/the-clean-air-act | Legal areas: Environment",
-  "provisions": [],
-  "definitions": []
+  "provisions": [
+    {
+      "provision_ref": "sec1",
+      "section": "1",
+      "title": "Section 1",
+      "content": "1. This Act may be cited as the Clean Air Act.                                  short title."
+    },
+    {
+      "provision_ref": "sec2",
+      "section": "2",
+      "title": "Section 2",
+      "content": "2. In this Act unless the context otherwise requires-\n  \"affected premises\" means any premises on which there\n       are industrial works, the operation of which is in the\n       opinion of an inspector likely to result in the\n       discharge of smoke or fumes or gases or dust into the\n       air;\n  \"best practicable means\" where used with respect to the\n       prevention of the escape or discharge of noxious and\n       offensive gases, or to the rendering of such gases,\n       where discharged, harmless or inoffensive has\n       reference not only to the provision and efficient\n       maintenance of appliances adequate for preventing\n       such escape or discharge, or for rendering such gases\n       where discharged harmless or inoffensive, but also to\n       the manner in which such appliances are used and to\n       the proper supervision, by the owner, of any operation\n       in which such gases are evolved; and in relation to the\n       foregoing \"practicable\" means reasonably practicable\n       having regard, amongst other things, to local\n       conditions and circumstances, to the financial\n       implications and to the current state of technical\n       knowledge;\n   \"Central Health Committee\" means the Central Health\n       Committee established under the Public Health Act;\n   \"dust\" includes grit;\n                                                CLEAN AIR\n                     \"industrial works\" includes any still, melting pot or any\n                         other plant whether similar to the foregoing or not\n                         used for any industrial or trade purposes, and also any\n                         incinerator used for or in connection with any such\n                         purposes;\n                     \"inspector\" means an inspector appointed under sec-\n                          tion 4;\n                     \"noxious or offensive gas\" means any of the gases,\n                         fbmes or dust specified fiom time to time in the\nSchedule.                Schedule and any noxious emanation whatsoever,\n                         whether similar to the foregoing or not, fiom any\n                         affected premises;\n                     \"owner\" includes any lessee or occupier of any affected\n                         premises.\nAdminim-          3.-(1) Subject to the provisions of section 4 it shall be\ntion and\nexpenses.       the duty of the Central Health Committee to carry into effect\n                the provisions of this Act.                                   -.\n                       (2) Any expenses properly incurred in carrying into effect\n                the provisions of this Act shall be paid out of moneys provided\n                for the purpose in the Estimates of Revenue and Expenditure of\n                the Island.\nAppoint-         ,4.-(   1) The Minister may appoint such number of inspectors\nment of in-\nspector~.       as he considers necessary for carrying into effect the provisions\n                of this Act.\n                       (2) The name of every person appointed an inspector\n                shall be published in the Gazette.\nPowers and         5.-31) An inspector on production of his authority if\nduties of in-\nspectors.       so required may enter any affected premises at any time\n                while work is being carried on there, or while there is any\n                discharge of smoke or hmes or gases or dust into the air\n                ii-om any part of such premises and may inspect and\n                examine such premises or any part thereof and may make\n    such enquiries, and make such tests and take such samples of\n    any substance, smoke, fumes, gas or dust as he considers\n    necessary or proper for the performance of his duties.\n          (2) The owner of every affected premises, his agents,\n    and every person found therein shall afford to every in-\n    spector all necessary facilities for entry, inspection, exam-\n    ination, testing and sampling in pursuance of this Act\n1   and shall fbrnish him with such information as he may\n    reasonably require.\n          (3) Every owner of any affected premises in which\n    such facilities are not afforded, or such information is not\n    furnished, to an inspector as required by this section, or\n    in which an inspector is obstructed in the execution of his\n    duty under this Act, and every person wilfblly obstruct-\n    ing an inspector in the execution of his duty under this\n    Act, shall be guilty of an offence against this Act."
+    },
+    {
+      "provision_ref": "sec6",
+      "section": "6",
+      "title": "Section 6",
+      "content": "6.-41)    Subject to the provisions of this Act the owner\n    of every affected premises shall use the best practicable\n    means for-\n         (a) preventing the escape of any noxious or offensive\n              gas; and\n         (b) preventing the discharge of any such gas into the\n              air; and\n         (c) rendering such gas, where discharged, harmless or\n              inoffensive,\n    and an inspector may enquire whether in any affected premises\n    the best practicable means have been adopted for carrying out\n    the provisions of this subsection and shall submit a report\n    thereon to the Central Health Committee.\n          (2) Where it appears to the Committee that such means\n    have not been adopted the Committee may by order published\n    in the Gazette require the owner of such premises to adopt\n    within such reasonable time not being less than six weeks\n                                            CLEAN AIR\n            fiom the date of the publication of the order as shall be\n            specified in the order such means as the Committee may con-\n            sider necessary for carrying out the provisions of subsection (1)\n            and may by the said order limit the amount of any noxious or\n            offensive gas which may be permitted to escape or to be\n            discharged fiom such premises into the air.\n                  (3) Before making any such order the Committee shall\n            give to the owner and to any other persons interested notice\n            of its intention to make the order and the date on which it\n            proposes to publish the order in the Gazette.\n                  (4) A notice required to be given by the Committee\n            under this section may be served by registered post or by\n            delivering it to or at the residence of the person to whom it is\n            addressed or where addressed to the owner or occupier of\n            the premises by delivering it or a copy thereof to some\n            person on the premises or if there is no person on the\n            premises who can be served by fixing it on some conspicuous\n            part of the premises.\n                  (5) Subject to the provisions of section 7 any owner\n            of any affected premises who contravenes the provisions of\n            any order made under subsection (2) shall be guilty of an\n            offence against this Act."
+    },
+    {
+      "provision_ref": "sec7",
+      "section": "7",
+      "title": "Section 7",
+      "content": "7. Any person aggrieved by any order of the Committee\nagain&a&\nof corn-    under section 6 may within one month of the publication of\n~llirtee.   such order in the Gazette appeal to a Judge in Chambers who\n            shall give such directions in the matter as he shall think proper,\n            including a direction as to the costs of the appeal, and the order\n            of the Judge shall be final and conclusive and not subject to any\n            further right of appeal:\n              Provided that-\n                (a) a Judge in Chambers may if he thinks the interest of\n                    justice so requires, extend the time for appealing\n                     under this section notwithstanding that the time for\n                     appealing has elapsed;\n                                 CLEAN AIR\n     (b) a person who has appealed to a Judge in Chambers as\n         aforesaid shall not be liable to any proceedings for an\n         offence under subsection (5) of section 6 until such\n         appeal has been heard and determined or has been\n         abandoned."
+    },
+    {
+      "provision_ref": "sec8",
+      "section": "8",
+      "title": "Section 8",
+      "content": "8 . 4 1 ) The Minister after consultation with the Central          Poww of\n                                                                      Minista to\nHealth Committee may fiom time to time by order add to or             vuy list of\nvary the provisions in the Schedule.                                  gases.\n                                                                      Schedule.\n      (2) Every order made under this section shall be subject\nto negative resolution."
+    },
+    {
+      "provision_ref": "sec9",
+      "section": "9",
+      "title": "Section 9",
+      "content": "9. Any person guilty of an offence against this Act shall be        Penahy for\nliable on summary conviction in the Resident Magistrate's             PCMfi 8uihy\n                                                                      of an offnae\nCourt of the district in which the offence was committed to a         against this\n                                                                      Ad.\nfine not exceeding two hundred dollars, or in default of\npayment to imprisonment with hard labour for any term not\nexceeding three months, and in the case of a continuing offence\nto a hrther fine not exceeding ten dollars for every day during\nwhich the offence continues or in default of payment to a\nfurther term of imprisonment with hard labour not exceeding\ntwo months.\n        [The inclusion o f this page is authorized by L.N. 8712004)\n                               SCHEDULE                            (Section 2)\n                 List of Noxious or Ofensive Gases"
+    }
+  ],
+  "definitions": [
+    {
+      "term": "affected premises",
+      "definition": "any premises on which there",
+      "source_provision": "sec2"
+    },
+    {
+      "term": "practicable",
+      "definition": "reasonably practicable",
+      "source_provision": "sec2"
+    },
+    {
+      "term": "Central Health Committee",
+      "definition": "the Central Health",
+      "source_provision": "sec2"
+    },
+    {
+      "term": "inspector",
+      "definition": "an inspector appointed under sec-",
+      "source_provision": "sec2"
+    },
+    {
+      "term": "noxious or offensive gas",
+      "definition": "any of the gases,",
+      "source_provision": "sec2"
+    }
+  ]
 }

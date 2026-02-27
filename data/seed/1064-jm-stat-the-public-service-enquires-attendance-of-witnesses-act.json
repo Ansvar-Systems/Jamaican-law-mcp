@@ -7,6 +7,37 @@
   "status": "in_force",
   "url": "https://laws.moj.gov.jm/library/statute/the-public-service-enquires-attendance-of-witnesses-act",
   "description": "Category: statute | Source: https://laws.moj.gov.jm/library/statute/the-public-service-enquires-attendance-of-witnesses-act | Legal areas: Courts and Judiciary",
-  "provisions": [],
+  "provisions": [
+    {
+      "provision_ref": "sec1",
+      "section": "1",
+      "title": "Section 1",
+      "content": "1. This .Act may be cited as the Public Service Enquiries Shorttitle.\n(Attendance of Witnesses) Act."
+    },
+    {
+      "provision_ref": "sec2",
+      "section": "2",
+      "title": "Section 2",
+      "content": "2.-41) In this Act-                                       In terpreta-\n                                                            tion.\n    “enquiry” means any investigation or enquiry into\n          the conduct of an officer against whom dis-\n          ciplinary proceedings are instituted under any of\n          the enactments or regulations specified in the\n                                                            First\n          First Schedule;                                   Schedule.\n     “officer” means the holder of any public office and\n          includes any person appointed to act in any such\n          office;\n    “public office” means any office of emolument in the\n          public service;\n     “public service” means the service of the Crown in\n          a civil capacity in respect of the Government of\n          Jamaica;\n    “tribunal” means any person or body of persons who\n          conduct an enquiry.\n       (2) The Minister may at any time by order amend\nor vary the First Schedule."
+    },
+    {
+      "provision_ref": "sec3",
+      "section": "3",
+      "title": "Section 3",
+      "content": "3 . 4 1) A tribunal shall have power to summon any per- Power to\nson to attend the enquiry and to give evidence or to summon\n                                                          wimesses.\nproduce any paper, book, record or document in the pos-\nsession or under the control of such person.\n2                      PUBLIC SERVICE ENQUIRIES (ATTENDANCE\n                                   OF WITNESSES)\n                       (2) A summons under this section shall be in the\nSecond          form prescribed in the Second Schedule and shall be\nSchedule.\n                signed by the person constituting the tribunal or, where\n                the tribunal is a body of persons, by the Chairman of the\n                tribunal.\n                      (3) A summons under this section may be served by\n                a constable.\nDuty and           4. All persons summoned to attend and give evidence or\nprivileges\nofwitnesses.    to produce any paper, book, record or document before a\n                tribunal-\n                      (a) shall be bound to obey the summons served upon\n                          them;\n                      (b) shall be entitled, in respect of such evidence or\n                          the disclosure of any communication or the pro-\n                          duction of any such paper, book, record or docu-\n                          ment, to the same right or privilege as before a\n                          court of law;\n                      (c) shall be entitled to be paid their expenses, in-\n                          cluding travelling expenses at the rates prescribed\n                          by the Witnesses Expenses Act for witnesses who\n                          are entitled to have their expenses paid from\n                          public funds :\n                   Provided that a tribunal may disallow the whole or any\n                part of such expenses in any case, if it thinks fit.\n       c\nPenaltyfor        5 . 4 1 ) Any person w h o -\ndisobedi-\nence,               (a) without sufficient cause, fails or refuses to attend\ndisrespect or\nobstruction.             before a tribunal in obedience to a summons under\n                         this Act, or fails or refuses to produce any paper,\n                         book, record or document which he was required\n                         by such summons to produce; or\n       PUBLIC SERVICE ENQUIRIES (ATTENDANCE                         3\n                   OF WITNESSES)\n     (b) being a witness, leaves a tribunal without the\n          permission of the tribunal; or\n      (c) being a witness, refuses, without sufficient cause,\n          to answer any question put to him by or with the\n          permission of the tribunal; or\n     (4 wilfully obstructs or interrupts the proceedings of\n          a tribunal,\nshall be liable on summary conviction before a Resident\nMagistrate to a fine not exceeding two hundred dollars\nor in default of payment thereof to imprisonment with or\nwithout hard labour for a term not exceeding three\nmonths.\n       (2) A person shall not be convicted for failing or\nrefusing to attend before a tribunal unless the summons\nrequiring him so to attend has been served personally on\nhim at least three days before the day on which he is re-\nquired to attend."
+    },
+    {
+      "provision_ref": "sec6",
+      "section": "6",
+      "title": "Section 6",
+      "content": "6. Any expenses incurred in carrying this Act into Expenses.\noperation and approved by the Minister responsible for\nfinance shall be paid out of the Consolidated Fund."
+    },
+    {
+      "provision_ref": "sec7",
+      "section": "7",
+      "title": "Section 7",
+      "content": "7. No proceedings for any penalty under section 5 shall Proceedings\nbe commenced except by the direction of the Director of zalties.\nPublic Prosecutions or of the tribunal concerned.\n/\n    4            PUBLIC SERVICE ENQUIRIES (ATTENDANCE\n                             OF WITNESSES)\n                                  FIRST SCHEDULE                     (Section 2)\n          The Judicial Service Regulations, 1961\n          The Public Service Regulations, 1961\n          The Police Service Regulations, 1961.\n                              SECOND SCHEDULE                         (Section 3)\n                              Summons to Witness\n        To A.B. (name of person summoned and his calling and residence, if\n                 known).\n          You are hereby summoned to appear before (here name the tribunal)\n        appointed to enquire (state briefly the subject of enquiry) at (place)\n        on the                    day of                     19     at\n        o’clock, and to give evidence respecting such enquiry.\n          ( I f the person summoned is to produce documents, add :)\n          And you are required to bring with you and produce (specify the\n        books, plans and documents required).\n          Therefore fail not at your peril.\n        Given under my hand this                   day of                   19   .\n                We inclusion of this page is authorized by L.N. 480/1973]"
+    }
+  ],
   "definitions": []
 }

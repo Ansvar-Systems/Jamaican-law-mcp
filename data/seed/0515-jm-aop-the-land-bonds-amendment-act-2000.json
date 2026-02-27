@@ -7,6 +7,19 @@
   "status": "in_force",
   "url": "https://laws.moj.gov.jm/library/act-of-parliament/the-land-bonds-amendment-act-2000",
   "description": "Category: act_of_parliament | Source: https://laws.moj.gov.jm/library/act-of-parliament/the-land-bonds-amendment-act-2000 | Year: 2000",
-  "provisions": [],
+  "provisions": [
+    {
+      "provision_ref": "sec1",
+      "section": "1",
+      "title": "Section 1",
+      "content": "1. This Act may be cited as the Land Bonds (Amendment) and\n                                                          Short title\n                                                              con-\nAct, 2000 and shall be read and construed as one with the struction.\nLand Bonds Act (bereinafter referred to as the principal\nAct) and all amendments thereto.\n                                                            Amendment"
+    },
+    {
+      "provision_ref": "sec2",
+      "section": "2",
+      "title": "Section 2",
+      "content": "2. Subsection (2) of section 5 of the principal Act is of    section 5\n                                                            of princi-\namended by deleting the figures \"80,000,000\" and substitut- pal Act.\ning therefor the figures \"l,000,000,000\".\n    PRINTER BY JAMAICA PRINTING SERVICES (1992) LTD., (GOVERNMENT PRINTERS), DUKE ST., KGN., JAMICA."
+    }
+  ],
   "definitions": []
 }

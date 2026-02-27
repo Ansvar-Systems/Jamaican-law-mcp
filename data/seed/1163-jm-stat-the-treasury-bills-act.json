@@ -7,6 +7,31 @@
   "status": "in_force",
   "url": "https://laws.moj.gov.jm/library/statute/the-treasury-bills-act",
   "description": "Category: statute | Source: https://laws.moj.gov.jm/library/statute/the-treasury-bills-act",
-  "provisions": [],
+  "provisions": [
+    {
+      "provision_ref": "sec2",
+      "section": "2",
+      "title": "Section 2",
+      "content": "2. The principal moneys represented by the Treasury Principal\nbills issued under the provisions of this Act are hereby moneys\n                                                          charged\ncharged upon and shall be payable out of the Consolidated UCPoo;Psolisolidated\nFund and assets of the Island.                            Fund."
+    },
+    {
+      "provision_ref": "sec3",
+      "section": "3",
+      "title": "Section 3",
+      "content": "3. The Minister whenever authorized thereto by a reso- Minister\n                                                          may when\nlution of the House of Representatives may borrow, either authorized\nat one time or by such instalments as he may deem neces- gzybY\nsary, by the issue in this Island of Government Treasury issueof\nbills, sums not exceeding the amount specified in such Treasury\n                                                          busin\nresolution; and the Minister may also borrow from time thelsland\nto time by the issue of such Treasury bills, such sums as\nmay be required to pay off at maturity bills already law-\nfully issued and outstanding. All Treasury bills issued\nunder the provisions of this Act shall be in such form as\nthe Minister may direct and approve."
+    },
+    {
+      "provision_ref": "sec4",
+      "section": "4",
+      "title": "Section 4",
+      "content": "4. Every Treasury bill issued under this Act shall be for Valueof\nthe sum of one hundred dollars or a multiple of one !$!:nmd\nhundred dollars, and shall be payable at par at such time pS”/i”sb:?\nor times as the Minister shall before the issue of such s. 2.\nTreasury bills fix and determine, but not later than one\nyear from the date of issue."
+    },
+    {
+      "provision_ref": "sec5",
+      "section": "5",
+      "title": "Section 5",
+      "content": "5. The proceeds of the issue of the Treasury bills issued Procedureas\nunder this Act shall be paid into the Treasury to be uti- toofissueof\n                                                               proceeds\nlized for the purposes specified in the resolution.                 bills.\n       me iaclusion of this page is authorized by L.N. 68/1978]\n2                                    TREASURY BILLS\nPaymentof        6. The Minister shall if necessary, appropriate out of\nprincipal.\n              the Consolidated Fund the necessary sum to pay the pM-\n              cipal represented by the Treasury bills issued under this\n              Act when they fall due.\nProcedure       7. Upon repayment of the principal moneys represented\nupon repay-\nmcntof\nprincipal.\n              by the Treasury bills issued under this Act the bills shall\nmoneys.       be delivered up to the Accountant-General to be by him\n              cancelled.\n                    me inclusion of thii page is authorized by L.N. 68/1976]"
+    }
+  ],
   "definitions": []
 }

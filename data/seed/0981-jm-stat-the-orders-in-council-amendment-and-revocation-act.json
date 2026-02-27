@@ -7,6 +7,19 @@
   "status": "in_force",
   "url": "https://laws.moj.gov.jm/library/statute/the-orders-in-council-amendment-and-revocation-act",
   "description": "Category: statute | Source: https://laws.moj.gov.jm/library/statute/the-orders-in-council-amendment-and-revocation-act | Legal areas: Constitution",
-  "provisions": [],
+  "provisions": [
+    {
+      "provision_ref": "sec1",
+      "section": "1",
+      "title": "Section 1",
+      "content": "1. This Act may be cited as the Orders in Council Shorttitle.\n(Amendment and Revocation) Act."
+    },
+    {
+      "provision_ref": "sec2",
+      "section": "2",
+      "title": "Section 2",
+      "content": "2. In this Act-                                                     Intcrpreta-\n                                                                     lion.\n    “appropriate Minister” means-\n        (a) the Prime Minister; or\n        (b) the Minister designated by the Prime Minister\n             to exercise on any particular occasion the\n             power conferred by subsection (1) of section 3;\n    “Order in Council” means an Order in Council made\n        under an Act of the United Kingdom Parliament,\n        or by the Sovereign in virtue of the Royal Prero-\n        gative;\n    “Order in Council to which this Act applies” means\n        any Order in Council which applies, or applies\n        the provisions of any Act of the United Kingdom\n        Parliament, with or without modification, to\n        Jamaica, but excludes any Order in Council\n        Which-\n        (a) is referred to in paragraph 6 (2) (b) of the First\n             Schedule to the Jamaica Independence Act, 10andll\n             1962; or                                          elir 2.\n                                                               c.40.\n        (b) applies to Jamaica by virtue of an enactment\n             of the Legislature of the Island.\n       m e inclusion of this page is authorized by L.N. 480j19731\n             d\n2                        ORDERS IN COUNC1L (AMENDMENT A N D\n                                    REVOCATION)\nAmendmerI t        3.-(1) The appropriate Minister (hereinafter referred to\nor revoca-\ntion of          as “the Minister”) may, by order, amend or revoke any\nOrders in\nCouncil by       Order in Council to which this Act applies.\nMinister.\n                        (2) An order made under subsection (1) may contain\n                 such consequential, supplemental or ancdary provisions as\n                 appear to the Minister to be necessary or e x m e n t for\n                 the purpose of giving due effect to the order, and accord-\n                 ingly an order which amends an Order in Council to which\n                 this Act applies may, where it appears to the Minister\n                 necessary or expedient so to do, modify any enactment of\n                 the United Kingdom Parliament which has been applied\n                 to Jamaica by that Order in Council.\n                       (3) An order made under subsection (1) shall be\n                 subject to affirmative resolution."
+    }
+  ],
   "definitions": []
 }

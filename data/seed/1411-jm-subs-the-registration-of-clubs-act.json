@@ -7,6 +7,66 @@
   "status": "in_force",
   "url": "https://laws.moj.gov.jm/library/subsidiary-legislation/the-registration-of-clubs-act",
   "description": "Category: subsidiary_legislation | Source: https://laws.moj.gov.jm/library/subsidiary-legislation/the-registration-of-clubs-act",
-  "provisions": [],
-  "definitions": []
+  "provisions": [
+    {
+      "provision_ref": "sec1",
+      "section": "1",
+      "title": "Section 1",
+      "content": "1. These Regulations may be cited as the Registration of Clubs\nRegulations, 1936."
+    },
+    {
+      "provision_ref": "sec2",
+      "section": "2",
+      "title": "Section 2",
+      "content": "2. In these Regulations unless the context otherwise requires-\n     \"secretary\" means the person holding the office of secretary of a\n          club or the person performing the duties of the secretary.\n     \"tourist\" means a person who is not resident in the Island and\n          does not intend to remain in the Island far a longer period\n          than six months."
+    },
+    {
+      "provision_ref": "sec3",
+      "section": "3",
+      "title": "Section 3",
+      "content": "3. The hours of opening and closing of members' club premises shall\nbe as set out in the rules of the particular club and recorded in the\nregister of clubs."
+    },
+    {
+      "provision_ref": "sec4",
+      "section": "4",
+      "title": "Section 4",
+      "content": "4. Intoxicating liquor shall not be supplied to any member of a\nmembers' club or to his guest between the hours of 4.00 a.m. and 8.00\na.m. on week days or after 12 midnight on Sundays."
+    },
+    {
+      "provision_ref": "sec5",
+      "section": "5",
+      "title": "Section 5",
+      "content": "5. It shall be l'awful for the Superintendent of Police for the Parish\nin which a members' club is situated on an application being made to\nhim in writing to grant permission to a members' club to remain open\n beyond the time stated in the rules of the club and to extend the time\nduring which intoxicating liquor may be supplied to members and guests\n of such a club; but such permission shall only apply fcn the day for\n which it is granted and the proof of any such permission in any\n proceedings taken for an offence against these Regulations shall be on\n the defendant.\n               me inclusion of this page is authorized by L.N. 4119761\n4            THE REGISTRATION OF CLUBS REGULATIONS, 1936"
+    },
+    {
+      "provision_ref": "sec6",
+      "section": "6",
+      "title": "Section 6",
+      "content": "6. No person not being a tourist shall be admitted as a guest of any\n    club unless such person shall have been introduced into the club by\n    a member of the club and the name and addresses of such guest and\n    member shall be recorded in a book to be known as the visitor's book\n    at the time of such introduction."
+    },
+    {
+      "provision_ref": "sec7",
+      "section": "7",
+      "title": "Section 7",
+      "content": "7. It shall be the duty of the secretary of every club to provide a\n    visitor's book and to see that the provisions of regulation 6 are strictly\n    carried out."
+    },
+    {
+      "provision_ref": "sec8",
+      "section": "8",
+      "title": "Section 8",
+      "content": "8. Intoxicating liquor shall not be sold to a member of a proprietary\n    club or his guest except between the hours of 10.00 a.m. and 4.00 a.m.\n    on week days, and except between the hours of 10.00 a.m. and 12\n    midnight on Sundays.\n                   [The inclusion of this p q e is authorized by L.N. 4119761"
+    }
+  ],
+  "definitions": [
+    {
+      "term": "secretary",
+      "definition": "the person holding the office of secretary of a",
+      "source_provision": "sec2"
+    },
+    {
+      "term": "tourist",
+      "definition": "a person who is not resident in the Island and",
+      "source_provision": "sec2"
+    }
+  ]
 }

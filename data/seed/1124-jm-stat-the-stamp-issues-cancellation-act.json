@@ -7,6 +7,31 @@
   "status": "in_force",
   "url": "https://laws.moj.gov.jm/library/statute/the-stamp-issues-cancellation-act",
   "description": "Category: statute | Source: https://laws.moj.gov.jm/library/statute/the-stamp-issues-cancellation-act | Legal areas: Communication and Technology",
-  "provisions": [],
+  "provisions": [
+    {
+      "provision_ref": "sec1",
+      "section": "1",
+      "title": "Section 1",
+      "content": "1. This Act may be cited as the Stamp Issues (Cancella- Shorttitle.\n    tion) Act."
+    },
+    {
+      "provision_ref": "sec2",
+      "section": "2",
+      "title": "Section 2",
+      "content": "2. In this Act-                                           Intcrprcta-\n                                                                tion.\n    “instrument” includes every written or printed document;\n    “post-letter” means a letter, book, packet or parcel trans-\n         mitted by the post."
+    },
+    {
+      "provision_ref": "sec3",
+      "section": "3",
+      "title": "Section 3",
+      "content": "3.-(1) Notwithstanding anything in any other enactment power of\n    contained, the Minister at any time by order may declare cancelissues\n                                                               Minister to\n    that any issue of stamps shall cease to be valid, and in ofstampss\n    such order may provide for the cancellation of such issue.\n          (2) Every such order shall come into force as from\n    the date of the publication thereof in the Gazette, or from\n    such later date as may be specified in the order."
+    },
+    {
+      "provision_ref": "sec4",
+      "section": "4",
+      "title": "Section 4",
+      "content": "4.-(1) On and after the date of the coming into force of Effectof\n    any order under section 3, every instrument executed after cancellation\n                                                               ofissues.\n    such date and every post-letter posted after such date which\n    bears any stamp the issue of which has been cancelled by\n    such order, shall be deemed to be not duly stamped as\n    required by law.\n           (2) Any person who is in possession of any stamp,\n    the issue of which has been cancelled by virtue of an\n    order under section 3, may within six months from the date\n          me inclusion of this page is authorized by L.N. 480119731\n2               STAMP lSSUES (CANCELLATION)\n    of the coming into force of such order, apply to any\n    Post Office to have such stamp exchanged for, and replaced\n    by, a valid stamp, or valid stamps, of equal value."
+    }
+  ],
   "definitions": []
 }

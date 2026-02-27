@@ -7,6 +7,65 @@
   "status": "in_force",
   "url": "https://laws.moj.gov.jm/library/subsidiary-legislation/the-habour-fees-act",
   "description": "Category: subsidiary_legislation | Source: https://laws.moj.gov.jm/library/subsidiary-legislation/the-habour-fees-act",
-  "provisions": [],
-  "definitions": []
+  "provisions": [
+    {
+      "provision_ref": "sec2",
+      "section": "2",
+      "title": "Section 2",
+      "content": "2. In this Order-\n  \"alumina ship\" means any ship carrying, or entering any port in\n      Jamaica to load thereat, alumina in bulk;\n  \"bauxite ship\" means any ship carrying, or entering any port in\n      Jamaica to load thereat, bauxite in bulk;\n  \"coasting ship\" means any coasting ship, as defined by the Customs\n      Act, engaged solely or mainly in the coasting trade;\n  \"container ship\" means any ship designed or adapted solely for\n      carrying cargo stuffed in containers or mobile units or both;\n  \"cruise ship\" means any ship having a minimum passenger capacity of\n       one hundred and fifty passengers;\n  \"gypsum ship\" means any ship carrying, or entering any port in\n      Jamaica to load thereat, gypsum in bulk;\n  \"petroleum ship\" means any ship carrying, or entering any port in\n       Jamaica to load thereat, petroleum or petroleum products, or both\n       in bulk."
+    },
+    {
+      "provision_ref": "sec3",
+      "section": "3",
+      "title": "Section 3",
+      "content": "3. For the purposes of this Order-\n  \"container\" means a container suitable for shipping or storing therein\n       smaller containers, packages or goods in bulk and which can be\n       handled intransit as a unit and is of such a size as to require\n       mechanical handling;\n  \"mobile unity' means a unit on wheels enabling its removal, whether\n       under its own motive power or otherwise, on being loaded from a\n       ship to wharf, but does not include containers;\n  \"net tonnage\" means in relation to any ship-\n             [The inclusion of this page is autborizcd by L.N.141~I2010]\n                                            THE HARBOUR FEES ORDER. 1978\n                   (a) the net tonnage of that ship as shown in the certificate of registry\n                        thereof; or\n                   (6) where the Port Authority thinks fit, the net tonnage as determined by\n                        the Port Authority by measurement of that ship to ascertain the\n                        registered tonnage in accordance with the British Merchant Shipping\n                        (Tonnage) Regulations, 1967.\n                4 4 1 ) Harbour fees payable in respect of entry into a harbour by a ship\nSchedule.   falling within any category of ships listed in the first column of the Schedule\n            shall be at the rate specified in relation to that category in the second column of\n            the Schedule in the currency of the United States of America or the amount in\n            Jamaican currency equivalent at the current rate of exchange.\n                     (2) For the purposes of this Order \"current rate of exchange\" means the\n            selling rate for sight transactions ruling on the day on which payment of the\n            harbour fees in respect of that vessel is made.\n                                                         SCHEDULE                                  (Paragraph 4)\n               Category of ships                                                  Rate of Harbour Fees\n               ( I ) Coasting ships            -        US7.78 per annum\n               (2) Container ships             -        On any one visit to Jamaica, USSO. 1600 cents per ton of\n                                                        the net tonnage of the ship for every port entered, up to\n                                                        a maximum not exceeding in the aggregate US$0.3 100\n                                                        cents per ton of the net tonnage.\n               (3) Cruise ships                -        US$0.0517 per ton of the net tonnage of the ship on\n                                                        each visit to Jamaica (irrespective of the number of\n                                                        ports visited).\n               (4) Gypsum ships                -        On any one visit to Jamaica, US$0.2500 cents per ton of\n                                                        the net tonnage of the ship for every port entered, up to\n                                                        a maximum not exceeding in the aggregate US$0.5000\n                                                        cents per ton of the net tonnage.\n               (5) Bauxite and Alumina -                On any one visit to Jamaica, US$0.2000 cents per ton of\n                   ships                                the net tonnage of the ship for every port entered, up to\n                                                        a maximum not exceeding in the aggregate US$0.4000\n                                                        cents per ton of the net tonnage.\n               (6) Petroleum ships             -        On any one visit to Jamaica, US$0.1800 cents per ton of\n                                                        the net tonnage of the ship for every port entered, up to\n                                                        a maximum not exceeding in the aggregate US$0.3600\n                                                        cents per ton of the net tonnage.\n               (7) Any other ship              -        On any one visit to Jamaica, US$0.1900 cents per ton of\n                                                        the net tonnage of the ship for every port entered, up to\n                                                        a maximum not exceeding in the aggregate US$0.3700\n                                                        cents per ton of the net tonnage.\n                                  [The idelusion of this page is authorized by L.N. 141~/2010]"
+    }
+  ],
+  "definitions": [
+    {
+      "term": "alumina ship",
+      "definition": "any ship carrying, or entering any port in",
+      "source_provision": "sec2"
+    },
+    {
+      "term": "bauxite ship",
+      "definition": "any ship carrying, or entering any port in",
+      "source_provision": "sec2"
+    },
+    {
+      "term": "coasting ship",
+      "definition": "any coasting ship, as defined by the Customs",
+      "source_provision": "sec2"
+    },
+    {
+      "term": "container ship",
+      "definition": "any ship designed or adapted solely for",
+      "source_provision": "sec2"
+    },
+    {
+      "term": "cruise ship",
+      "definition": "any ship having a minimum passenger capacity of",
+      "source_provision": "sec2"
+    },
+    {
+      "term": "gypsum ship",
+      "definition": "any ship carrying, or entering any port in",
+      "source_provision": "sec2"
+    },
+    {
+      "term": "petroleum ship",
+      "definition": "any ship carrying, or entering any port in",
+      "source_provision": "sec2"
+    },
+    {
+      "term": "container",
+      "definition": "a container suitable for shipping or storing therein",
+      "source_provision": "sec3"
+    },
+    {
+      "term": "net tonnage",
+      "definition": "in relation to any ship-",
+      "source_provision": "sec3"
+    }
+  ]
 }

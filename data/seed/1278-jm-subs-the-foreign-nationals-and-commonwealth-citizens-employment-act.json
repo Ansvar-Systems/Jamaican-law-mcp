@@ -7,6 +7,139 @@
   "status": "in_force",
   "url": "https://laws.moj.gov.jm/library/subsidiary-legislation/the-foreign-nationals-and-commonwealth-citizens-employment-act",
   "description": "Category: subsidiary_legislation | Source: https://laws.moj.gov.jm/library/subsidiary-legislation/the-foreign-nationals-and-commonwealth-citizens-employment-act",
-  "provisions": [],
-  "definitions": []
+  "provisions": [
+    {
+      "provision_ref": "sec1",
+      "section": "1",
+      "title": "Section 1",
+      "content": "1 . - ( 1 ) D~rectors, inspectors and auditors of any company, association, organization or body\n       (incorporated or established, whether in Jamaica or elsewhere) that-\n      (a) operates in Jamaica; or\n      (b) controls any company, association, organization or body (incorporated or established\n          whether in Jamaica or elsewhere) which operates in Jamaica.\n    (2) In this paragraph \"control\" means the power of a person to secure-\n      (a) in relation to a company, association, organization or other body (other than a\n          partnership) incorporated or established, whether in Jamaica or elsewhere-\n               (i) by means of the holding or the possession of voting power in or in relation to\n                   that body; or\n               (ii) by virtue of any powers conferred by the articles of association or other\n                    document regulating that body,\n           that the affairs of the body, are conducted in accordance with the wishes of that person:\n           and\n      (b) in relation to a partnership, means the right to a share of more than one-half of the assets,\n          or more than one-half of the income of the partnership."
+    },
+    {
+      "provision_ref": "sec2",
+      "section": "2",
+      "title": "Section 2",
+      "content": "2. Consular officers and consular employees as defined in section 2 of the Diplomatic Immunities\n   and Privileges Act, and all persons upon whom by regulations made under that Act there have\n   been conferred the like immunity from suit and legal process and the like inviolability ofofficial\n   archives as are accorded to consular officers of a foreign sovereign Power under that Act."
+    },
+    {
+      "provision_ref": "sec3",
+      "section": "3",
+      "title": "Section 3",
+      "content": "3. Notwithstanding anything to the contrary-\n                                                                                                            I\n      (a) any person, not being a citizen of Jamaica who is a member of a\n          class described in Part 1 of the Schedule; and                  Schedule.\n      (b) subject to the qualification stated in regulation 5, any person, not\n          being a citizen of Jamaica, who is a member of a class described in\n          Part I1 of the Schedule,\nshall be exempt from the provisions of subsection (1) of section 3 of the Act."
+    },
+    {
+      "provision_ref": "sec4",
+      "section": "4",
+      "title": "Section 4",
+      "content": "4. Notwithstanding anything to the contrary-\n      (a) any person who has in his employment any person, not being a\n          citizen of Jamaica, who is a member of a class described in Part I\n          of the Schedule; and\n      (b) subject to the qualification stated in regulation 5, any person who\n          has in his employment any person, not being a citizen of Jamaica,\n          who is a member of a class described in Part I1 of the Schedule,\nshall be exempt from the provisions of subsection (3) of section 3 of the Act\nin respect of such employment and shall apply to the Minister for a certificate\nstating the nature of the exemption.\n                   inclusion of this page is authorized by LN. 95/2013]\n                                                                                                            I\n             FOREIGN NATIONALS A N D C O M M O N W E b L T H CITIZENS\n               (EMPLOYMENT) EXEMPTIONS REGULW TIONS, 1964"
+    },
+    {
+      "provision_ref": "sec4a",
+      "section": "4A",
+      "title": "Section 4A",
+      "content": "4A.--(1) Subject to the qualification set out in regulation 5, a person who\nis a member of a class described in Part Ill df the Schedulz, conducting\nbusiness in Jamaica on-                            I\n      (a) a visit not exceeding thirty days; or\n                                                                 I\n      (b) more than one visit in any calendar year, not exceeding-\n                                                             ,\n              (i) thirty days on each occasion; and\n              (ii) six months in the aggregate,          I\nshall be exempt fiom the provisions of section '3(1) of the Act and shall not\nbe required to apply for a certificate stating the \"ature of the exemption."
+    },
+    {
+      "provision_ref": "sec5",
+      "section": "5",
+      "title": "Section 5",
+      "content": "5. The qualification referred to in regulations 3(b), 4(b) and 4A is that\nthe exemption granted by those provisions shall apply only in respect of such\noccupation or employment, as the case may be, as is directly referable to\nmembership of the class of which the person i/l respect of whose occupation\nor employment exemption is alleged to apply is a member.\n              THE FOREIGN NATIONALS AND COMMONWEALTH CITIZENS\n                  (EMPLOYMEN?)EXEMPTIONS REGULATIONS. 1964\n                                     SCHEDULE                                         (Regulations 3 , 4 )\n            PARTI. Family Members and Students Requrring Exemption Certficate\nI . Wives of citizens of Jamaica and, until remarriage, widows of citizens of Jamaica."
+    },
+    {
+      "provision_ref": "sec6",
+      "section": "6",
+      "title": "Section 6",
+      "content": "6. Persons in the employment in Jamaica of any of the following bodies, that is to say-\n       ( a ) the British Council, members of the domestic staff of the British Council Representative\n              in Jamaica being for this purpose deemed t o be in the employment of the British\n             Council;\n       ( b ) the United States lnformation Service;                                      -.\n       ( c ) the Mission to Jamaica of the United States Agency for International Development;\n       (4the United States Peace Corps;\n       ( e ) the United Kingdom Scheme for Voluntary Service Overseas;\n       V) the Canadian Universities Service Overseas;\n       (g) the Ford Foundation;\n       (h) the German Volunteer Service.\n                         inclusion of this page is authorized by LN. 95/2013]\n             THE FOREIGN NATIONALS AND COMMONWE! LTH CITIZENS\n                 (EMPLOYMENT)EXEMPTIONS REGULA TPNS, 1964"
+    },
+    {
+      "provision_ref": "sec8",
+      "section": "8",
+      "title": "Section 8",
+      "content": "8. Persons employed with the prior approval of the Government of Jamaica by any body\n    incorporated or regulated directly by statute."
+    },
+    {
+      "provision_ref": "sec9",
+      "section": "9",
+      "title": "Section 9",
+      "content": "9. Persons in the employment in Jamaica of the United       at ions Organization or of any other\n    international organization of which Jamaica or the Government of Jamaica is a member."
+    },
+    {
+      "provision_ref": "sec10",
+      "section": "10",
+      "title": "Section 10",
+      "content": "10. officers and soldiers of the Jamaica Defence Force (including officers and soldiers on\n                                                       I\n    secondment or attachment to that Force).\n                                                                            I\nI I . Persons under contract to join in Jamaica as seamen a ship of non-Jamaican registry."
+    },
+    {
+      "provision_ref": "sec12",
+      "section": "12",
+      "title": "Section 12",
+      "content": "12. Persons employed on ships of non-Jamaican registry (exciuding dredges and tugs) in Jamaica."
+    },
+    {
+      "provision_ref": "sec13",
+      "section": "13",
+      "title": "Section 13",
+      "content": "13. [Deleted by Act 14/2011.]                                           I\n                                                                        I"
+    },
+    {
+      "provision_ref": "sec14",
+      "section": "14",
+      "title": "Section 14",
+      "content": "14. Persons employed by the owners or operators of aircraft {being aircraft operated on a scheduled\n    international air service and calling at Jamaica) to perform duties on such aircraft during the\n    flight thereof, but excluding persons employed by Air ~a/naicaLimited.\n                                                                    I"
+    },
+    {
+      "provision_ref": "sec15",
+      "section": "15",
+      "title": "Section 15",
+      "content": "15. [Deleted by Act 14/2011.]\n                                                                I"
+    },
+    {
+      "provision_ref": "sec16",
+      "section": "16",
+      "title": "Section 16",
+      "content": "16. Persons sent by the Government of any sovereign Power outside Jamaica to inspect any office\n    of such Power in Jamaica, but so that exemption in respect of any such person by virtue of this\n    class shall cease after the expiration of fourteen days spent in Jamaica by such person, whether\n    continuously or not, in any one calendar year.           I"
+    },
+    {
+      "provision_ref": "sec17",
+      "section": "17",
+      "title": "Section 17",
+      "content": "17. Writers (including journalists), broadcasters, sculpdors and painters (excluding industrial\n    painters), but so that exemption in respect of any s ~ c h ( ~ e r sshall\n                                                                        o n cease after the expiration of\n    thirty days spent in Jamaica by such person, whether jcontinuously or not, in any one calendar\n    year.                                                    I"
+    },
+    {
+      "provision_ref": "sec18",
+      "section": "18",
+      "title": "Section 18",
+      "content": "18. Persons employed by the University of the West lndies in Jamaica as academic staff, but so that\n    this class shall not include, and exemption thereunder shall not extend to, any foreign national."
+    },
+    {
+      "provision_ref": "sec19",
+      "section": "19",
+      "title": "Section 19",
+      "content": "19. Persons employed by the University Hospital-            '\n                                                            I\n                                                            I\n       (a) as medical officers (whether on a full-time o(a,part-time basis, and whether to perform\n           teaching duties or to carry out treatment of Oat~ents),but so that this paragraph of this\n           class shall not include, and exemption thereunder shall not extend to, any foreign\n           national; or                                 I\n       (b) as student nurses"
+    },
+    {
+      "provision_ref": "sec22",
+      "section": "22",
+      "title": "Section 22",
+      "content": "22. Persons employed as ministers of religion by any ieligious organization approved in writing by\n    the Minister."
+    },
+    {
+      "provision_ref": "sec23",
+      "section": "23",
+      "title": "Section 23",
+      "content": "23. Persons who are granted permission to reside in Jamaica as business migrants under the\n    Jamaican Business Migration Programme.\n                        inclusion of this page is authorized by LN. 95120131\n             THE FOREIGN NATIONALS AND COMMONWEALTHCITIZENS\n                 (EMPLOYMENT) EXEMPTIONS REGULATIONS. 1964"
+    },
+    {
+      "provision_ref": "sec24",
+      "section": "24",
+      "title": "Section 24",
+      "content": "24. [Deleted by Act 14/2011.]\n        PART111. Ofljcials and Technical Experts not Requiring Exemption Certrficate"
+    }
+  ],
+  "definitions": [
+    {
+      "term": "control",
+      "definition": "the power of a person to secure-",
+      "source_provision": "sec1"
+    }
+  ]
 }

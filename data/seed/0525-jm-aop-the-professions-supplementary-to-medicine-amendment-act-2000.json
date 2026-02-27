@@ -7,6 +7,19 @@
   "status": "in_force",
   "url": "https://laws.moj.gov.jm/library/act-of-parliament/the-professions-supplementary-to-medicine-amendment-act-2000",
   "description": "Category: act_of_parliament | Source: https://laws.moj.gov.jm/library/act-of-parliament/the-professions-supplementary-to-medicine-amendment-act-2000 | Year: 2000",
-  "provisions": [],
+  "provisions": [
+    {
+      "provision_ref": "sec1",
+      "section": "1",
+      "title": "Section 1",
+      "content": "1. This Act may be cited as the Professions Supplementary Short title\nto Medicine (Amendment) Act, 2000, and shall be read and X   \".s\nconstrued as one with the Professions Supplementary to\nMedicine Act (hereinafter referred to as the principal Act)\nand all amendments thereto."
+    },
+    {
+      "provision_ref": "sec2",
+      "section": "2",
+      "title": "Section 2",
+      "content": "2. The Second Schedule to the principal Act is amended 4medmsyt\n                                                          o1 Secon\n     (a) by deleting paragraph 1 and substituting therefor Schedule.\n         the following-\n2            [No. 4]                The Professions Supplementary to Medicine\n                                             (Amendment) Act, 2000\n                  \"Constitu-             1. The Council shall consist of such number\n                   tion of the\n                   Council.           of members as shall be appointed by the Min-\n                                      ister, as follows-\n                                             (a) one shall be nominated by the Medical\n                                                 Association of Jamaica;\n                                             (b) one shall be nominated by the Faculty\n                                                 of Medical Sciences of the University\n                                                 of the West Indies;\n                                             (c) two shall be chosen by the Minister;\n                                                  and\n                                             (d) such other persons as may be chosen\n                                                 by the Minister, each of whom shall\n                                                 represent one of the specified pro-\n                                                 fessions.''.\n                      (b) in paragraph 10 by deleting sub-paragraph (4) and\n                              substituting therefor the following-\n                                 \"(4) The quorum of the Council shall not be\n                                        less than one-half of the membership.\"\n    PIIINUD IY                                                                                      ~\n                 JAMAICA PRINTING\n                                    SKRVICES (ts9±) ;\n                                                        ·\"   (GOVERNMENT PRINTERS), DUKE ST., KGM., JAMA\\©"
+    }
+  ],
   "definitions": []
 }

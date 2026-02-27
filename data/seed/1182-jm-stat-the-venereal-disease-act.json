@@ -7,6 +7,43 @@
   "status": "in_force",
   "url": "https://laws.moj.gov.jm/library/statute/the-venereal-disease-act",
   "description": "Category: statute | Source: https://laws.moj.gov.jm/library/statute/the-venereal-disease-act",
-  "provisions": [],
-  "definitions": []
+  "provisions": [
+    {
+      "provision_ref": "sec1",
+      "section": "1",
+      "title": "Section 1",
+      "content": "1. This Act may be cited as the Venereal Disease Act.                     Short title."
+    },
+    {
+      "provision_ref": "sec2",
+      "section": "2",
+      "title": "Section 2",
+      "content": "2. In this Act \"venereal disease\" means syphilis, gonorrhea ~nterpreta-\n                                                           .   tion.\nor soft chancre."
+    },
+    {
+      "provision_ref": "sec3",
+      "section": "3",
+      "title": "Section 3",
+      "content": "3.-41) A person shall not in a declared district, unless he Treatment\nis a duly Registered Medical Practitioner, treat any person for of     venereal\n                                                                    disease in\nvenereal disease or prescribe any remedy therefor, or give any declared\nadvice in connection with the treatment thereof, whether the districts.\nadvice is given to the person to be treated or to any other person.\n        (2) The Minister, whether he is satisfied that proper\nprovision has .been made in any parish, or any part thereof,\nfor the treatment of persons residing therein for venereal di-\nsease, may from time to time by order published in the Gazette\ndeclare any parish, or part thereof, to be a declared district\nwithin the meaning of this section, and thereupon such parish, or\npart thereof, shall be deemed to be a declared district within the\nmeaning of this section until the order declaring the same to be\nsuch a district shall be revoked."
+    },
+    {
+      "provision_ref": "sec4",
+      "section": "4",
+      "title": "Section 4",
+      "content": "4.-41) A person shall not by any advertisement or any Prohibition\npublic notice or announcement treat or offer to treat any person             fe:l:tE-\nfor venereal disease, or prescribe or offer to prescribe any rem-\nedy therefor, or offer to give or give any advice in connection\nwith the treatment thereof.\n       (2) A person shall not hold out or recommend to the pub--\nlic by any notice or advertisement, or by any written or printed\nI\nI\n    I\n    I                       2                        VENEREAL DISEASE\n    I\n        I\n                                 papers or handbills, or by any label, or words written or printed\n            I                    affixed to or delivered with, any packet, box, phial, bottle or\n                                 other enclosure containing the same, any pills, capsules, pow-\n            1\n                                 ders, lozengers, tinctures, potions, cordials, plasters, electuaries,\n                I\n                                 unguents, salves, ointments, drops, lotions, oils, spirits, medica-\n                                 ted herbs and waters, chemical and officinal preparations, surgi-\n                                 cal or electrical appliances whatsoever, to be used or applied ex-\n                                  ternally or internally as medicines or medicaments or treatment\n                                  for the prevention, cure, or relief of any venereal disease:\n                                                                                                         a\n              I\n                                      Provided that nothing in this section shall apply to any adver-\n                    I             tisement, notification, announcement, recommendation or hold-\n                                  ing out made or published by or with the sanction of the Chief\n                i                 Medical Officer.\n                ,   Penalties         5. Any person who acts in contravention of any of the provi-\n                        t\n                                  sions of this Act, shall be guilty of an offence and shall be liable\n                                  on summary conviction before a Resident ~ a ~ i s k atot ea penal-\n                    7/20 I I      ty not exceeding two hundred and fifty thousand dollars, and in\n                    S C ~         default of payment to imprisonment, with or without hard\n                                  labour, for a term not exceeding three moriths, and on a second\n                    7~011         or subsequent conviction to a penalty not exceeding five hun-\n                    Sch\n                                ' dred thousand dollars and in default of payment to imprison-\n                                  ment, with or without hard labour, for a term not exceeding six\n                                  months.\n                    Regulat~ons       6.-(1)       The Minister may make regulations for the better\n                    7/2011\n                    S C ~          carrying    out  of the provisions and purpbses of this Act.\n                                             ( 2 ) Notwithstanding section 29(b) of the Interpretation\n                                  Act, regulations made under this section may provide in respect\n                                   of a breach of any of the provisions thereof for the imposition of\n                  I                penalties on summary conviction in a Resident ~ ~ ~ i s & a t e ' s\n                                   Court of a fine not exceeding one million dollars or imprison-\n                    M~n~ster\n                                   ment for a term not exceeding twelve months or both such fine\n                                   and imprisonment."
+    },
+    {
+      "provision_ref": "sec7",
+      "section": "7",
+      "title": "Section 7",
+      "content": "7. The Minister may, by order subject to affirmative resolu-\n                                                                                                         •\n                    may amend\n                    monetary       tion, amend the monetary penalties specified in this -4ct.\n                            penalhes\n                            7/2011\n                            Sch\n                                       [The lnclus~on of thls page is authorized by L N 92~120121\n                                I"
+    }
+  ],
+  "definitions": [
+    {
+      "term": "venereal disease",
+      "definition": "syphilis, gonorrhea ~nterpreta-",
+      "source_provision": "sec2"
+    }
+  ]
 }

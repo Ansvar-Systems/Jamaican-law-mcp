@@ -7,6 +7,19 @@
   "status": "in_force",
   "url": "https://laws.moj.gov.jm/library/statute/the-solicitor-generals-act",
   "description": "Category: statute | Source: https://laws.moj.gov.jm/library/statute/the-solicitor-generals-act | Legal areas: Regulation of Professions",
-  "provisions": [],
+  "provisions": [
+    {
+      "provision_ref": "sec2",
+      "section": "2",
+      "title": "Section 2",
+      "content": "2. As from the commencement of this Act, the office of Creationof\nAssistant to the Attorney-General shall be abolished and\nthe office of Solicitor-General for Jamaica created.     General.\n                                                                      Xz::tE:-"
+    },
+    {
+      "provision_ref": "sec3",
+      "section": "3",
+      "title": "Section 3",
+      "content": "3. Save in so far as the provisions of this Act are not ~ u t i a m d\n                                                               powers of\nrepugnant to the provisions of any enactment for the time solicitor-\n                                                                 .\nbeing in force, the Solicitor-General shall have all the Gened.\npowers and privileges appertaining to the office of the Assis-\ntant to the Attorney-General at the time of the coming into\nforce of this Act, and, subject always to the directions\nof the Attorney-General, may perform any of the duties\nand exercise any of the powers of the Attorney-General."
+    }
+  ],
   "definitions": []
 }

@@ -7,6 +7,37 @@
   "status": "in_force",
   "url": "https://laws.moj.gov.jm/library/statute/the-property-rates-and-taxes-relief-act",
   "description": "Category: statute | Source: https://laws.moj.gov.jm/library/statute/the-property-rates-and-taxes-relief-act | Legal areas: Real Estate",
-  "provisions": [],
+  "provisions": [
+    {
+      "provision_ref": "sec1",
+      "section": "1",
+      "title": "Section 1",
+      "content": "1. This Act niay be cited as the Property (Rates and Shorttitle.\nTaxes) (Relief) Act."
+    },
+    {
+      "provision_ref": "sec2",
+      "section": "2",
+      "title": "Section 2",
+      "content": "2. In this Act-                                                   Intcrpre-\n                                                                    tktion.\n     “Corporate Area” and “Corporation” have the mean-\n         ings assigned to those expressions, respectively, in\n          section 3 of the Kingston and St. Andreav\n          Corporation Act;\n     “local authority” means the Corporation or any Parish\n          Council;\n     “Parish Rates” means rates provided for by section 7\n          of the Parochial Rates and Finance Act."
+    },
+    {
+      "provision_ref": "sec3",
+      "section": "3",
+      "title": "Section 3",
+      "content": "3.41) Notwithstanding anything to the contrary, in each Payments\nfinancial year commencing after the 31st December, 1971,            ;s:zei\nthere shall be paid, in relation to any property to which this\n                                                           ni;:;;;;;\nsubsection applies, thirty cents in lieu of all such rates as ties.\nmay be imposed upon the property by virtue of provisions\nspecified in the Schedule :                                        Schedule.\n  Provided that no payment-\n     (a) shall be made under this subsection as payment of\n          any rate in case of the property being exempted\n          by any enactment from that rate or in case of\n          liability thereto being, as respects such payment\n          thereof, fully discharged by virtue of any enact-\n          ment providing for relief in that behalf;\n       Dhc inclusion of this page is authorized by L.N. 480/1973]\n2                   PROPERTY (RATES AND TAXES) (RELIEF) ACT\n                   (b) under this subsection shall be deemed to be made\n                       with reference to more of any rate than is payable\n                       consistently with any limited relief therefrom\n                       provided for by any enactment.\n                     (2) Subsection (1) shall apply to any property of a\n              valuation-\n                   (a) not exceeding two thousand dollars as respects any\n                       of the parishes where the Parish Rates are levied\n                       on the unimproved value of properties;\n                   (b) not exceeding three hundred dollars as shown in\n                       so much of the Valuation Roll for the time being\n                       in force as respects the Corporate Area;\n                   (c) not exceeding five hundred dollars as shown in\n                       the remainder of such Roll (exclusive of any divi-\n                       sions for parishes mentioned in paragraph (a) ).\n                     (3) In subsection (2), “valuation” means-\n                   (a) for the purposes of paragraph (a) thereof, such a\n                        valuation for the time being in force under the\n                        Land Valuation Act, as required by paragraph (c)\n                        of subsection (1) of section 17 of that Act;\n                   (b) for the purposes of paragraphs (b) and (c) thereof,\n                        a valuation of any holding for the purposes of the\n                        Valuation Act.\nCollection,     4. Notwithstanding anything to the contrary, every sum\n              required by subsection (1) of section 3 to be paid in any\n              year, in respect of any property, shall upon there falling\n              due, for the first or only time in that year, rates affected by\n              such requirement, be payable to the Collector of Taxes by\n              the owner of the property and the Collector of Taxes shall,\n              subject to any regulations made under paragraph (b) of\n              subsection (1) of section 5, pay over any amount collected\n              by him under this section to the local authority concerned.\n      PROPERTY (RATES AND TAXES) (RELIEF) ACT                       3"
+    },
+    {
+      "provision_ref": "sec5",
+      "section": "5",
+      "title": "Section 5",
+      "content": "5.-(1) The Minister may, by regulations, make provision Re&-\n                                                           tions.\nto give further and better effect to this Act and, without\nprejudice to the generality of the foregoing, may make\nregulations-\n     (a) relating to receipts to be issued for any sums\n         received by a Collector of Taxes under section 4;\n     (b) prescribing the manner in which any amounts shall\n         be paid over to local authorities pursuant to\n          section 4 and credited;\n     (c) making with effect from any date specified therein,\n         not being earlier than the 4th February, 1972, such\n          adaptations and modifications in any other enact-\n          ment made prior to that date as the Minister\n         considers necessary or expedient by reason of\n          anything in this Act.\n       (2) Regulations made under paragraph (c) of sub-\nsection (1) shall be subject to affirmative resolution of the\nHouse of Representatives."
+    },
+    {
+      "provision_ref": "sec6",
+      "section": "6",
+      "title": "Section 6",
+      "content": "6. Nothing provided by or under this Act shall be taken sa*.\nto abridge any of the purposes of the Corporation or any\nother local authority, being purposes for which any amount\nmight, but for this Act, have been credited.\n        me indusion of this page is au&orized by U.17119891\nI\n    4          PROPERTY (RATES AND TAXES) (RELIEF)ACT\n                                      stx.mum                       (Section 3)\n          Lighting Rate under section 27 of the Electric Lighthg Act, C o p -\n        ration Rate. Municipal Improvement Rate and other rates under\n        sections 125, 128 and 209 of the Kingston and St. Andrew Corporation\n        Act.\n         Parish Rate and Local Rate under sections 7 and 14 of the Parochial\n        Rates and Finance Act.\n          Sanitary Tax under section 98 of the Public Health Law,\n                 me inclusion of this page is auhrized by U.17/1989]"
+    }
+  ],
   "definitions": []
 }

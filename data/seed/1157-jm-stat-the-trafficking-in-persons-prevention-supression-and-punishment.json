@@ -7,6 +7,25 @@
   "status": "in_force",
   "url": "https://laws.moj.gov.jm/library/statute/the-trafficking-in-persons-prevention-supression-and-punishment",
   "description": "Category: statute | Source: https://laws.moj.gov.jm/library/statute/the-trafficking-in-persons-prevention-supression-and-punishment | Legal areas: Courts and Judiciary",
-  "provisions": [],
+  "provisions": [
+    {
+      "provision_ref": "sec3",
+      "section": "3",
+      "title": "Section 3",
+      "content": "3. Object of Act.\n        PART 11. Trafficking in Persons and Related Provisions"
+    },
+    {
+      "provision_ref": "sec8",
+      "section": "8",
+      "title": "Section 8",
+      "content": "8. Immunity of victim from prosecution.\n            PART111. Assistance to and Protection of Victims"
+    },
+    {
+      "provision_ref": "sec13",
+      "section": "13",
+      "title": "Section 13",
+      "content": "13. Immigration regime for victims.\n              PART IV. Prevention of Traficking in Persons"
+    }
+  ],
   "definitions": []
 }

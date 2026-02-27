@@ -7,6 +7,13 @@
   "status": "in_force",
   "url": "https://laws.moj.gov.jm/library/statute/the-law-reform-commorientes-act",
   "description": "Category: statute | Source: https://laws.moj.gov.jm/library/statute/the-law-reform-commorientes-act | Legal areas: Trusts and Estates",
-  "provisions": [],
+  "provisions": [
+    {
+      "provision_ref": "sec2",
+      "section": "2",
+      "title": "Section 2",
+      "content": "2. In all cases where, after the 27th December, 1968, two Presump-\n                                                              tion of\nor more persons have died in circumstances rendering it survivor-\nuncertain which of them survived the other or others, such\ndeaths shall for all purposes affecting title to property, be\npresumed to have occurred in order of seniority and accord-\ningly the younger shall be deemed to have survived the elder.\n      me inclusion of this page is authorized by L.N. 480119731"
+    }
+  ],
   "definitions": []
 }

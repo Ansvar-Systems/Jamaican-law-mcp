@@ -7,6 +7,19 @@
   "status": "in_force",
   "url": "https://laws.moj.gov.jm/library/act-of-parliament/no-31-the-pensions-teachers-amendment-act-2002",
   "description": "Category: act_of_parliament | Source: https://laws.moj.gov.jm/library/act-of-parliament/no-31-the-pensions-teachers-amendment-act-2002 | Year: 2002",
-  "provisions": [],
+  "provisions": [
+    {
+      "provision_ref": "sec1",
+      "section": "1",
+      "title": "Section 1",
+      "content": "1. This Act may be cited as the Pensions (Teachers) construction\n                                                            Shor!\"t?\n   Amendment) Act, 2002, and shall be read and construed as and com-\n (\n one with the Pensions (Teachers) Act (hereinafter referred encement.\n to as the principal Act) and all amendments thereto, and ·\n shall be deemed to have come into operation on the IUD\n day of June, 1996.\n2              [No. 31]   The Pensions (Teachers) (Amendment) Act, 2002.. ••\nRepeal of\nSection 8 of"
+    },
+    {
+      "provision_ref": "sec2",
+      "section": "2",
+      "title": "Section 2",
+      "content": "2. Section 8 of the principal Act is hereby repealed.\nprincipal\nAct.\nAmendment        3. The provisions of the Schedule to the principal Act\nof Schedule\nto princi-     specified in the first column of the Schedule hereto are\npal Act.\n               amended in the manner specified in the second column\n               thereof.\n     J e\n            The Pensions (Teachers) (Amendment) Act, 2002         [No. 31]    3\n                               SCHEDULE                         (Section 3)\nProvisions of Schedule\n  to principal Act                         Amendments\n   Regulation 4          Delete the words \"one six-hundredth\" and\n                         substitute therefor the words \"one five-fortieth\"\n   Regulation 8(2)          1. Delete from sub-paragraph. (a) the words\n                         \"pensionable emoluments enjoyed by him\n                         during the last three years of\" and substitute\n                         therefor the words \"highest pensionable emolu-\n                         ments enjoyed by him during\".\n   Regulation   9 (1)      2. Delete sub-paragraph (c).\n                         Delete the words \"one six-hundredth\" and\n                         substitute therefor the words 'one five-fortieth\".\n   Regulation 16         Delete and substitute therefor the following-\n                           \"Emolu-          16. For the purpose of com-\n                             {\"\"$.,g        putting the amount of a\n                             for com-       teacher's pension or gratuity\n                             putation       the highest pensionable emolu-\n                             of pen-        ments ever enjoyed by the\n                             sions, etc.    teacher in the course of his\n                                            teaching service in the Island\n                                            shall be taken.\".\n   Regulation 19 (3)     Delete the words \"pensionable emoluments\n                         enjoyed by him during the last three years of\"\n                         and substitute therefor the words \"highest\n                         pensionable emoluments enjoyed by him\n                         during\".\n   Regulation 23 (1)     Delete the words \"one six-hundredth\" and\n                         substitute therefor the words \"one five-fortieth\"."
+    }
+  ],
   "definitions": []
 }

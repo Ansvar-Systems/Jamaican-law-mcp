@@ -7,6 +7,25 @@
   "status": "in_force",
   "url": "https://laws.moj.gov.jm/library/statute/the-harbour-lights-and-lighthouses-act",
   "description": "Category: statute | Source: https://laws.moj.gov.jm/library/statute/the-harbour-lights-and-lighthouses-act | Legal areas: Environment",
-  "provisions": [],
+  "provisions": [
+    {
+      "provision_ref": "sec1",
+      "section": "1",
+      "title": "Section 1",
+      "content": "1. This Act may be cjted as the Harbour Lights and Short title.\nLighthouses Act."
+    },
+    {
+      "provision_ref": "sec2",
+      "section": "2",
+      "title": "Section 2",
+      "content": "2. In this Act-                                                      Inlerpreta-\n                                                                       tion.\n“lighthouse” means the existing lighthouses at Morant\n     Point, Plumb Point, Negril Point and Folly Point\n     respectively, and every other lighthouse which shall\n     hereafter be established under the provisions of this\n     Act for the safe navigation of the seas; and includes\n     such land around or adjacent to any lighthouse, as\n     may have been or shall be acquired for the purposes\n     thereof, and all buildings now OT hereafter erected\n     thereon for the like purposes;\n“harbour light” means any light or beacon, or system of\n     lights, or beacons provided under the provisions of this\n     Act for the warning or guidance of vessels or boats in\n     entering, leaving, or moving about any harbour or port\n     of this Island during night time; and includes such land\n     as may have been, or shall be acquired for the pur-\n     poses of any harbour light, and all buildings erected\n     thereon for the like purposes."
+    },
+    {
+      "provision_ref": "sec3",
+      "section": "3",
+      "title": "Section 3",
+      "content": "3. All lighthouses and harbour lights are hereby vested Lighthouses\nin the Commissioner of Lands of Jamaica, and shall be K$tpbour\nheld by him and his successors in the said office in trust vested\n                                                           commis-\n                                                                  in\nfor Her Majesty, her heirs and successors, for the several sioner\n                                                           of b n d k\npurposes for which the same were or shall be erected.\n       me inclusion of this page is authorized by L.N. 248/1975]\n2                          HARBOUR LIGHTS A N D LIGHTHOUSES\nManagc              4.-(1) The care and management of all lighthouses and\nmen1 of\nlight-           all harbour lights are hereby vested in the Harbour Master\nhouses.          for Kingston, who in and about such m e and management\n3511%1           shall have the like powers and immunities (so far as the\ns.2.             same are applicable) as the Chief Technical Director has\n3711974\ns.2.             under the Main Roads Act in and about the care and\n                 management of the main roads under any enactment h\n                 force relating thereto.\n                         (2) Nothing in this Act shall be deemed to impose\n                 any personal liability on the Harbour Master for Kingston.\nConstruc-          5. Whenever the House of Representatives by resolu-\ntion of light.   tion, shall authorize the construction of a lighthouse or\nhousoa or\nharbour          harbour light, it shall be lawful for the Port Authority\nlights.\n3711974          to construct such lighthouse or harbour light on a plan\ns. 3 [U) (b).    to be approved by the Minister, and with the like approval\n                 to acquire such land, within one mile of any place or\n                 places actually designated in the resolution, as may be\n                 deemed by the Port Authority, with the approval aforesaid.\n                 to be required for the purpose.\nAccountant-     6. It shall be lawful for the Accountant-General to pay out\n           LQof the Consolidated Fund, such sum or sums (not exceeding\npay sum%\nrequired for in the aggregate the sum named in any resolution as afore-\nCOUWUC-\ntion.        said) as may be payable for or on account of the construc-\n             tion or equipment of the lighthouse or harbour light named\n             in such resolution.\n                        IThe inclusion of this page is authorized by L.N. 24.31 19751"
+    }
+  ],
   "definitions": []
 }

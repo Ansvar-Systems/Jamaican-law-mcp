@@ -7,6 +7,25 @@
   "status": "in_force",
   "url": "https://laws.moj.gov.jm/library/subsidiary-legislation/the-calcium-carbide-sale-and-storage-act",
   "description": "Category: subsidiary_legislation | Source: https://laws.moj.gov.jm/library/subsidiary-legislation/the-calcium-carbide-sale-and-storage-act",
-  "provisions": [],
+  "provisions": [
+    {
+      "provision_ref": "sec2",
+      "section": "2",
+      "title": "Section 2",
+      "content": "2. A building used for the storage of calcium carbide must be\nisolated and distant not less than 30 feet from any dwelling and any\nother building in which any inflammable article is kept, unless it has\nwalls, floor, ceiling, doors and shutters of incombustible material and\nbe solidly and impeMously cut off from all communication with other\nparts of the block."
+    },
+    {
+      "provision_ref": "sec3",
+      "section": "3",
+      "title": "Section 3",
+      "content": "3. Every building used for the storage of calcium carbide must be\nso built and situated that the interior surfaces of the walls, ceiling and\nfloor shall not be liable to become wet, and must be provided with\nample floor and roof ventilation so constructed as to prevent the ingress\nof water. All doors and shutters must open outwards and be so\nconstructed that when closed water will be prevented from entering\nthe building. All doors and shutters must be kept securely locked,\nexcept when necessarily open to give access to the interior of the store."
+    },
+    {
+      "provision_ref": "sec4",
+      "section": "4",
+      "title": "Section 4",
+      "content": "4. No infiammable goods nor damp goods shall be kept in the same\nstore with calcium carbide.\n               IThe inclusion of this page ia authorized by L.N. 4/197@"
+    }
+  ],
   "definitions": []
 }

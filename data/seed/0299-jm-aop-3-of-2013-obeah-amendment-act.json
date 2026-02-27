@@ -7,6 +7,19 @@
   "status": "in_force",
   "url": "https://laws.moj.gov.jm/library/act-of-parliament/3-of-2013-obeah-amendment-act",
   "description": "Category: act_of_parliament | Source: https://laws.moj.gov.jm/library/act-of-parliament/3-of-2013-obeah-amendment-act | Year: 2013",
-  "provisions": [],
+  "provisions": [
+    {
+      "provision_ref": "sec1",
+      "section": "1",
+      "title": "Section 1",
+      "content": "1. This Act may be cited as the Obeah (Amendment) Act, 2013, Short titIeand\nand shall be read and construed as one with the Obeah Act construction.\n(hereinafter referred to as the \"principal Act\") and all amendments\nthereto."
+    },
+    {
+      "provision_ref": "sec2",
+      "section": "2",
+      "title": "Section 2",
+      "content": "2. Section 3 of the principal Act is amended by deleting\" all of Amendment\nthe words appearing immediately after the words \"twelve months\". of    sec~o~ 3 of\n                                                                    the pnnclpal\n                                                                       Act.\n2                 [No. ]         The Obeah (A mendment) Act, 2013\nAmendment           3. Section 4 of the principal Act is amended by deleting all of\nof section 4 of\nthe principal     the words appearing immediately after the words \"six months\".\nAct.\nSavings and          4.-{1) Nothing in this Act shall, except as specified in subsection\ntransitional.\n                  (2), be construed as affecting any sentence ofwhipping duly carned\n                  out pursuant to section 3 or 4 of the principal Act, prior to the\n                  commencement date.\n                        (2) A sentence pursuant to section 3 or 4 of the principal\n                  Act which­\n                       (a) is handed down prior to the commencement date; and\n                       (b) imposes whipping as the whole or a part of the sentence\n                           shall not, to the extent of the whipping only, be carned\n                           out in whole or in part on or after the commencement\n                           date.\n                         (3) In this section \"commencement date\" means the date\n                  on which this Act comes into operation.\nAct binds the       S. This Act binds the Crown.\nCrown.\n    Passed in the Senate this 15th day ofFebruary 2013 with one (1) amendment.\n                                                      STANLEY ST. J. REDWOOD\n                                                                        /\n                                                                             President.\n    Passed in the House ofRepresentatives this 26th day ofFebruary 2013.\n                                                              MICHAEL A. PEART\n                                                                               Speaker.\n   This printed impression has been carefully\ncompared by me with the authenticated\nimpression of the foregoing Act, and has been\nfound by me to be a true and correct printed\ncopy ofthe said Act.\n         I$qol)JI.£. ~L\n       .fiM to the Houses ofParliament."
+    }
+  ],
   "definitions": []
 }

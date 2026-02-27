@@ -7,6 +7,19 @@
   "status": "in_force",
   "url": "https://laws.moj.gov.jm/library/act-of-parliament/19-of-2014-the-mortgage-insurance-amendment-act",
   "description": "Category: act_of_parliament | Source: https://laws.moj.gov.jm/library/act-of-parliament/19-of-2014-the-mortgage-insurance-amendment-act | Year: 2014",
-  "provisions": [],
+  "provisions": [
+    {
+      "provision_ref": "sec1",
+      "section": "1",
+      "title": "Section 1",
+      "content": "1. 1bis Act may be cited as the Mortgage Insurance (Amendment) Short title\nAct, 2014, and shall be read and construed as one with the Mortgage ::struction.\nInsurance Act (hereinafter referred to as the \"principal Act\") and all\namendments thereto."
+    },
+    {
+      "provision_ref": "sec2",
+      "section": "2",
+      "title": "Section 2",
+      "content": "2. Section 4 ofthe principal Act is amended-                         Amendment\n                                                                       of section 4\n     (a) in subsection (l)(b)(i) by deleting the words and numerals    of prinCipal\n         \"90 per centum\" and substituting therefor the words and Act.\n         numerals \"97 per cent\"; and\n 2                [No. ]      The Mortgage Insurance (Amendment)\n                                          Act, 2014\n                       (b) by deleting subsection (4) and substituting therefor the\n                           followmg­\n                                 \" (4) The Minister may from time to time­\n                                    (a)   vary the percentage ofappraised value under\n                                          subsection (l)(b)(i), by order subject to\n                                          affinnative resolution; and\n                                    (b) prescribe variations in respect of the\n                                        percentages or the amount specified in\n                                        subsection (l)(bXii) orin section 5.\".\n Amendment          3. Section 5 ofthe principal Act is amended by deleting from\n of section S\n of principal\n                  subsection (1) the words \"per centum\" and substituting therefor the\n Act.             words \"per cent\".\n Amendment           4. Section 14 ofthe principal Act is amended by deleting from\n of section 14\n of principal\n                  subsection (2)(a) the words \"per centum\" and substituting therefor\n Act.             the words \"per cent\".\n     Passed in the House ofRepresentatives this 11th day ofNovember, 2014.\n                                                           MICHAEL A. PEART\n                                                                            Speaker.\n     Passed in the Senate this 4th day ofDecember 2014.\n                                                           FLOYD E. MORRIS\n                                                                          President..\n     This printed impression has been carefully\n  compared by me with the authenticated\n impression of the foregoing Act, and has been\n found by me to be a true and correct printed copy\n  ofthe said Act.\n                 J).E. Czw/<.e...\n~. Clerk to the Houses ofParliament."
+    }
+  ],
   "definitions": []
 }

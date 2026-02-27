@@ -7,6 +7,19 @@
   "status": "in_force",
   "url": "https://laws.moj.gov.jm/library/act-of-parliament/no-43-the-airports-economic-regulation-act-2002",
   "description": "Category: act_of_parliament | Source: https://laws.moj.gov.jm/library/act-of-parliament/no-43-the-airports-economic-regulation-act-2002 | Year: 2002",
-  "provisions": [],
+  "provisions": [
+    {
+      "provision_ref": "sec1",
+      "section": "1",
+      "title": "Section 1",
+      "content": "1. This Act may be cited as the Airports (Economic Regu- short title\n 1ation) (Amendment) Act, 2002, and shall be read and con- \"%?XE\n  strued as one with the Airports (Economic Regulation) Act,\n  hereinafter referred to as the principal Act."
+    },
+    {
+      "provision_ref": "sec2",
+      "section": "2",
+      "title": "Section 2",
+      "content": "2. seetion 1 of the principal Act is amended by deleting Amendment\n  al      1€ '11ords appearing after the word \"on\" and substitot- of\n                                                                  of section 1\n                                                                     principal\n     11 th\n  ing ti,refor the words the 31st day of December, 2002°.         Act.\n                                             ,            a"
+    }
+  ],
   "definitions": []
 }

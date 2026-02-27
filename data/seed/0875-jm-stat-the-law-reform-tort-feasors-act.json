@@ -7,6 +7,19 @@
   "status": "in_force",
   "url": "https://laws.moj.gov.jm/library/statute/the-law-reform-tort-feasors-act",
   "description": "Category: statute | Source: https://laws.moj.gov.jm/library/statute/the-law-reform-tort-feasors-act | Legal areas: Courts and Judiciary",
-  "provisions": [],
+  "provisions": [
+    {
+      "provision_ref": "sec2",
+      "section": "2",
+      "title": "Section 2",
+      "content": "2. In this Act-                                       Interpreta-\n                                                        tion.\n“parent” and ‘‘child’’ shall have meanings respectively\n     assigned to them by the Fatal Accidents Act\nthe reference to “the judgment 6rst given” shall, in a case\n     where that judgment is reversed on appeal, be con-\n     strued as a reference to the judgment first given which\n     is not so reversed and, in a case where a judgment\n     is varied on appeal, be construed as a reference to\n     that judgment as so varied,"
+    },
+    {
+      "provision_ref": "sec3",
+      "section": "3",
+      "title": "Section 3",
+      "content": "3 - 4 1 ) Where damage is suffered by any person as a Procsedinps\nresult of a tort (whether or not such tort is also a crime+ against     and\n                                                                confnbution\n                                                                ..\n     (a) judgment recovered against any tort-feasor liable behllkn\n                                                                loini and\n           in respect of such damage shall not be a bar to an revera1\n                                                                fcasom.\n                                                                        tort-\n           action against any other person who would, if\n           sued, have been liable as a joint tort-feasor in\n           respect of the same damage;\n     (6) if more than one action is brought in respect of\n           such damage by or on behalf of the person by\n           whom it was suffered, or for the benefit of the\n           estate, or of the wife, husband, parent or child\n           of such person, against tort-feasors liable in\n           respect of the damage (whether as joint tort-\n           feasors or otherwise) the sums recoverable under\n           the judgments given in those actions by way of\n           damages shall not in the aggregate exceed the\n           amount of the damages awarded by the judgment\n           first given; and in any of those actions, other than"
+    }
+  ],
   "definitions": []
 }

@@ -7,6 +7,19 @@
   "status": "in_force",
   "url": "https://laws.moj.gov.jm/library/act-of-parliament/no-36-the-oath-of-allegiance-and-judicial-oath-constitutional-amendment-act-2002",
   "description": "Category: act_of_parliament | Source: https://laws.moj.gov.jm/library/act-of-parliament/no-36-the-oath-of-allegiance-and-judicial-oath-constitutional-amendment-act-2002 | Year: 2002",
-  "provisions": [],
+  "provisions": [
+    {
+      "provision_ref": "sec1",
+      "section": "1",
+      "title": "Section 1",
+      "content": "1. This Act may be cited as the Oath of Allegiance and short title\n   Judicial Oath (Constitutional Amendment) Act, 2002 and \"&».\n   shall be read and construed as one with the Constitution of\n   Jamaica (hereinafter referred to as the Constitution) and all\n   amendments thereto.\n                                                            g \"\n2               [No. 36]           The Oath of Allegiance and Judicial Oath\n                                    (Constitutional Amendment) Act, 2002\nAmendment\nof First"
+    },
+    {
+      "provision_ref": "sec2",
+      "section": "2",
+      "title": "Section 2",
+      "content": "2. The First Schedule to the Constitution is amended-\nSchedule to\nthe Con-              (a) by deleting the Oath of Allegiance and substituting\nstitution.                therefor the following-\n                            \"               Oath of Allegiance\n                                 I,                                , do swear that I\n                                 will be faithful and bear true allegiance to\n                                 Jamaica, that I will uphold and defend the Con-\n                                 stitution and the laws of Jamaica and that I will\n                                 conscientiously and impartially discharge my\n                                 responsibilities to the people of Jamaica. So help\n                                 me God.\";\n                       (b)   by deleting the Judicial Oath and substituting there-\n                             for the following-\n                                 \"                         Judicial Oath\n                                 I,                                  , do swear that I\n                                 will be faithful and bear true allegiance to\n                                 Jamaica, that I will uphold and defend the Con-\n                                 stitution of Jamaica and that I will administer\n                                 justice to all persons alike in accordance with the\n                                 laws and usages of Jamaica without fear or\n                                 favour, affection or ill will. So help me God.\".\n         PRINTED BY JAMAICA PRINTING SERVICES (1992) LTD,, (GOVERNMENT PRINTERS), DUKE ST., KGN., JAMAICA.\n\\\n\\\n    r"
+    }
+  ],
   "definitions": []
 }

@@ -7,6 +7,37 @@
   "status": "in_force",
   "url": "https://laws.moj.gov.jm/library/statute/the-water-supply-act",
   "description": "Category: statute | Source: https://laws.moj.gov.jm/library/statute/the-water-supply-act | Legal areas: Public Utilities",
-  "provisions": [],
+  "provisions": [
+    {
+      "provision_ref": "sec1",
+      "section": "1",
+      "title": "Section 1",
+      "content": "1. This Act may be cited as the Water Supply Act.                     short titb."
+    },
+    {
+      "provision_ref": "sec2",
+      "section": "2",
+      "title": "Section 2",
+      "content": "2. InthisAct-                                                         Interpreta-\n                                                                       tion.\n    ‘‘limitsof supply” in relation to any water under-\n         taking means the limits within which the under-\n         takers are authorized to supply water under any\n         law or regulations;\n    “statutory water undertaker” means the National Water ;Ok%3\n         Commission established under the National Water\n         Commission Act, the Kingston and St. Andrew\n         Corporation, any Parish Council or any Com-\n         mittee authorized by any law or regulations to\n         supply water."
+    },
+    {
+      "provision_ref": "sec3",
+      "section": "3",
+      "title": "Section 3",
+      "content": "3.-(1)  The Minister may, on the application of the Joint--\nstatutory water undertakers concerned, by order, provide mpplica\n                                                         wwof    and\nfor-                                                     undwtakingr\n                                                         bYaOrta\n                                                                       men.\n     (a) the joint furnishing by two or more statutory water\n         undertakers, by agreement, of a supply of water;\n     (b) the constitution, by agreement, of a joint com-\n         mittee of two or more statutory water undertakers\n         for the purpose of exercising all or any of their\n         functions relating to the supply of water;\n     (c) the transfer, by agreement, to a statutory water\n           undertaker of the undertaking or part of the under-\n           taking of any other statutory water undertaker.\n           me inclusion of this page is ax$horised by L.N. 87119851\n2                                     WATER SUPPLY\n                      (2) Any order made under this section may contain\n               such incidental, consequential and supplementary pro-\n               visions as the Minister thinks necessary or expedient for the\n               purposes of the order, and in particular, but without pre-\n               judice to the generality of the foregoing provisions, may\n               provide for the transfer of property and liabilities, and for\n               the modification or adaptation of any law in so far as it\n               applies to any of the statutory water undertakers.\nVariation o€ 4 . 4 1 ) The Minister, on the application of two or more\nlimitsof\nsupply by  statutory   water undertakers, may by order provide for the\nagreement. variation by agreement of any common boundary between\n           their respective limits of supply.\n                      (2) Any order made under this section may contain\n               such incidental, consequential and supplementary provi-\n               sions as the Minister thinks necessary or expedient, including\n               provisions for the modification or adaptation of any law in\n               so far as it applies to any of the statutory water undertakers.\nSupply by         S.--(l) An agreement may be made between any statu-\nstatutory\nwater under-   tory water undertaker and any other persons, whether statu-\ntakers out-\nside their     tory water undertakers or not, for the givirrg by such\nlimits of      statutory water undertaker and the taking by such other\n'UPPlY.\n               persons of a supply of water in bulk or otherwise, for any\n               period, and on any terms and conditions, in any area out-\n               side the limits of supply of such statutory water undertaker :\n                 Provided that-\n                   (a) an agreement under this section shall require the\n                       approval of the Minister, and he shall withhold\n                       his approval if it appears to him that the giving\n                       of the supply is likely to interfere with the supply\n                       of water for any purpose within the limits of supply\n                       of the statutory water undertaker by whom the\n                       supply is to be given; and\n                         WATER SUPPLY                                              3\n     (b) where the supply is to be given to any persons other\n          than a statutory water undertaker, the consent of\n          every statutory water undertaker having jurisdic-\n          tion within the area, or any part of the area, within\n          which the supply is to be given shall be required\n          to the agreement, which consent such statutory\n          water undertaker is hereby authorized to give, with\n          such conditions (if any) as, subject to the approval\n          of the Minister, the statutory water undertaker may\n          prescribe, but such consent shall not be unreason-\n          ably withheld, and any question whether or not it\n          is unreasonably withheld shall be referred to the\n          Minister whose decision thereon shall be hal.\n       (2) For the purpose of laying any pipes or installing\nany apparatus connected therewith, being pipes or appara-\ntus required for giving or taking a supply of water in pur-\nsuance of an agreement under this section, a statutory water\n                                                                                       I\nundertaker may exercise outside its limits of supply the like\npowers as are exercisable by it within such limits of supply\nunder any law or regulations, but subject to the like con-                             c\nditions or obligations."
+    },
+    {
+      "provision_ref": "sec6",
+      "section": "6",
+      "title": "Section 6",
+      "content": "6. Any dispute between statutory water undertakers with Referenceof\nrespect to the furnishing of a supply of water or any matter disputes\n                                                             Minister.to\nincidental thereto shall be referred to the Minister whose\ndecision thereon shall be final."
+    },
+    {
+      "provision_ref": "sec7",
+      "section": "7",
+      "title": "Section 7",
+      "content": "7. This Act shall have effect notwithstanding anything ~ h i s ~ c t t o\n                                                                    prevail not-\nprovision of a law which may be inconsistent with any of the\nprovisions of this Act, shall, to the extent of such incon-\n                                                                    &e-\ninconsistent therewith contained in any other law, and any withstanding\nsistency, have no effect.\n       mhe inclusion of this page is authorized by L.N. 480/1973]"
+    }
+  ],
   "definitions": []
 }

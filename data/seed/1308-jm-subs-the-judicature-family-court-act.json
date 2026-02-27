@@ -7,6 +7,25 @@
   "status": "in_force",
   "url": "https://laws.moj.gov.jm/library/subsidiary-legislation/the-judicature-family-court-act",
   "description": "Category: subsidiary_legislation | Source: https://laws.moj.gov.jm/library/subsidiary-legislation/the-judicature-family-court-act",
-  "provisions": [],
+  "provisions": [
+    {
+      "provision_ref": "sec1",
+      "section": "1",
+      "title": "Section 1",
+      "content": "1. This Order may be cited as the Judicature (Family Court) (St.\nJames, Hanover and Westmoreland Region) Order. 1996."
+    },
+    {
+      "provision_ref": "sec2",
+      "section": "2",
+      "title": "Section 2",
+      "content": "2. There is hereby established a Family Court, to be known as the\nFamily Court-St. James. Hanover and Westmoreland Region, for\nthe parishes of St. James. Hanover and Westmoreland."
+    },
+    {
+      "provision_ref": "sec3",
+      "section": "3",
+      "title": "Section 3",
+      "content": "3. The provisions of seotion 11 of the Act shaII apply to such Court\nwith effect from the 1st day of April. 1996.\n               me fndtulon of thin page Is authorized b y L.N. 73/19991\n                                                                             -"
+    }
+  ],
   "definitions": []
 }

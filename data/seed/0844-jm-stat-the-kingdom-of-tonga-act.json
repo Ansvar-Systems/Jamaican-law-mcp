@@ -7,6 +7,19 @@
   "status": "in_force",
   "url": "https://laws.moj.gov.jm/library/statute/the-kingdom-of-tonga-act",
   "description": "Category: statute | Source: https://laws.moj.gov.jm/library/statute/the-kingdom-of-tonga-act | Legal areas: Citizenship and Nationality",
-  "provisions": [],
+  "provisions": [
+    {
+      "provision_ref": "sec2",
+      "section": "2",
+      "title": "Section 2",
+      "content": "2. In this Act-                                                   Interprcta-\n                                                                    lion.\n    “commencement of this Act” means 4th June, 1970;\n    “Minister” means the Minister responsible for external\n        affairs;\n    “Parliament” means the Parliament of Jamaica."
+    },
+    {
+      "provision_ref": "sec3",
+      "section": "3",
+      "title": "Section 3",
+      "content": "3.- -( 1) On and after the commencement of this Act, all Optration\nexisting law, that is to say all law which, whether being a &-\nrule of law or a provision of an Act of Parliament or of any\nother enactment or instrument whatsoever, is in force on\nthe date of such commencement or has been passed or made\nbefore that date and comes into force thereafter, shall, unless\nand until provision to the contrary is made by Parliament\nor some other authority having power in that behalf, and\nsubject to the following provisions of this section, have the\nsame operation in relation to the Kingdom of Tonga, and\npersons and things belonging to or connected with the\nKingdom of Tonga, as it would have apart from this sub-\nsection if on that date there had been no change in its\nstatus.\n       (2) The Minister may, by order, make such adapta-\ntions in any enactment passed before or after the commence-\nment of this Act, or in any instrument having effect under\nany such enactment, as appear to him necessary or expedient\nin consequence of the change in the status of the Kingdom\nof Tonga on that date; and any such order may, though\n      IThe inclusion of this Iage is authorized by L.N. 480/1973]\n2                        KINGDOM OF TONGA\n    made after the commencement of this Act, be made so as to\n    have effect from the date of such commencement.\n          (3) Every order made under subsection (2) shall be\n    subject to negative resolution.\n          me inclusion of this Iage Is authorized by L.N. 480/19731"
+    }
+  ],
   "definitions": []
 }

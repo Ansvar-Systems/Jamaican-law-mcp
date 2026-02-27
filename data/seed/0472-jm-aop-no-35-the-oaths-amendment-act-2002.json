@@ -7,6 +7,25 @@
   "status": "in_force",
   "url": "https://laws.moj.gov.jm/library/act-of-parliament/no-35-the-oaths-amendment-act-2002",
   "description": "Category: act_of_parliament | Source: https://laws.moj.gov.jm/library/act-of-parliament/no-35-the-oaths-amendment-act-2002 | Year: 2002",
-  "provisions": [],
+  "provisions": [
+    {
+      "provision_ref": "sec1",
+      "section": "1",
+      "title": "Section 1",
+      "content": "1. This Act may be cited as the Oaths (Amendment)\n                                               •        Act, Short title\n                                                             and con-\n  2002 and shall be read and construed as one with the Oaths ruction.\n  Act (hereinafter referred to as the principal Act) and all\n  amendments thereto."
+    },
+    {
+      "provision_ref": "sec2",
+      "section": "2",
+      "title": "Section 2",
+      "content": "2. Section 7 of the principal Act is amended by deleting eadmert\n   the form of the oath of allegiance and substituting therefor \"7\"\",\n   the following-                                                Act.\n        \"I,                               , do swear that I will\n         be f aitbful and bear true allegiance to Jamaica, that\n      2                [No. 35]                   The Oaths (Amendment) Act, 2002\n                                I will uphold and defend the Constitution and the\n                                laws of Jamaica and that I will conscientiously and\n                                impartially discharge my responsibilities to the people\n                                of Jamaica So help me God.\".\n    Amendment\n    of section 8"
+    },
+    {
+      "provision_ref": "sec3",
+      "section": "3",
+      "title": "Section 3",
+      "content": "3. Section 8 of the principal Act is amended by delet-\n    of principal       ing the form of the official oath and substituting therefor\n    Act.\n                       the following-\n                              \"I,                                  , do swear that I\n                               will well and truly serve the people of Jamaica in\n                               the office of                         So help me\n                               God.\".\n    Amendment            4. Section 9 of the principal Act is amended by deleting\n    of section 9\n    of principal      the form of the judicial oath and substituting therefor the\n    Act.              following-\n                             \"I,                                   , do swear that I\n                              will be faithful and bear true allegiance to Jamaica,\n                              that I will uphold and defend the Constitution of\n                              Jamaica and that I will administer justice to all per-\n                              sons alike in accordance with the laws and usages of\n                              Jamaica without fear or favour, affection or ill will -\n                              So help me God.\".\n    Amendment           5. The First Part of the Schedule to the principal Act is\n    of Schedule       amended by inserting next after the words Political\n    to principal\n    Act.              Ombudsman\" the words Public Defender.\n\\\nl\n                                              VJCES <19921 LTD., !GOVERNMENT PRINTERS>, DUKE ST., KGN., JAMAICA.\n           PRINTED BY JAMAICA PRINTING S ER\nI ...\n        ;"
+    }
+  ],
   "definitions": []
 }

@@ -7,6 +7,25 @@
   "status": "in_force",
   "url": "https://laws.moj.gov.jm/library/subsidiary-legislation/the-spirit-licence-act",
   "description": "Category: subsidiary_legislation | Source: https://laws.moj.gov.jm/library/subsidiary-legislation/the-spirit-licence-act",
-  "provisions": [],
+  "provisions": [
+    {
+      "provision_ref": "sec1",
+      "section": "1",
+      "title": "Section 1",
+      "content": "1. This Order may be cited as the Spirit Licence (Noxiocs or\nDetrimental Substance) Order, 1931."
+    },
+    {
+      "provision_ref": "sec2",
+      "section": "2",
+      "title": "Section 2",
+      "content": "2. The use by any person of certain liquors or ingredients commonly\ncalled or known as 'Oil of Gin', 'Oil of Cognac', 'Essence of Brandy'\nand 'Essence of Whisky' and other flavouring essences, substances or\ningredients of a similar character or composition or of any substance\ncontaining higher alcohols or compound ethers or aldehydes or terpenes\nir the preparation of or mixture with any alcoholic liquor for sale\nwith the exception of rum used for blending with other rum and to\nbe sold as such shall be and is hereby prohibited unless the same\nshall be of a brand to be approved by the Minister."
+    },
+    {
+      "provision_ref": "sec3",
+      "section": "3",
+      "title": "Section 3",
+      "content": "3. The use by any person of the substance, liquor or ingredient G.N. 387134\ncommonly known as Methyl Alcohol or of any essence or substance\ncontaining Methyl Alcohol, in the preparation of or mixture with\nany alcoholic liquor for sale is hereby prohibited."
+    }
+  ],
   "definitions": []
 }

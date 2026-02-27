@@ -7,6 +7,25 @@
   "status": "in_force",
   "url": "https://laws.moj.gov.jm/library/statute/the-co-operative-republic-of-guyana-act",
   "description": "Category: statute | Source: https://laws.moj.gov.jm/library/statute/the-co-operative-republic-of-guyana-act | Legal areas: Citizenship and Nationality",
-  "provisions": [],
+  "provisions": [
+    {
+      "provision_ref": "sec1",
+      "section": "1",
+      "title": "Section 1",
+      "content": "1. This Act may be cited as the Co-operative Republic Shorttitle.\nof Guyana Act."
+    },
+    {
+      "provision_ref": "sec2",
+      "section": "2",
+      "title": "Section 2",
+      "content": "2. In this Act-                                                    Interpreta-\n                                                                     tion.\n    “commencement of this Act” means 23rd February,\n        1971;\n    “Minister” means the Minister responsible for external\n        affairs;\n    “Parliament” means the Parliament of Jamaica."
+    },
+    {
+      "provision_ref": "sec3",
+      "section": "3",
+      "title": "Section 3",
+      "content": "3.-(1) On and after the commencement of this Act, all Operation\nexisting law, that is to say all law which, whether being a of\n                                                            law.\n                                                               existing\nrule of law or a provision of an Act of Parliament or of any\nother enactment or instrument whatsoever, is in force on the\ndate of such commencement or has been passed or made be-\nfore that date and comes into force thereafter, shalli unless\nand until provision to the contrary is made by Parliament\nor some other authority having power in that behalf, and\nsubject to the following provisions of this section, have the\nsame operation in relation to the Co-operative Republic\nof Guyana, and persons and things belonging to or con-\nnected with the Co-operative Republic of Guyana, as it\nwould have apart from this subsection if Guyana had not\nbecome a Co-operative Republic.\n       (2) The Minister may, by order, make such adapta-\ntions in any enactment passed before or after the com-\nmencement of this Act, or in any instrument having effect\n2            CO-OPERATIVE REPUBLIC OF GUYANA\n    under any such enactment, as appear to him necessary or\n    expedient in consequence of Guyana having become a Co-\n    operative Republic, and any such order may, though made\n    after the commencement of this Act, be made so as to\n    have effect from the date of such commencement.\n          (3) Every order made under subsection (2) shall be\n    subject to negative resolution.\n          me inclusion of this page is authorized by L.N. 480/1973]"
+    }
+  ],
   "definitions": []
 }

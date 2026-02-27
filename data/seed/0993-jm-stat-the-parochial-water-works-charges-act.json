@@ -7,6 +7,31 @@
   "status": "in_force",
   "url": "https://laws.moj.gov.jm/library/statute/the-parochial-water-works-charges-act",
   "description": "Category: statute | Source: https://laws.moj.gov.jm/library/statute/the-parochial-water-works-charges-act | Legal areas: Local Government",
-  "provisions": [],
+  "provisions": [
+    {
+      "provision_ref": "sec1",
+      "section": "1",
+      "title": "Section 1",
+      "content": "1.       Act may be cited as the Parochial Water Works Short title.\nCharges Act."
+    },
+    {
+      "provision_ref": "sec2",
+      "section": "2",
+      "title": "Section 2",
+      "content": "2. In this Act the expression “water works” means any tion.  Interpm*a-\ntank, well, reservoir and any other receptacle for water or\nmeans of providing a supply of water constructed wholly\nor in part from moneys voted by the Legislature in the\nyears one thousand nine hundred and twelve and one\nthousand nine hundred and thirteen, or to be voted in any\nsubsequent year, for the purpose of providing a water supply\nin any parish or for the purpose of augmenting any existing\nwater supply in any parish."
+    },
+    {
+      "provision_ref": "sec3",
+      "section": "3",
+      "title": "Section 3",
+      "content": "3.-(1) The Parish Council of a parish shall charge for ParishCouncil\nthe supply of all water from the water works in such parish Shall\n                                                               Charge for\nin accordance with rules to be made by such Council:           water\n                                                               supplied.\n  Provided always that the Minister may at any time and\nfrom time to time by order approve of the free distribution\nof water for any period to be named in such order either\ngenerally or to such persons or class of persons as to the\nMinister may seem fit and the Minister may withdraw or\nvary any order made under this section.\n       (2) The provisions of section 124 of the Parish $         @i&p\n Councils Act shall apply in relation to rules under this Act. i x o f\n                                                              Parish\n                                                              CWndL\n                                                              AU,\n      (3) A breach of any rule made under this Act may ~ 1 9 9 s\non summary conviction be punished by a fine not exceeding s.     3.\n                                                              punish.\nfive thousand dollars and in default of payment by im-        rzTof\nprisonment for a period not exceeding one month.              rul.3.\n                                                              4Oll995\n          Feinclllsion ofthihinpageisaufi~orized\n                                               byL.N. YSj199q s. 3.\n2                   PAROCHIAL WATER WORKS CHARGES"
+    },
+    {
+      "provision_ref": "sec4",
+      "section": "4",
+      "title": "Section 4",
+      "content": "4. Rules made under this Act may define the area and\nandcrrent\n.I lnodr to\n            extent  of any public or parochial lands to be deemed part\nbedeemed    of any water works for the purposes of this Act, and if\npart of\nwater       any person shall trespass on any water works, or on any\nu4rkr;\npunishrncni lands  so defined, such person shall be guilty of an offence\nfortrespas and shall be liable on summary conviction to a fine not ex-\n0 0 same.\n4011995     ceeding five thousand dollars and in default of payment to\nS. 3.       imprisonment, with or without hard labour, for a period\n            not exceeding one month.\n                    [The iaclusion of this pageis aQt%unzedby L.N. 95119971"
+    }
+  ],
   "definitions": []
 }

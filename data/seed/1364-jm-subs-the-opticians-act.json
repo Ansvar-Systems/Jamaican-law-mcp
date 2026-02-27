@@ -7,6 +7,13 @@
   "status": "in_force",
   "url": "https://laws.moj.gov.jm/library/subsidiary-legislation/the-opticians-act",
   "description": "Category: subsidiary_legislation | Source: https://laws.moj.gov.jm/library/subsidiary-legislation/the-opticians-act",
-  "provisions": [],
+  "provisions": [
+    {
+      "provision_ref": "sec2",
+      "section": "2",
+      "title": "Section 2",
+      "content": "2. The universities, colleges or institutions listed in the Schedule Schedule.\nare recognized for the purposes of section 8 (b) of the Act.\n                                  SCHEDULE                                 (Paragraph 2)\nUniversity of California,\n  School of Optometry,\n      Berkeley, Califomla\nChicago College of Optometry,\n   1849 .Larrabee SKeet?\n      Chlcago 14, Illinois\nColumbia University,\n  School of Optometry,\n      New York 27, New York\nLos Angeles College of Optometry.\n   950 West Jefferson,\n         Los Angeles 7, California\nMassachusetts College of\n   Optometry,\n      285 Huntington Ave.,\n         Boston 15, Mass.\nNorthern Illinois College     - of\n   Optometry,\n      Drexel Blvd., 42nd Place,\n         Chicago, IUinols\nOhio State University School of\n   Optometry,\n      Columbus 10, Ohio\nPacific University College of\n   Optometry,\n      Forest Grove, Oregon\nP e ~ s y l v a n i aState College of\n      Optmerry,\n      6100 No. 12th Street,\n         Philadelphia 4 1, Pa.\nSouthern College of Optometry,\n   865 Washington Ave.,\n      Memphis, Tennessee\n                  me inclusion of thii paBe is authoriPed by L.N. 4/197q\n                                                                                  -"
+    }
+  ],
   "definitions": []
 }

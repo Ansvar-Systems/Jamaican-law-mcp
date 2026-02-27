@@ -7,6 +7,25 @@
   "status": "in_force",
   "url": "https://laws.moj.gov.jm/library/statute/the-undesirable-publications-prohibition-of-importation-act",
   "description": "Category: statute | Source: https://laws.moj.gov.jm/library/statute/the-undesirable-publications-prohibition-of-importation-act | Legal areas: Media and Information",
-  "provisions": [],
+  "provisions": [
+    {
+      "provision_ref": "sec1",
+      "section": "1",
+      "title": "Section 1",
+      "content": "1. This Act may be cited as the Undesirable Publications Shorttitle.\n(Prohibition of Importation) Act."
+    },
+    {
+      "provision_ref": "sec2",
+      "section": "2",
+      "title": "Section 2",
+      "content": "2. In this Act-                                                    Interpreta-\n                                                                     tion.\n“publication” includes all written or printed matter and ;+J1$;.\n    everything, whether of a nature similar to written or\n    printed matter or not, containing any visible representa-\n    tion, or by its form, shape, or in any manner capable\n    of suggesting words or ideas, and every copy and repro-\n    duction of any publication;\n“periodical publication” includes every publication issued\n    periodically or in parts or numbers at intervals, whether\n     regular or irregular;\n“import” includes-\n       (a) to bring into Jamaica; and\n       (b) to bring within the inland waters of Jamaica\n            whether or not the publication is brought ashore,\n            and whether or not there is an intention to bring\n            such publication ashore."
+    },
+    {
+      "provision_ref": "sec3",
+      "section": "3",
+      "title": "Section 3",
+      "content": "3.-(1) Where the Minister is of opinion that the importa- Powerp~.\ntion of any publication would be contrary to the public portationof\n                                                              prohibit im-\ninterest he may, by order prohibit the importation of such publications.\n                                                              53/1953\npublication, and in the case of a periodical publication may,        ss\nby the same or a subsequent order, prohibit the importation\nof any past or future issue of such publication.\n2                      UNDESIRABLE PUBLICATIONS (PROHIBITION\n                                 OF IMPORTATION)\n53/1953                 (2) Where the Minister has by an order under sub-\ns. 2 ( c ) .\n                section (1) prohibited the importation of any publication\n                he may, if in his opinion it would be in the public interest\n                to do so, by a subsequent order prohibit the importation of\n                all or any other publications of the same publisher.\n                        (3) Every order made under this section shall be pub-\n                lished in the Gazette.\nPenalties.         4.-(1) Any person who imports, publishes, sells, offers\n                for sale, distributes, or reproduces any publication, the im-\n                portation of which has been prohibited under the provisions\n                of section 3, or any extract therefrom, shall be guilty of an\n                offence against this Act and shall be liable on summary con-\n                viction before a Resident Magistrate to a fine not exceeding\n                two hundred dollars or to imprisonment with or without\n                hard labour for a term not exceeding twelve months or to\n                both such fine and imprisonment, and every such publica-\n                tion, or extract therefrom, shall be forfeited to Her Majesty.\n                       (2) Any person who without lawful excuse has in his\n                possession any publication, the importation of which has\n                been prohibited under the provisions of section 3, or any\n                extract therefrom, shall be guilty of an offence against this\n                Act and shall be liable on summary conviction before a\n                Resident Magistrate to a fine not exceeding one hundred\n                dollars or to imprisonment with or without hard labour for\n                a term not exceeding six months or to both such fine and\n                imprisonment, and every such publication, or extract there-\n                from, shall be forfeited to Her Majesty.\n&liveryup         5.-(1) Any person-\nof prohibited\npublication.         (a) to whom any publication, the importation of which\n                         has been prohibited under the provisions of section"
+    }
+  ],
   "definitions": []
 }

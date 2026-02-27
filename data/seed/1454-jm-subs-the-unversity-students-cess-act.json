@@ -7,6 +7,70 @@
   "status": "in_force",
   "url": "https://laws.moj.gov.jm/library/subsidiary-legislation/the-unversity-students-cess-act",
   "description": "Category: subsidiary_legislation | Source: https://laws.moj.gov.jm/library/subsidiary-legislation/the-unversity-students-cess-act",
-  "provisions": [],
-  "definitions": []
+  "provisions": [
+    {
+      "provision_ref": "sec1",
+      "section": "1",
+      "title": "Section 1",
+      "content": "1.-(1)  The amount to be refunded pursuant to these Regulations shall,\n             subject to the provisions of this Schedule, be a sum equivalent to the total\n             amount of cess paid by the applloant.\n                   (2) Each paymemt of such refund shall-\n                 (a)   be in respect of one year's teaching service; and\n                 (b) be an m o u n t equivalent to one-fifth of the total amouat d cew paid\n                      'by the applicant."
+    },
+    {
+      "provision_ref": "sec2",
+      "section": "2",
+      "title": "Section 2",
+      "content": "2. In these Regulations-                                                 Interpro-\n                                                                             tation.\n       \"Bureau\" means the Students' Loan Bureau established under sec-\n            tion 4 of the Students' Loan Fund Act;\n       \"certifying officer\" means the Permanent Secretary in the Ministry\n            d Education;\n       \" ~ i s s i o n e r \"means the Cammissioner of Inland Revenue;\n       \"puMic educational institution\" has the same meaning as in the\n            Education, Act;\n       \"teaching service\" means service as a teacher in a public educational\n            institution;\n       \"year\" means a period of twelve months beginning on the date on\n             which a person commenced teaching service."
+    },
+    {
+      "provision_ref": "sec3",
+      "section": "3",
+      "title": "Section 3",
+      "content": "3.41) A person who paid oess pursuant to the Act and wh-              Penom\n                                                                        efidb,e\n     (a) is, at the date of coming into operation of these Regulations, %$abd\n          emp!loyed in teaching service; or\n     (b) entered such service on or after the 1st day of May, 1988 and\n          was so employed for not less than one year,\nshall be eligible for a refund of the cess paid as ahresaid.\n      (2) A refund of cess pursuant to paragraph (1) shdl be paid in\nmrch manner and on such terms and subject to such conditions as\nare specified in the First Schedule.                                 Pint\n-               Fhe inclusion of this page is authorized by L.N. 70119921\n                                                                               Schedule.\n4                      THE UNIVERSITY STUDENTS CESS (TEACHERS REFUND)\n                                      REGULATIONS, 1990\nAppllcatlm     4. Every application for a refund of cess shall be-\nfor refund\nof -8s.\nSecond\n                 (a) in the form prescribed in the Second Schedule; and\nSchedule.\n                 (b) accompanied by a certified copy of a statement issued by the\n                      Bureau showing the total amount of the cess paid by the\n                      applicant.\nRefund of\nCQB."
+    },
+    {
+      "provision_ref": "sec4",
+      "section": "4",
+      "title": "Section 4",
+      "content": "4. Date d Graduation      ..........................................................................."
+    },
+    {
+      "provision_ref": "sec5",
+      "section": "5",
+      "title": "Section 5",
+      "content": "5. The Commissioner shall, upon receipt of the documents referred\n             to in regulation 4 (b),make a refund ofcess to the applicant.\nO U            6. Notwithstanding section 28 of the Interpretation Act, every person\n             who obtains a refund of cess by means of any false representat~ons\n             shall be guilty d an offence and shall be liable on summary conviction\n             in a Resident Magistrate's Court to a fine not exceeding five thmsand\n             dollars or in default of payment to impris~n~mmt     for a term not ex-\n             ceeding six months."
+    },
+    {
+      "provision_ref": "sec6",
+      "section": "6",
+      "title": "Section 6",
+      "content": "6. Address af public educational institution             ............................................."
+    },
+    {
+      "provision_ref": "sec7",
+      "section": "7",
+      "title": "Section 7",
+      "content": "7. Amount af Css paid        .......................................................................\n             (Please attach verification)\n             (from Students' Loan Bureau).\n                             [The inclusion of this page ia authorized by L.N. 70/1992]\n        THE UNIVERSITY STUDENTS CESS (TEACHERS REFUND)\n                       REGULATIONS, 1990\n                                 r S e c o ~SCHEDULE,\n                                             ~      contd.\n                    (To be conmpIeted by PriwJpal and Cbivmun)\nVerificaton d Service since O a h t i o n ...................................................\n1 certify hat        .......................................has engaged in taak!hb~pmvicc at\n........................................... during the p e w........................................\n                                                            Pdndpal.....................................\n                                                            xxxaiwam....................................\n                       (To be completed by Ministry of Education)\nVerification of Service since Graduation               ..................................................\n                                                 ckrixying mw         .................................\n                                                 Date.. ................................................\n                           (To be Wmpleted by Inkmd Revenue)\n A o n m to be reduatmed  ..............................................................................\n Period to wMwh refund relates.......................        ........................................\n Asproved by.. .................................................Dab...............................\n This Form ie to be completed and returned to the Permanent Secretary,\n Ministry af Education, N a t i d H e r w Circle, P.O. Box 498, Kingston.\n                      vhe inclusion of this page is authorized by L.N. 70/1992]"
+    }
+  ],
+  "definitions": [
+    {
+      "term": "Bureau",
+      "definition": "the Students' Loan Bureau established under sec-",
+      "source_provision": "sec2"
+    },
+    {
+      "term": "certifying officer",
+      "definition": "the Permanent Secretary in the Ministry",
+      "source_provision": "sec2"
+    },
+    {
+      "term": "teaching service",
+      "definition": "service as a teacher in a public educational",
+      "source_provision": "sec2"
+    },
+    {
+      "term": "year",
+      "definition": "a period of twelve months beginning on the date on",
+      "source_provision": "sec2"
+    }
+  ]
 }

@@ -7,6 +7,49 @@
   "status": "in_force",
   "url": "https://laws.moj.gov.jm/library/subsidiary-legislation/the-arrangement-of-sections",
   "description": "Category: subsidiary_legislation | Source: https://laws.moj.gov.jm/library/subsidiary-legislation/the-arrangement-of-sections",
-  "provisions": [],
+  "provisions": [
+    {
+      "provision_ref": "sec4",
+      "section": "4",
+      "title": "Section 4",
+      "content": "4.    Application.\n             PART II. The National Identification and Registration Authority"
+    },
+    {
+      "provision_ref": "sec8",
+      "section": "8",
+      "title": "Section 8",
+      "content": "8.    Co-operation between the Authority and public bodies.\n              PART III. The National Identification Databases and the Civil\n                                       Registration Databases"
+    },
+    {
+      "provision_ref": "sec20",
+      "section": "20",
+      "title": "Section 20",
+      "content": "20.   Cancellation of National Identification Card.\n                                            2"
+    },
+    {
+      "provision_ref": "sec22",
+      "section": "22",
+      "title": "Section 22",
+      "content": "22.   Obligation to surrender National Identification Card.\n      PART IV. Use and Security of Information Stored in the National Databases"
+    },
+    {
+      "provision_ref": "sec25",
+      "section": "25",
+      "title": "Section 25",
+      "content": "25.   Requests for information or for authentication and verification services.\n                              PART V. Appeals and Oversight"
+    },
+    {
+      "provision_ref": "sec27",
+      "section": "27",
+      "title": "Section 27",
+      "content": "27.   National Databases Inspectorate.\n                            PART VI. Offences and Enforcement"
+    },
+    {
+      "provision_ref": "sec29",
+      "section": "29",
+      "title": "Section 29",
+      "content": "29.   Powers of search and seizure.\n                                     PART VII. General"
+    }
+  ],
   "definitions": []
 }

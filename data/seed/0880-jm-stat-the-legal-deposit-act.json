@@ -7,6 +7,60 @@
   "status": "in_force",
   "url": "https://laws.moj.gov.jm/library/statute/the-legal-deposit-act",
   "description": "Category: statute | Source: https://laws.moj.gov.jm/library/statute/the-legal-deposit-act | Legal areas: Media and Information",
-  "provisions": [],
-  "definitions": []
+  "provisions": [
+    {
+      "provision_ref": "sec1",
+      "section": "1",
+      "title": "Section 1",
+      "content": "1. This Act may be cited as the Legal Deposit Act.                             short title."
+    },
+    {
+      "provision_ref": "sec2",
+      "section": "2",
+      "title": "Section 2",
+      "content": "2.-(1)   For the purposes of this Act-                                         Interpreta-\n                                                                               tion.\n   \"document\" means library matter of any kind, nature and\n       description and includes any document, paper, record,\n       tape or other thing published by a national publisher or\n       a publisher resident in a foreign country, on or in\n       which information is written, recorded, stored or\n       reproduced;\n   \"legal depository\" means the National Library of Jamaica\n        and any other library designated by order of the\n        Minister under section 3;\n   \"library\" includes any Government office or department or\n        other institution approved by the Minister which\n        maintains a collection of documents to which\n        members of the public may have access.\n   \"national publisher\" means, subject to subsection (2), any\n        person resident in Jamaica who by himself or in\n        association with others, produces any document and\n        publishes it in Jamaica;\n   \"to produce\", in relation to any document, means to\n       manufacture copies thereof by any electronic,\n       mechanical, reprographic or other process;\n   \"to publish in Jamaica\", in relation to any document, means\n        subject to subsection (3), to release copies of such\n        documents in Jamaica for public distribution or for\n        sale and the term \"publication\" shall be construed\n        accordingly.\n                                             LEGAL DEPOSIT\n                        (2) Where any document, or any wrapper or container in\n                 which any copies thereof are published, bears an imprint,\n                 whereby any person holds himself out to be the publisher\n                 thereof, that person shall, for the purposes of this Act, be\n                 deemed to be the publisher.\n                        (3) Where any document is published at intervals in\n                 parts or instalments, each part or instalment shall be deemed to\n                 be separate work.\nDesiwtion of       3.-41) The National Library of Jamaica is hereby designated\nlegal deposit-\nories.           the principal legal depository into which all documents shall be\n                 deposited.\n                        (2) Notwithstanding subsection (I), the Minister may, by\n                 order, designate any other library as a legal depository and shall\n                 therein specify in relation to each such legal depository, the\n                 categories of documents which shall be deposited in that\n                 depository.\n                         (3) The Minister may by order specify in relation to each\n                 legal depository the number of copies of each document which\n                 shall be deposited therein.\nObligationto       4. Subject to regulations made under section 8, every\ndeposit copies\nof publica-      national publisher shall, within one month of the publi-\ntions.           cation of any document which he publishes in Jamaica,\n                 deposit in each legal depository the number of copies specified\n                 pursuant to section 3 (3).\nObligationof       5.-(1) Subject to the provisions of this section, every\nnational\npublisher.       national publisher shall within the first fourteen days of\n                 February, May, August and November in each year, hrnish each\n                 legal depository with a list of the documents which he has\n                 published in the preceding three months.\n                         (2) A list hrnished under' subsection (1) shall contain\n                 the title or description, and the name and address of the\n                 publisher of each document referred to therein.\n                             LEGAL DEPOSIT\n       (3) Where, in consequence of an order made pur-\nsuant to section 3, any category of document is not required to\nbe deposited with any legal depository, it shall not be necessary\nfor a list of documents comprised in that category to be\nhrnished to that legal depository under subsection (1)."
+    },
+    {
+      "provision_ref": "sec4",
+      "section": "4",
+      "title": "Section 4",
+      "content": "4, to receive from that depository, within one month of the\ndeposit, a sum equivalent to the actual cost of the production of\nthe copy so deposited.\n        (2) At the time of the making a deposit with a legal\ndepository pursuant to section 4, the national publisher\nshall make a request, in writing addressed to the person in\ncharge of the legal depository, for payment of the sum to\nwhich he claims he is entitled under subsection (1) and\nshall submit therewith a statement in writing of the actual\ncost to him of the production of the copy deposited.\n       (3) Where a national publisher makes no request for\npayment in accordance with subsection (2), he shall be\ndeemed to have waived his entitlement to payment under\nsubsection (1).\n       (4) This section shall not apply where the document\nis published by the Crown or any Government department\nor ofice or any statutory body.\n        (5) Where a national publisher-\n     (a) does not receive compensation from a legal depository\n         within the period specified in subsection (1) for the\n         reason that in the opinion of the legal depository-\n                  (i) the national publisher is not entitled to\n                      compensation; or\n                                        LEGAL DEPOSIT\n                            (ii) a statement of costs submitted under sub-\n                                 section (2) specified an amount which is in\n                                 excess of the actual total cost to the national\n                                 publisher of the production of the copy\n                                 deposited; and\n                (b) is unable to satisfy the legal depository as to the right\n                    to compensation or reach an agreement with the legal\n                                                                                      0\n                    depository in respect of some lesser amount as\n                    constituting the actual cost of production,\n            the national publisher may by summons refer the matter to a\n            Judge in Chambers in order to establish the right to\n            compensation or the amount of compensation or both.\n                   (6) Where a national publisher or a legal depository\n            is aggrieved by the decision of a Judge in Chambers under\n            subsection (9, the national publisher or legal depository\n            may appeal to the Court of Appeal.\n                    (7) Any payment to which a national publisher is\n            entitled by virtue of subsection (1) shall be recoverable as a\n            civil debt.\nOtfences.     7.-(1)   Any national publisher who fails to comply with\n            section 4 commits an offence and is liable on summary con-\n            viction before a Resident Magistrate to a fine not exceeding fifty\n            thousand dollars and to forfeit to each of the legal depositories\n            entitled to such deposit, one copy of the document required by\n            that section to be deposited.\n                                                                                      r'\\\n                   (2) Any national publisher who fails to comply with                LJ\n            section 5 shall be liable on conviction before a Resident\n            Magistrate to a fine not exceeding fifty thousand dollars.\n                   (3) The Minister may, by order subject to aflitmative\n            resolution, amend the penalties specified in subsections (I)\n            and (2)."
+    },
+    {
+      "provision_ref": "sec6",
+      "section": "6",
+      "title": "Section 6",
+      "content": "6.-(1)   Subject to the provisions of this section, every Compen-\nnational publisher shall be entitled, in relation to each copy of a sation of\ndocument deposited with a legal depository pursuant to section publisher."
+    },
+    {
+      "provision_ref": "sec8",
+      "section": "8",
+      "title": "Section 8",
+      "content": "8. Minister may make regulations generally for giving effect Regulations.\n    to the provisions and purposes of this Act and in particular such\n    regulations may prescribe-\n        (a) categories, classes orb descriptions of documents\nc           which shall be exempt from this Act;\n        (h) the kind of copy which is required to be deposited\n            where copies of the document are not of uniform\n            quality and the conditions under which the deposit\n            should be made.\n    Regulations made hereunder shall be subject to negative\n    resolution."
+    },
+    {
+      "provision_ref": "sec9",
+      "section": "9",
+      "title": "Section 9",
+      "content": "9. Every book deposited pursuant to section 3 of the Books Transferand\n    (Preservation and Registration of Copies) Act (now repealed)              zzof\n    shall, on the I lthOctober, 2004, be transferred to and vest in the deposited.\n    principal legal depository specified in section 3."
+    },
+    {
+      "provision_ref": "sec10",
+      "section": "10",
+      "title": "Section 10",
+      "content": "10. This Act shall be binding on the Crown, but nothing ~ cbinds\n                                                                   t\n                                                              crown.\n    in this Act shall render the Crown liable to prosecution."
+    }
+  ],
+  "definitions": [
+    {
+      "term": "document",
+      "definition": "library matter of any kind, nature and",
+      "source_provision": "sec2"
+    },
+    {
+      "term": "legal depository",
+      "definition": "the National Library of Jamaica",
+      "source_provision": "sec2"
+    }
+  ]
 }

@@ -7,6 +7,31 @@
   "status": "in_force",
   "url": "https://laws.moj.gov.jm/library/statute/the-loans-overseas-temporary-borrowings-act",
   "description": "Category: statute | Source: https://laws.moj.gov.jm/library/statute/the-loans-overseas-temporary-borrowings-act | Legal areas: Finance and Banking",
-  "provisions": [],
+  "provisions": [
+    {
+      "provision_ref": "sec1",
+      "section": "1",
+      "title": "Section 1",
+      "content": "1. This Act may be cited as the Loans (Overseas) shorttitle.\n(Temporary Borrowings) Act."
+    },
+    {
+      "provision_ref": "sec2",
+      "section": "2",
+      "title": "Section 2",
+      "content": "2. I n this Act, unless the context otherwise requires, “over- Interprets-\nseas loan Act” means any other enactment of Jamaica ‘On*\nauthorizing the raising of loans outside the Island, not-\nwithstanding that authority may also be conferred in such\nenactment for the raising of loans in the Island."
+    },
+    {
+      "provision_ref": "sec3",
+      "section": "3",
+      "title": "Section 3",
+      "content": "3.--(1) Subject to the provisions of subsections (2) and Authority\n(3), the Minister is hereby authorized to raise from time to for tem-\ntime as may be convenient sums of money by way of tern-             Ey~gs.\nporary borrowing on such terms and subject to such con-\nditions as he may think fit.\n        (2) No s u m of money shall be raised under this Act\nunless, on the day on which that sum is raised, that sum\nand all principal moneys remaining unpaid in respect of\nall other sums previously raised under the authority of this\nAct do not exceed-\n      (a) the sum of ten million dollars; or\n      (b) the amount which at that date remains to be raised\n           under the authority of the overseas loan Acts,\nwhichever is the less.\n        (3) Every sum of money raised under the authority\nof this Act shall be appropriated and applied to purposes\napproved by or under an overseas loan Act.\n       me inclusion of this page is authorized by L.N. 480/1973]\n2                   LDANS (OVERSEAS) (TEMPORARY BORROWINGS)\nEvidenceas\nto sum"
+    },
+    {
+      "provision_ref": "sec4",
+      "section": "4",
+      "title": "Section 4",
+      "content": "4. A certificate of the Auditor-General of the amount of\npreviously     the principal moneys at any time remaining unpaid in respect\nraised.\n               of all other sums previously raised under the authority of\n               this Act and of the amount which at any time remains to\n               be raised under the authority of the overseas loan Acts shall,\n               in the hands of a lender, be conclusive evidence of its con-\n               tents and a lender shall not be concerned or obliged to see\n               or enquire as to the appropriation or application of any\n               moneys raised under the authority of this Act.\nPrincipal        5. The principal moneys and interest represented by the\nand interest\ntobe         temporary borrowings under the authority of this Act are\nchar@\non the       hereby  charged upon, and shall be payable out of, the Con-\nConsolidated solidated Fund and assets of the Government of Jamaica.\nFund.\nProvisionfor   6. Notwithstanding anything to the contrary in any\nrepayment\nof           enactment it shall be lawful for the Minister to authorize\nk!,Tsm.the repayment of sums raised under the authority of this\n               Act out of moneys raised under the authority of any\n               overseas loan Act.\n                                                                                   c"
+    }
+  ],
   "definitions": []
 }

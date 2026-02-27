@@ -7,6 +7,25 @@
   "status": "in_force",
   "url": "https://laws.moj.gov.jm/library/subsidiary-legislation/the-animals-control-of-experiments-act",
   "description": "Category: subsidiary_legislation | Source: https://laws.moj.gov.jm/library/subsidiary-legislation/the-animals-control-of-experiments-act",
-  "provisions": [],
+  "provisions": [
+    {
+      "provision_ref": "sec1",
+      "section": "1",
+      "title": "Section 1",
+      "content": "1. These Regulations may be cited as the Animals (Control of\nExperiments) Regulations, 1951."
+    },
+    {
+      "provision_ref": "sec2",
+      "section": "2",
+      "title": "Section 2",
+      "content": "2. Every licensee under the Act shall keep a book in the form set\nout as Form 1 in the Schedule in which he shall record particu!ars Schec’ule\n                                                                    Form 1\nas therein indicated of all experiments performed by him."
+    },
+    {
+      "provision_ref": "sec3",
+      "section": "3",
+      "title": "Section 3",
+      "content": "3. Every licensee under the Act shall render to the Minkter on or\nwithin thirty days after the 30th day of June and the 31st day of\nDecember in each year a return in the form set out as Form 2 in Form2.\nthe Schedule of all experiments performed by him during the half-\nyear ending on such 30th day of June or 31st day of December, as\nthe case may be.\n                                                                          -\n              Vhe inclusion of this p N e is authorized by L.N. 4119761\n4     THE ANIMALS (CONTROL OF EXPERIMENTS) REGULATIONS, 1951\n                                       SCHEDULE           (Paragraphs 2 and 3)\n                                        FORM 1\n                          THE ANIMALS(CONTROLOF EXPERIMENTS)\n                                                          Am\n                                           Record of Experiments\n    Name of Licensee......................................................................................\n                                                                         Nature of experiment (if\n                                                              1ur-e   of performed under teach-\n                                                              ;xP-ent    ing permit or special\n                                                                         permit, this should be\n                                                                         stated)\n                                                  FORM2\n                          THE ANIMALS ( C O ~ OOF\n                                                L EXPERIMENTS)\n                                                            Acr\n                       performed by ........................................................\n    RETURNOF EXPERIMFJWS\n                                                          Name of Licensee\n    between the              day of                                    , 19        , and the\n                                       day of                                  , 19       .\n                                       ~\n                                                     Nature of experiment (if\n      Date of Place where Animal on which Purpose of performed under teach-\n     experiment performed experimentper- experiment ing permit or special\n                             formed                  permit, this should be\n                                                      stated)\n                    i\n                          me inclusion of this page i s authorized by L.N. 4/19761"
+    }
+  ],
   "definitions": []
 }

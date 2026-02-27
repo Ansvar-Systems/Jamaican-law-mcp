@@ -7,6 +7,31 @@
   "status": "in_force",
   "url": "https://laws.moj.gov.jm/library/statute/the-loans-national-development-bonds-act",
   "description": "Category: statute | Source: https://laws.moj.gov.jm/library/statute/the-loans-national-development-bonds-act | Legal areas: Finance and Banking",
-  "provisions": [],
+  "provisions": [
+    {
+      "provision_ref": "sec1",
+      "section": "1",
+      "title": "Section 1",
+      "content": "1, This Act may be cited as the Loans (National Develop- Short title.\nment Bonds) Act."
+    },
+    {
+      "provision_ref": "sec2",
+      "section": "2",
+      "title": "Section 2",
+      "content": "2. In this Act-                                                   Interpreta-\n                                                                   tion.\n    “Bank” means the Bank of Jamaica established by\n        the Bank of Jamaica Act;\n    “bonds” means National Development Bonds created\n        pursuant to section 3;\n    “commercial bank” means a company duly licensed in\n        accordance with the Banking Act, to carry on\n        banking business.\n   3*-(1) Subject to the provisions of subsection (2), the tAuthority\n                                                            o raise\nMinister is hereby authorized to raise from time to time money.\nas may be convenient, sums of money by the creation and\nissue of securities termed “National Development Bonds”.\n       (2) No sum of money shall be raised under this Act\nunless, on the day on which that sum is raised, that sum\nand all principal moneys remaining unpaid in respect of all\nother sums previously raised under the authority of this\nAct do not exceed-\n     (a) the sum of ten million dollars; or\n     (b) such greater amount as may from time to time be\n          approved by the House of Representatives by\n          resolution.\n       me inclusion of this page is authorized by L.N. 480/1973]\n2                     LOANS (NATIONAL DEVELOPMENT BONDS)\nTerms           4. Each series of bonds shall bear such rate of interest\nand\nconditions    and shall be subject to such terms and conditions as the\nof bonds.\n              Minister may direct before the issue thereof, and without\n              prejudice to the foregoing, may be issued at such rate of\n              discount as the Minister may approve.\nInterest        5. Any interest payable or other sum accruing in respect\non bonds\nexempt        of a bond to the holder of such bond shall, in the hands of\nfrom          the holder or in the hands of a person entitled to receive\nincome\ntax.          it on his behalf, be exempt from income tax.\nTrusteea         6.41) Where the terms and conditions of issue of any\nof sinking\nfund.         series of bonds include provisions for the establishment of\n              a sinking fund the trustees of any such sinking fund shall\n              be the trustees for Jamaica Government Securities estab-\n              lished by the Local Registered Stock Act who shall have\n              power to do all things necessary for the performance of\n              the functions of trustees under this Act in like manner as\n              they perform their functions under the Local Registered\n              Stock Act.\n                    (2) The Minister may give to the trustees such\n              directions of a general character as to the policy to be\n              followed by them in the performance of their functions\n              under this Act as appear to the Minister to be necessary\n              in the public interest.\nCharge on       7. There shall be charged on and paid out of the Con-\nconsoli-\ndated Fund.   solidated Fund-\n                   (a) the expenses of issue of the loan or any part\n                       thereof;\n                   (b) the principal moneys represented by securities\n                       issued pursuant to this Act;\n                   (c) any interest payable or other sum accruing in\n                       respect of such securities; and\n                    me inclusion of this page is authorized by L.N. 480/1973]\n       LOANS (NATIONAL DEVELOPMENT BONDS)                                 3\n    (d) where provisions are made pursuant to this Act\n         for the establishment of a sinking fund, any pay-\n         ments to such sinking fund."
+    },
+    {
+      "provision_ref": "sec8",
+      "section": "8",
+      "title": "Section 8",
+      "content": "8.-(1) Bonds shall be issued on behalf of the Govern- ISSUC, regis-\nment by the Bank, commercial banks and such other tration       and\n                                                        repayment\npersons as may from time to time be approved by the Ofbonds.\nMinister by notice published in the Gazette.\n      (2) The Bank on behalf of the Government shall be\nresponsible for the registration and repayment of bonds.\n       (3) There shall be paid to the Bank out of the Con-\nsolidated Fund such sums as may be agreed upon between\nthe Minister and the Bank in respect of the exercise in any\nfinancial year of the functions of the Bank under this Act."
+    },
+    {
+      "provision_ref": "sec9",
+      "section": "9",
+      "title": "Section 9",
+      "content": "9.-(1) Subject to the provisions of this section, the Powerof\n                                                            Minister to\nMinister may make regulations for the purposes of this Act make\nand in particular, but without prejudice to the generality\nof the foregoing provisions, as to the manner in which, and\nconditions under which, any moneys may be raised\npursuant to this Act and as to the fees which may be\ncharged in respect of the replacement of bonds.\n       (2) Regulations made under this Act shall be subject\nto afjirmative resolution of the House of Representatives.\n      m e inclusion of this page is authorized by L.N. 480/1973]"
+    }
+  ],
   "definitions": []
 }

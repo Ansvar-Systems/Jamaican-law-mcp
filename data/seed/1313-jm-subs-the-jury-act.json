@@ -7,6 +7,31 @@
   "status": "in_force",
   "url": "https://laws.moj.gov.jm/library/subsidiary-legislation/the-jury-act",
   "description": "Category: subsidiary_legislation | Source: https://laws.moj.gov.jm/library/subsidiary-legislation/the-jury-act",
-  "provisions": [],
-  "definitions": []
+  "provisions": [
+    {
+      "provision_ref": "sec2",
+      "section": "2",
+      "title": "Section 2",
+      "content": "2,--(I) Tht list required pursuant to section 7 of the Act shall be\nin two forms, one to be called the prescribed list which shall be in the\nform prescribed in paragraph (I) of regulation 3 and contain the\nparticulars specified in that paragraph and the other to be called the\nparish list which shall be in the form prescribed in paragraph (2) of\nregulation 3 and contain the particulars specified in that paragraph.\n      (2) Any variation from such forms in any respect, not being a\nmatter of substance, shall not d e c t the validity of the list.\n      (3) The Chief Electoral Officer shall, for the purposes of section\n7 of the Act, forward to the Chief Officer of Police in each parish, at\nleast two copies of the prescribed list and at least one copy of the\nparish list."
+    },
+    {
+      "provision_ref": "sec3",
+      "section": "3",
+      "title": "Section 3",
+      "content": "3.-41) The prescribed list shall have its pages numbered consecutively\nand shall contain the following particulars-\n    (a) the name of the parish and the calendar year to which tho\n         list relates, under the following headings, that is to say-\n     ( b ) the christian name and surname (listed in alphabetical order\n           according to surname and numbered consecutively), the\n           address, occupation and electoral registration number of each\n            person whose name is required to be included in the list\n           pursuant to section 7 of the Act.\n               me inclusion of Ibis page u aulhorizcd by L.N. 54/2M)0]\n                THE JURY LIST REGULATIONS, 1981\n      (2) The parish list shall be divided into sections representing\nth3 polling divisions of the constituencies within the parish and each\nsuch section-\n    (a) shall be headed with a description of the boundaries of the\n         polling division to which that section relates; and\n    (b) shall contain, in such order as may be determined by the\n          Chief Electoral Officer, the particulars mentioned in sub-\n          paragraph (b) of paragraph (1) in relation to the persons\n          referred to in that sub-paragragh.\n      (3) For the purposes of this regulation \"calendar year\" means\nthe year commencing on the first day of January next following the\nyear in which the list is forwarded."
+    },
+    {
+      "provision_ref": "sec4",
+      "section": "4",
+      "title": "Section 4",
+      "content": "4. During the continuance in force of the Representation of the\nPeople (Interim Electoral Reform) Act. any reference in these Regula-\ntions to the Chief Electoral Officer shall be construed as a reference\nto the Director of Elections appointed under that Act.\n              me inclusion of this paw in authorized by L.N. 54/20001"
+    }
+  ],
+  "definitions": [
+    {
+      "term": "calendar year",
+      "definition": "the year commencing on the first day of January next following the",
+      "source_provision": "sec3"
+    }
+  ]
 }

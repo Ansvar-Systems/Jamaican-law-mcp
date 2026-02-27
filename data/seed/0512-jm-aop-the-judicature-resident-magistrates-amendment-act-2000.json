@@ -7,6 +7,13 @@
   "status": "in_force",
   "url": "https://laws.moj.gov.jm/library/act-of-parliament/the-judicature-resident-magistrates-amendment-act-2000",
   "description": "Category: act_of_parliament | Source: https://laws.moj.gov.jm/library/act-of-parliament/the-judicature-resident-magistrates-amendment-act-2000 | Year: 2000",
-  "provisions": [],
+  "provisions": [
+    {
+      "provision_ref": "sec1",
+      "section": "1",
+      "title": "Section 1",
+      "content": "1. This Act may be cited as the Judicature (Resident Short title\nMagistrates) (Amendment) Act, 2000 and shall be read and ;\"\".5;\"\nconstrued as one with the Judicature (Resident Magistrates)\nAct (hereinafter referred to as the principal Act) and a11\namendments thereto.\n                           [No. 2]                The Judicature (Resident Magistrates)\n          2                                             (Amendment) Act, 2000\n          Amendment           2. Subsection (2) of section 268 of the principal Act is\n          of section        amended by deleting from the proviso the words \"four\n          268 of\n          principal         thousand\" wherever they appear and substituting therefor,\n          Act.\n                            in each case, the words \"one million\".\nI :\n      ,\n                       PRINTED BY JAMAICA PRINTING SERVICES (19SZ) ITD.,   (GOVERNMENT PRINT\n                                                                                               IRS), DUkl ST., KIIN .. JAMAICA,"
+    }
+  ],
   "definitions": []
 }

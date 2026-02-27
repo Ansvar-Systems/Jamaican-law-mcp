@@ -7,6 +7,31 @@
   "status": "in_force",
   "url": "https://laws.moj.gov.jm/library/statute/the-law-reform-miscellaneous-provisions-act",
   "description": "Category: statute | Source: https://laws.moj.gov.jm/library/statute/the-law-reform-miscellaneous-provisions-act | Legal areas: Trusts and Estates",
-  "provisions": [],
+  "provisions": [
+    {
+      "provision_ref": "sec1",
+      "section": "1",
+      "title": "Section 1",
+      "content": "1. This Act may be cited as the Law Reform IMis- Shorttitle.\ncellaneous Provisions) Act."
+    },
+    {
+      "provision_ref": "sec2",
+      "section": "2",
+      "title": "Section 2",
+      "content": "2 . 4 1 1 Subject to the provisions of this section, on the E k t o f\n                                                              death on\ndeath of any person after the commencement of this Act certa,o\nall causes of action subsisting against or vested in him\nshall survive against, or, as the case may be, for the benefit\nof, his estate:\n  Provided that this subsection shall not apply to causes\nof action for defamation.\n      (2) Where a cause of action survives as aforesaid\nfor the benefit of the estate of a deceased person, the\ndamages recoverable for the benefit of the estate of that\nperson-\n      (a) shall not include any exemplary damages;\n      (b) in the case of a breach of promise to marry shall\n          be limited to such damage, if any, to the estate\n          of that person as flows from the breach of promise\n          to marry;\n      (c) where the death of that person has been caused\n          by the act or omission which gives rise to the\n          cause of action, shall be calculated without\n                           ~\nRIT   - ?A\n2                 L A W REFORM (MISCELLANEOUS PR 0 VlS10N.Y)\n                        reference to any loss or gain to his estate con-\n                        sequent on his death, except that a sum in respect\n                        of funeral expenses may be included.\n                   (3) No proceedings shall be maintainable in respect\n           of a cause of action in tort which by virtue of this section\n           has survived against the estate of a deceased person, unless\n           either-\n                ( U ) proceedings against him in respect of that cause\n                      of action were pending at the date of his death;\n                      or\n                (b) the cause of action arose not earlier than six\n                      months before his death and proceedings are\n                      taken in respect thereof not later than six months\n                      after his personal representative took out represent-\n                      ation.\n                  (4) Where damage has been suffered by reason of\n           any act or omission in respect of which a cause of action\n           would have subsisted against any person if that person\n           had not died before or at the same time as the damage was\n           suffered, there shall be deemed, for the purposes of this\n           Act, to have been subsisting against him before his death\n           such cause of action in respect of that act or omission as\n           would have subsisted if he had died after the damage was\n           suffered.\n                 (5) The rights conferred by this Act for the benefit\n           of the estates of deceased persons shall be in addition to\n           and not in derogation of any rights conferred on the\n           dependents of deceased persons by the Fatal Accidents\nzzand23    Act or the Carriage by Air Act, 1932, of the United\nGeo. V E"
+    },
+    {
+      "provision_ref": "sec3",
+      "section": "3",
+      "title": "Section 3",
+      "content": "3. In any proceedings tried in any Court of Record for Power of\n                                                                      of\nthe recovery of any debt or damages, the Court may, if it courtsRscordto\nthinks fit, order that there shall be included in the sum for\nwhich judgment is given interest at such rate as it thinks debtsand\n                                                                damages.\nfit on the whole or any part of the debt or damage for the\nwhole or any part of the period between the date when\nthe cause of action arose and the date of the judgment:\n   Provided that nothing in this section-\n      (U) shall authorize the giving of interest upon interest;\n          or\n      (b) shall apply in relation to any debt upon which\n           interest is payable as of right whether by virtue\n          of any agreement or otherwise; or\n      (c) shall affect the damages recoverable for the dis-\n           honour of a bill of exchange."
+    },
+    {
+      "provision_ref": "sec36",
+      "section": "36",
+      "title": "Section 36",
+      "content": "36.        Kingdom, as applied to Jamaica by the Carriage by Air\n           (Colonies, Protectorates and Mandated Territories) Order,\n           1953, and the Carriage by Air (Non-international Carriage)\n           (Colonies, Protectorates and Trust Territories) Order, 1953,\n                   ~    ~-\n                       [ l h e i n c l u i i u ~ fthis page is authorized by L.N. 90/19931\n       LAW REFORM (MISCELLANEOUS PROVISIONS)                               3\nand so much of this Act as relates to causes of action against\nthe estates of deceased persons shall apply in relation to\ncauses of action under the aforesaid Acts as it applies in\nrelation to other causes of action not expressly excepted\nfrom the operation of subsection (1).\n       (6) In the event of the insolvency of an estate against\nwhich proceedings are maintainable by virtue of this\nsection, any liability in respect of the cause of action in\nrespect of which the proceedings are maintainable shall be\ndeemed to be a debt provable in the administration of the\nestate, notwithstanding that it is a demand in the nature\nof unliquidated damages arising otherwise than by a\ncontract, promise or breach of trust."
+    }
+  ],
   "definitions": []
 }

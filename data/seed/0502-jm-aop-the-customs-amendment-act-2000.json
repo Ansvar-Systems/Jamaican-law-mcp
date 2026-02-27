@@ -7,6 +7,61 @@
   "status": "in_force",
   "url": "https://laws.moj.gov.jm/library/act-of-parliament/the-customs-amendment-act-2000",
   "description": "Category: act_of_parliament | Source: https://laws.moj.gov.jm/library/act-of-parliament/the-customs-amendment-act-2000 | Year: 2000",
-  "provisions": [],
+  "provisions": [
+    {
+      "provision_ref": "sec1",
+      "section": "1",
+      "title": "Section 1",
+      "content": "1. This Act may be cited as the Customs (Amendment) Shgrt tithe\nAct, 2000 and shall be read and construed as one with the :UC:1:;.\nCustoms Act (hereinafter referred to as the principal Act)\nand all amendments thereto."
+    },
+    {
+      "provision_ref": "sec2",
+      "section": "2",
+      "title": "Section 2",
+      "content": "2. Section 54 of the principal Act is amended-                       \"{\";\n                  .      .                      he     -4s\n         ( ay) b vy inserting immediately after the woras    «,         54 of prin-\n                                                                  'any cipal Act.\n               place\" the words \"or container;\n         (b) by inserting immediately after the words \"such\n             place\" wherever they appear the word \"container,\".\n2              [No. 16]       The Customs (Amendment) Act, 2000\nAmendment        3. Section 55 of the principal Act is amended-\nof section\n55 of prin-\ncipal Act.          (a) by inserting immediately after the words \"any\n                        place\" the word \", container\";\n                    (b) by inserting immediately after the words \"goods,\n                        place\" the word , container\";\n                    (c) by deleting the words \"five thousand dollars\" and\n                        substituting therefor the words \"two hundred\n                        thousand dollars\".\nInsertion of     4. The principal Act is amended by inserting next after\nnew section\n55A in prin-   section 55, the fallowing as section 55A\ncipal Act.\n                    ''\\Penalty for    55A.-(1) A person commits an offence if,\n                      interfering\n                      with goods, without lawful excuse or the permission of\n                       while in\n                       any port,   the proper officer, he interferes with any\n                      etc.         goods while those goods are in, or being\n                                   conveyed between, any port, customs area,\n                                   container station, inspection sight, wharf or\n                                   other place within the Island or the waters\n                                   thereof.\n                                         (2) For the purposes of subsection\n                               (1) a person interferes with goods if he\n                                     (a) breaks into or opens any container,\n                                         package, place or vehicle in which\n                                         goods are kept or conveyed or to\n                                         be conveyed;\n                                    (b) removes any goods from such con-\n                                         tainer, package, place or vehicle or\n                                         inserts therein any other goods;\n                                    (c) tampers with any lock, mark or seal\n                                         on or affixed to any such container,\n                                         package, place or vehicle.\n                                       (3) A person who commits an\n                               offence under subsection (1) is liable on\n               The Customs (Amendment) Act, 2000        [No. 16]                3\n                summary conviction in a Resident Magis-\n                trate's Court to a fine not exceeding two\n                hundred thousand dollars, and the Resident\n                Magistrate may order that such goods be\n                forfeited.\"."
+    },
+    {
+      "provision_ref": "sec5",
+      "section": "5",
+      "title": "Section 5",
+      "content": "5. Section 67 of the principal Act is amended by inserting #\"#\"\"}\nimmediately after the word \"any\" the word \"containers,\". \""
+    },
+    {
+      "provision_ref": "sec6",
+      "section": "6",
+      "title": "Section 6",
+      "content": "6. Section 69 of the principal Act is amended-                   #\"\"!\n                                                                      \";\n     (a) by inserting immediately before the word \"package\" ~~rincipal\n         wherever it appears the word\", container,\"; and\n     (b) by deleting the words \"five hundred dollars\" and\n         substituting therefor the words \"fifty thousand\n         dollars\"."
+    },
+    {
+      "provision_ref": "sec7",
+      "section": "7",
+      "title": "Section 7",
+      "content": "7. Section 72 of the principal Act is amended-            Amendment\n                                                             of section 72\n     (a)   by inserting immediately after the words \"part of tJ.rincipal\n           such cargo\" the words \"or any container opened\n           so as to facilitate the unloading of any of the con-\n           tents thereof\";\n      (b) by deleting the words \"ten thousand dollars\" and\n          substituting therefor the words \"one hundred\n          thousand dollars\"."
+    },
+    {
+      "provision_ref": "sec8",
+      "section": "8",
+      "title": "Section 8",
+      "content": "8. Section 121 of the principal Act is amended by deleting Amendment\n the words \"two years\" and substituting therefor the words #GS?\"\"\",\n \"one year\".                                                       cipalAot."
+    },
+    {
+      "provision_ref": "sec9",
+      "section": "9",
+      "title": "Section 9",
+      "content": "9. Section 122 of the principal Act is amended by deleting [\"\"{  \"\"\"\n              \"                                                o s    on\n the words two years\" where they first appear and substi- 1~2ofprin·\n tu ting therefor the words \"one year.                         cipal Act."
+    },
+    {
+      "provision_ref": "sec10",
+      "section": "10",
+      "title": "Section 10",
+      "content": "10. Section 150 of the principal Act is amended by deleting Amendment\n the words \"two hundred dollars\" and substituting therefor {l5?\",\n the words \"fifty thousand dollars\".                               cipal Act.\n4                [N o. 16]              The Customs (Amendment) Act, 2000\nAmendment\nof Customs"
+    },
+    {
+      "provision_ref": "sec11",
+      "section": "11",
+      "title": "Section 11",
+      "content": "11. Regulation 26 of the Customs Regulations, 1955, is\nRegulations,     deleted and the fallowing substituted therefor-\n1955.\n                     \"Production      26. Any per:son concerned with the im-\n                      of Tux\n                      Compliance portation or exportation of any goods, who\n                      Certificate,\n                      documents    is required by the proper officer to produce-\n                      or books.\n                                         (a) a Tax Compliance Certificate; or\n                                               (b) any documents or books of account\n                                                   in relation to such goods,\n                                        shall produce the Certificate and such docu-\n                                        ments or books of account at the place speci-\n                                        fied by the proper officer.\".\n    PRINTED BY JAMAICA PRINTING SERVICES 1992) LTD., (GOVERN\\ENT PRINTERS), DUKE ST., KGN., JAMAICA."
+    }
+  ],
   "definitions": []
 }

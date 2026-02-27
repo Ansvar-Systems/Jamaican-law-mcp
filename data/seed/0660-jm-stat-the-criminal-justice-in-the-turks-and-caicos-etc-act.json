@@ -7,6 +7,25 @@
   "status": "in_force",
   "url": "https://laws.moj.gov.jm/library/statute/the-criminal-justice-in-the-turks-and-caicos-etc-act",
   "description": "Category: statute | Source: https://laws.moj.gov.jm/library/statute/the-criminal-justice-in-the-turks-and-caicos-etc-act | Legal areas: Courts and Judiciary",
-  "provisions": [],
+  "provisions": [
+    {
+      "provision_ref": "sec1",
+      "section": "1",
+      "title": "Section 1",
+      "content": "1. This Act may be cited as the Criminal Justice in the Shorttitle.\nTurks and Caicos and Cayman Islands (Service of Process)\nAct."
+    },
+    {
+      "provision_ref": "sec2",
+      "section": "2",
+      "title": "Section 2",
+      "content": "2. In this Act-                                           Interpreta-\n“competent court” means the Supreme Court of Jamaica\n     and the Supreme Court of the Turks and Cairns1\n    Islands and the Grand Court of the Cayman Islands;’\n“proper officer” means the officer of any competent court\n     charged with the duty of issuing criminal process in\n     criminal matters before such court;\n“process” includes a writ of subpoena and all other process\n     in relation to criminal proceedings."
+    },
+    {
+      "provision_ref": "sec3",
+      "section": "3",
+      "title": "Section 3",
+      "content": "3.-( 1) Where any competent court (hereinafter referred Service       of\n                                                                process out\nto as the originating court) before which criminal proceed- 1 of jwisdic\nings are pending issues process to compel the attendance!ti0n*\nbefore such court of any person resident or temporarily\nwithin the jurisdiction of any other competent court (here-\ninafter referred to as the executive court), the proper officer\nof the originating court may transmit such process to the\nproper officer of the executive court, and thereupon the\nproper officer of the executive court shall take all such steps\nto effect service of the process so transmitted upon the per-\nson to whom such process is directed as if such process had\nbeen issued by the executive court in criminal proceedings\npending before such executive court, and shall certify the\n2            CRIMINAL JUSTICE IN THE TURKS AND\n      CAICOS AND CAYMAN ISLANDS (SERVICE OF PROCESS)\n    result of such steps to the proper officer of the originating\n    court.\n            (2) Where the proper officer of the executive court\n    certifies to the proper officer of the originating court that\n    service of any process transmitted to him under this section\n    has been duly effected, then if the person upon whom such\n    process was served fails to appear before the originating\n    court upon the day appointed in such process, the proper\n    officer of the originating court may certify accordingly to\n    the proper officer of the executive court, and thereupon the\n    person upon whom such process was served and who has so\n    failed to appear shall be liable to be proceeded against and\n    punished before the executive court in the same manner as\n    he might have been proceeded against and punished had he\n    neglected or refused to appear in obedience to process\n    issued out of the executive court and duly served upon\n    him."
+    }
+  ],
   "definitions": []
 }

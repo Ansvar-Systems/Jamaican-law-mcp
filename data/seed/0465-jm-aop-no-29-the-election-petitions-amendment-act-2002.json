@@ -7,6 +7,31 @@
   "status": "in_force",
   "url": "https://laws.moj.gov.jm/library/act-of-parliament/no-29-the-election-petitions-amendment-act-2002",
   "description": "Category: act_of_parliament | Source: https://laws.moj.gov.jm/library/act-of-parliament/no-29-the-election-petitions-amendment-act-2002 | Year: 2002",
-  "provisions": [],
-  "definitions": []
+  "provisions": [
+    {
+      "provision_ref": "sec1",
+      "section": "1",
+      "title": "Section 1",
+      "content": "1. This Act may be cited as the Election Petitions (Amend- f\n                                                             \";\"E,\n                                                                 }\n ment) Act, 2002, and shall be read and construed as one ·\"\"\"\"\n with the Election Petitions Act (hereinafter referred to @6\n the principal Act) and all amendments thereto.\n2              [N o. 29]       The Election Petitions (Amendment) Act, 2002\nAmendment\nof section 2"
+    },
+    {
+      "provision_ref": "sec2",
+      "section": "2",
+      "title": "Section 2",
+      "content": "2. Section 2 of the principal Act is amended by inserting\nof princi-      next after the definition of \"constituency\" the following defi-\npal Act.\n                nition-\n                      \" \"Constituted Authority\" means the Constituted\n                          Authority established under section 62C of the\n                          Kingston and St. Andrew Corporation Act, section\n                          40C of the Parish Councils Act and section 44A\n                          of the Representation of the People Act;\".\nAmendment\nof section"
+    },
+    {
+      "provision_ref": "sec3",
+      "section": "3",
+      "title": "Section 3",
+      "content": "3. Section 36 of the principal Act is amended in subsec-\n36 of prin-     tion (l)(a) by deleting all the words appearing after the\ncipal Act.\n                words \"Constituted Authority\".\nAmendment          4. Section 38 of the principal Act is amended-\nof section\n38 of prin-\ncipal Act.             (a) by deleting the word fourteen\" and substituting\n                           therefor the word \"twenty-eight\";\n                       (b) by renumbering the section as subsection (1) and\n                           by inserting next thereafter the following as sub-\n                           sections (2) and (3) :\n                                \" (2) The hearing of an application under\n                                section 37 shall, so far as practicable, com-\n                                mence within sixty days after the application\n                                is filed and shall be continued from day to\n                                day and every lawful day until its conclusion.\n                                   (3) The Election Court may extend the\n                                period for the filing of an application under\n                                subsection (1) where the Court is of the opinion\n                                that, in the circumstances of the case, the\n                                period ought to be extended, so, however, that\n                                the Court shall not extend the period for more\n                                than three days after the period specified in\n                                that subsection.\".\n    PRINTED BY JAMAICA PRINTING SERVICES (1992) LTD., (GOVERNMENT PRINTERS), DUKE ST., KGN.» JAMAICA."
+    }
+  ],
+  "definitions": [
+    {
+      "term": "Constituted Authority",
+      "definition": "the Constituted",
+      "source_provision": "sec2"
+    }
+  ]
 }

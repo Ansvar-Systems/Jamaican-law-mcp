@@ -7,6 +7,25 @@
   "status": "in_force",
   "url": "https://laws.moj.gov.jm/library/statute/the-dogs-liability-for-injuries-by-act",
   "description": "Category: statute | Source: https://laws.moj.gov.jm/library/statute/the-dogs-liability-for-injuries-by-act | Legal areas: Courts and Judiciary",
-  "provisions": [],
+  "provisions": [
+    {
+      "provision_ref": "sec1",
+      "section": "1",
+      "title": "Section 1",
+      "content": "1. This Act may be cited as the Dogs (Liability for Shorttitle.\nInjuries by) Act."
+    },
+    {
+      "provision_ref": "sec2",
+      "section": "2",
+      "title": "Section 2",
+      "content": "2. The owner of every dog shall be liable in damages for civiiliabilit\n                                                              of owners oY\ninjury done to any person, or any cattle or sheep by his dogsfor\ndog, and it shall not be necessary for the party seeking such dogs done\ndamages to show a previous mischievous propensity in such enlarged\n                                                              and defined.\ndog, or the owner’s knowledge of such previous propensity\nor that the injury was attributable to neglect on the part\nof such owner. Such damages shall be recoverable in any\ncourt of competent jurisdiction by the person injured, or\nby the owner of such cattle or sheep killed or injured."
+    },
+    {
+      "provision_ref": "sec3",
+      "section": "3",
+      "title": "Section 3",
+      "content": "3. The occupier of any house or premises where any Ownerof\ndog was kept, or permitted to live or remain at the time\nof such injury shall be deemed to be the owner of such dog,\nand shall be liable as such, unless the said occupier can\nprove that he was not the owner of such dog at the time the\ninjury complained of was committed, and that such dog\nwas kept or permitted to live or remain in the said house\nor premises without his sanction or knowledge:\n  Provided always, that where there are more occupiers\nthan one in any house or premises let in separate apart-\nments, or lodgings, or otherwise, the occupier of that parti-\ncular part of the premises in which such dog shall have\nbeen kept or permitted to live or remain at the time of\nsuch injury, shall be deemed to be the owner of such dog."
+    }
+  ],
   "definitions": []
 }

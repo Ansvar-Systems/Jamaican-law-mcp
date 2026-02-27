@@ -7,6 +7,19 @@
   "status": "in_force",
   "url": "https://laws.moj.gov.jm/library/subsidiary-legislation/the-undesirable-publications-prohibition-of-importation-act",
   "description": "Category: subsidiary_legislation | Source: https://laws.moj.gov.jm/library/subsidiary-legislation/the-undesirable-publications-prohibition-of-importation-act",
-  "provisions": [],
+  "provisions": [
+    {
+      "provision_ref": "sec1",
+      "section": "1",
+      "title": "Section 1",
+      "content": "1. This Order may be cited as the Prohibited Publications Order.\n1965.                                                                         213~168\n                                                                               282168\n                                                                                86170\n                                                                               290170"
+    },
+    {
+      "provision_ref": "sec2",
+      "section": "2",
+      "title": "Section 2",
+      "content": "2.-41) The importation of the publications set out in the Schedule\nis hereby prohibited.\n                                                                              #::367172\n                                                                          Schedule.\n      (2) Where any publication mentioned or referred to in the\nSchedule is a periodical publication the prohibition imposed by sub-\nparagraph (1) shall extend to any past or future issue thereof.\n               [The inclusion of this page h authorized by L.N. 4119761\n           T H E PROHIBITED PUBLICATIONS ORDER, 1965\n                                  SCHEDULE                                 (Paragraph 2)\nSoviet News, published by the Soviet Embassy Publications Office, London,\n      England.\nT h e Book of Magical Art, Hindoo Magic and Indian Occultism, published by\n       deLaurence Scott & Company, Chicago, U S A .\nIndia's Hood Unveiled, published by deLaurence Scott & Company, Chicago,\n       U.S.A.\nThe Sixth and Seventh Books of Moses, published by deLaurence Scott &\n     Company, Chicago, U.S.A.\nT h e Book of Black Magic, publishrd by deLaurence Scott & Company.\n       Chicago, U.S.A.\nThe Book of the Secret Magic .of Abra-Melin, the Mage, published by\n     deLaurence Company Inc., Chicago, U.S.A.\nT h e Mnglc Key, published by deLaurence Company Inc., Chicago, U.S.A.\nThe Great Book of Magical Art, published by deLaurence Company Inc.,\n     Chicago, U S A .\nAll publications of deLaurence Scott & Company, Chicago, U.S.A., relating\n      t o divination, magic, occultism, supernatural arts o r other esoteric\n      subjects.\nAll publicarlons of deLourence Company, Incorporated, Chicago, U.S.A., relating\n      t o divination, magic, occultism, supernatural arts or other esoteric\n       subjects.\nLa Guerra de Guerillas (Guerilla Warfare) by Che Guevara\nManual de Capacitaeion Divica (Manual of Civilian Training), by Che\n     Guevara et al.\nManual del Guerillero (Manual for Guerillas) published in Panama.\nThe Anarchist Cookbook by William Powell.\nMinimanual of the urban guerrilla by Carlos Marighella.\n               [The icclusion of this page is authorized by L.N. 4119761"
+    }
+  ],
   "definitions": []
 }

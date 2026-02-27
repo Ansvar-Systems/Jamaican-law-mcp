@@ -7,6 +7,25 @@
   "status": "in_force",
   "url": "https://laws.moj.gov.jm/library/statute/the-law-reform-contributory-negligence-act",
   "description": "Category: statute | Source: https://laws.moj.gov.jm/library/statute/the-law-reform-contributory-negligence-act | Legal areas: Courts and Judiciary",
-  "provisions": [],
+  "provisions": [
+    {
+      "provision_ref": "sec2",
+      "section": "2",
+      "title": "Section 2",
+      "content": "2. In this Act-                                                lalmreta-\n                                                                     tion.\n    “court” means, in relation to any claim, the court or\n        arbitrator by or before whom the claim falls to be\n        determind\n    “damage” includes personal injury;\n    “dependant” means any person for whose benefit an action,\n        could be brought under the Fatal Accidents Act;\n    “fault” means negligence, breach of statutory duty of other;\n        act or omission which gives rise to a liability in tort1\n        or would, apart from this Act, give rise to the defence1\n        of contributory negligence.\n    partly of his own fault and partly of the fault of any other mmt     of\n                                                                   hbili in\n    person or persons, a daim in respect of that damage shall g      $&-\n    not be defeated by reason of the fault of the person suffering O C ~ I I -\n    the damage, but the damages recoverable in respact thereof\n    shall be reduced to such extent as the court t h i s just and\nI\n2         LAW REFORM (CONTRIBUTORY NEGLIGENCE)\n        (b) where any contract or enactment providing for\n            the limitation of liability is applicable to the claim,\n            the amount of damages recoverable by the claim-\n            ant by virtue of this subsection shall not exceed\n            the maximum limit so applicable.\n           (2) Where damages are recoverable by any person by\n    virtue of subsection (1) subject to such reduction as is therein\n    mentioned, the court shall find and record the total damages           -7\n    which would have been recoverable if the claimant had not              i'\n    been at fault.\n           (3) Section 3 of the Law Reform (Tort-Feasors) Act,\n    (which relates to proceedings against, and contribution\n    between, joint and several tort-feasors), shall apply m any\n    case where two or more persons are liable or would, if\n    they had all been sued, be liable by virtue of subsection\n    (1) in respect of the damage suffered by any person.\n          (4) Where any person dies as the result partly of\n    his own fault and partly of the fault of any other person or\n    persons, and accordingly if such person had not died and\n    an action were brought by him the damages recoverable\n    would be reduced under subsection (I), any damages\n    recoverable in an action brought for the benefit of the\n    dependants of that person under the Fatal Accidents Act,\n    shall be reduced to a proportionate extent.\n           (3Where, in any case to which subsection (1)applies,\n    one of the persons at fault avoids liability to any other such\n    p s o n by pleading the Limitation of Actions Act, or any\n    other enactment limiting the time within which pmceedings\n    may be taken, he shall not be entitled to recover any\n    damages or contributions from that other person by virtue\n    of the said subsection.\n           (6) Where any case to which subsection (1) applies\n    is tried with a jury, the jury shall determine the total\n    damages which would have been recovwable if the claimant\n          me indusion of this page is authorized by LN. 480/19731\n                                                                       i\n       LAW REFORM (CONTRIBUTORY NEGLIGENCE)                           3\nhad not been at fault and the extent to which those\ndamages are to be reduced.\n      (7) Article 21 of the Convention contained in the 22 & 23\n                                                              5\nFirst Schedule of the Carriage by Air Act, 1932 (United Geo."
+    },
+    {
+      "provision_ref": "sec4",
+      "section": "4",
+      "title": "Section 4",
+      "content": "4.-(1)  This Act shall not apply to any claim to which\nsection 1 of the Maritime Conventions Act, 1911 (United\nKingdom) applies and that Act shall have effect as if this\nAct had not been enacted.\n      ( 2 ) This Act shall not apply to any case where the\nacts or omissions giving rise to the claim occurred before\nthe commencement of this Act.\n           me inclusion of this page is authorized by LN. 480/1973]"
+    },
+    {
+      "provision_ref": "sec36",
+      "section": "36",
+      "title": "Section 36",
+      "content": "36.\nKingdom) as adapted, modified and extended to this Island (\" K.)\nby the Carriage by Air (Colonies, Protectorates and Man-\ndated Territories) Order, 1934 (which empowers a court to\nexonerate wholly or partly a carrier who proves that the\ndamage was caused by or contributed to by the negligence\nof the injured person), shall have effect subject to the provi-\nsions of this section."
+    }
+  ],
   "definitions": []
 }

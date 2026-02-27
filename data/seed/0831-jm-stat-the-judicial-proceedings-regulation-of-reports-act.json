@@ -7,6 +7,25 @@
   "status": "in_force",
   "url": "https://laws.moj.gov.jm/library/statute/the-judicial-proceedings-regulation-of-reports-act",
   "description": "Category: statute | Source: https://laws.moj.gov.jm/library/statute/the-judicial-proceedings-regulation-of-reports-act | Legal areas: Courts and Judiciary",
-  "provisions": [],
+  "provisions": [
+    {
+      "provision_ref": "sec1",
+      "section": "1",
+      "title": "Section 1",
+      "content": "1. This Act may be cited as the Judicial Proceedings shorttih\n(Regulation of Reports) Act."
+    },
+    {
+      "provision_ref": "sec2",
+      "section": "2",
+      "title": "Section 2",
+      "content": "2. A person shall not print or publish or cause or permit bslriction\n                                                              on publico-\nto be printed or published, in relation to any judicial tionof\nproceedings for dissolution of marriage, nullity of marriage, fo!&\"\njudicial separation or restitution of conjugal rights, any W c i a l\nparticulars other than, subject to section 3, the following- d          m\n     (d the names, addresses and occupation of the parties\n         and witnesses;\n     (b) the grounds of-\n             (i) the petition or application; and\n            (ii) any defence or counter-charge,\n         in support of which evidence has been given;\n     (cl submissions on any point of law arising in the\n          course of the proceedings and the decision of the\n         court thereon; and\n     (d) the judgment of the court and any observations\n         made by the judge in giving judgment."
+    },
+    {
+      "provision_ref": "sec3",
+      "section": "3",
+      "title": "Section 3",
+      "content": "3. Any printing or publication permitted pursuant to sec-\ntion 2 or section 6 (c) or (d shall have regard to any rnrrict\ndirection of a court that the partie? to proceedings before timof\n                                                             identii-\nthe court shall not be identified otherwise than by their g z y\ninitials or in such other manner ar the court may approve. b.\n         [rat inclusion of this page i s authorized by L.N.37/1988]\n2               JUDICIAL PROCEEDINGS (REGULATION OF REPORTS)\nPenalty.        4. A person who contravenes the provisions of this Act\n              i s guilty of an offence m.d liable on summary conviction\n              before a Resident Magistrate to a fine not exceeding five\n              thousand d o I k or to imprisonment for a term not exceed-\n              ing six months, or to both such fine and imprisonment.\nConsent of      5. No prosecution for an offence against this Act shall\nDirector of\nPublic pro-   be cornill-nced by any person unless the Director of Public\nsecutions     Prosecutions consents thereto.\nFhemption       6. Nothing in this Act shall apply to-\nofcertain\ndocumentl\nfrom\n                  (U)       the prmting of any pleading, transcript of evidence\n0pcratlon                   or other document for use in connection with any\nofAct.\n                            judicial proceedings or the communication thereof\n                            to persons cmcerned in such judicial procRdings;\n                  (b) the printing or publishing of any notice or report\n                      pursuant to a direction of the court;\n                  (c) the printing or publishing in any separate volume\n                       or part of any bona fide series of law reports of\n                            any matter which does not form part of any other\n                            publication and, subject to section 3, consists solely\n                            of reports of proceedings in courts of law;\n                  (d) the printing or publishing of any matter. subject\n                        to section 3. in anv Dublication of a technical cha-\n                        racter bona fide intended for circulation among\n                        members of the legal or medical profession; or\n                  (e) the printing or publishing of any extract from law\n                       reports referred to in paragraph (d or from any\n                       publication referred to in paragraph (4.\n                        F    e inclusion of this pagc i s authorized by LN. 37/19881"
+    }
+  ],
   "definitions": []
 }

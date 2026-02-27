@@ -7,6 +7,25 @@
   "status": "in_force",
   "url": "https://laws.moj.gov.jm/library/statute/the-bills-of-lading-act",
   "description": "Category: statute | Source: https://laws.moj.gov.jm/library/statute/the-bills-of-lading-act",
-  "provisions": [],
+  "provisions": [
+    {
+      "provision_ref": "sec2",
+      "section": "2",
+      "title": "Section 2",
+      "content": "2. Every consignee of goods named in a bill of lading, ‘Itanderof\nand every endorsee of a bill of lading to whom property in r@hts      and\n                                                              liabilities.\nthe goods therein mentioned, shall pass upon or by reason\nof such consignment or endorsement, shall have transferred\nto and vested in him all rights of suit and be subject to the\nsame liabilities in respect of such goods as if the contract\ncontained in the bill of lading had been made with himself."
+    },
+    {
+      "provision_ref": "sec3",
+      "section": "3",
+      "title": "Section 3",
+      "content": "3. Nothing herein contained shall prejudice or affect any Ptcserva-\n                                                                    of\nright of stoppage in rransitu, or any right to claim freight tion\n                                                               riphk\nagainst the original shipper or owner, or any liability of the\nconsignee or endorsee by reason or in consequence of his\nbeing such consignee or endorsee, or of his receipt of the\ngoods by reason or in consequence of such consignment or\nendorsement."
+    },
+    {
+      "provision_ref": "sec4",
+      "section": "4",
+      "title": "Section 4",
+      "content": "4. Every bill of lading in the hands of a consignee or B ~ I I O P\nendorsee for valuable consideration representing goods to lading\n                                                               mndusivc\nhave been shipped on board a vessel shall be conclusive            rzrin\nevidence of such shipment as against the master or other .=AS=.\nperson signing the same, notwithstanding that such goods\nor some part thereof may not have been so shipped, unless\nsuch holder of the bill of lading shall have had actual notice\nat the time of receiving the same that the goods had not\nbeen in fact laden on board :\n       me inclusion of this page i s authorized by LN. 480119731\nPPP\n2                           BILLS OF LADlNG\n      Provided that the master or other person so signing may\n    exonerate himself in respect of such misrepresentation by\n    showing that it was caused without any default on his part,\n    and wholly by the fraud of the shipper, or of the holder,\n    or some person under whom the holder claims.\n          F   e inclusion of thia page is authorized by LN. 480/19731"
+    }
+  ],
   "definitions": []
 }

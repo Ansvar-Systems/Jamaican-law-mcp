@@ -7,6 +7,43 @@
   "status": "in_force",
   "url": "https://laws.moj.gov.jm/library/statute/the-loans-national-savings-boonds-act",
   "description": "Category: statute | Source: https://laws.moj.gov.jm/library/statute/the-loans-national-savings-boonds-act | Legal areas: Finance and Banking",
-  "provisions": [],
+  "provisions": [
+    {
+      "provision_ref": "sec1",
+      "section": "1",
+      "title": "Section 1",
+      "content": "1. This Act may be cited as the Loans (National Savings Short title.\nBonds) Act."
+    },
+    {
+      "provision_ref": "sec2",
+      "section": "2",
+      "title": "Section 2",
+      "content": "2. In this Act-                                                   Interpretas\n                                                                    tion.\n    “Bank” means the Bank of Jamaica established by the\n        Bank of Jamaica Act;\n    “bonds” means National Savings Bonds created pur-\n         suant to section 3;\n    “commercial bank” means a company duly licensed in\n         accordance with the provisions of the Banking\n        Act, to carry on banking business;\n    “Prize Fund” means the fund established under\n        section 6 for the payment of prizes in connection\n        with bonds."
+    },
+    {
+      "provision_ref": "sec3",
+      "section": "3",
+      "title": "Section 3",
+      "content": "3.-(1) Subject to the provisions of subsection (2), the Authority\n                                                            to ralse\nMinister is hereby authorized to raise from time to time as money.\nmay be convenient, sums of money by the creation and\nissue of securities termed “National Savings Bonds”.\n      (2) No sum of money shall be raised under this Act\nunless, on the day on which that sum is raised, that sum\nand all principal moneys remaining unpaid in respect of\nall other sums previously raised under the authority of this\nAct do not exceed-\n     (a) the sum of ten million dollars; or\n     (b) such greater amount as may from time to time be\n          approved by the House of Representatives by\n          resolution.\n2                        LOANS (NATIONAL SAVINGS BONDS)\nTerms and      4. Bonds shall be subject to such terms and conditions\nconditions\nof bonds.    as may be prescribed.\nCharge on      5. There shall be charged on and paid out of the Con-\nConsoli-\ndated        solidated Fund-\nFund.\n                 (a) the expenses of issue of the loan or any part\n                      thereof; and\n                 (b) the principal moneys represented by securities\n                     issued pursuant to this Act.\nEstablish-     6.-(1)  There is hereby established a fund to be called\nment of\nPrize Fund   the Prize Fund from which shall be paid prizes in con-\nand          nection with bonds in accordance with the provisions of\nfunctions\nof Bank.     this Act and regulations made thereunder; and such sums\n             as may be necessary to maintain that fund with a view to\n             the payment of prizes from time to time shall be charged\n             on and paid out of the Consolidated Fund.\n                   (2) The Bank on behalf of the Government of\n             Jamaica shall be responsible for-\n                 (a) the issue, registration and repayment of bonds;\n                      and\n                 (b) the management and operation of the Prize Fund\n                     and payment of prizes therefrom.\n321 1966\ns.2.               (3) The Bank may with the approval of the Minister\n             authorize any commercial bank or any other person to\n             perform on its behalf any of its functions under this Act.\n                   (4) There shall be paid to the Bank out of the Con-\n             solidated Fund such sums as may be agreed upon between\n             the Minister and the Bank in respect of the exercise in any\n             financial year of the functions of the Bank under this Act.\n                   me inclusion of this page is authorized by L.N. 480/1973]\n            LOANS (NATIONAL SAVINGS BONDS)                                  3"
+    },
+    {
+      "provision_ref": "sec7",
+      "section": "7",
+      "title": "Section 7",
+      "content": "7. Any prize money payable to the holder of any National Exemption\n                                                              of prize\nSavings Bond shall in the hands of that holder or in moneyfrom\n                                                              income tax.\nthe hands of a person entitled to receive it on his behalf be\nexempt from income tax."
+    },
+    {
+      "provision_ref": "sec8",
+      "section": "8",
+      "title": "Section 8",
+      "content": "8. National Savings Bonds shall be exempt from stamp Exemption\n                                                       from\nduty.                                                  Stamp\n                                                                    duly."
+    },
+    {
+      "provision_ref": "sec9",
+      "section": "9",
+      "title": "Section 9",
+      "content": "9.-(1)     Subject to the provisions of this section, the Powerof\n                                                             Minister\nMinister may make regulations as to the manner in which, tomake\nand the terms and conditions under which, any moneys regulations.\nmay be raised pursuant to this Act and, without prejudice\nto the generality of the foregoing, such regulations may\nprovide for all or any of the following matters-\n      (a) the terms and conditions of issue, repayment and\n          redemption of bonds;\n      (b) the payment of prizes from the Prize Fund;\n      (c) the manner of effecting drawings for the distribu-\n           tion of prizes from the Prize Fund;\n      (4 the place or places for the payment of any moneys\n           due in respect of bonds;\n      (e) all matters stated or required in this Act to be\n          prescribed.\n       (2) The terms and conditions applicable to any series\nof bonds shall not be varied by regulations made under this\nAct unless a 'notice of the intention to make such regula-\ntions is published in the Gazette not less than three months\nbefore such regulations are made.\n      (3) Regulations made under this Act shall be subject\nto afl6rmative resolution of the House of Representatives."
+    }
+  ],
   "definitions": []
 }

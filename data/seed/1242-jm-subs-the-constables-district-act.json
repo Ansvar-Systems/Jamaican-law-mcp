@@ -7,6 +7,31 @@
   "status": "in_force",
   "url": "https://laws.moj.gov.jm/library/subsidiary-legislation/the-constables-district-act",
   "description": "Category: subsidiary_legislation | Source: https://laws.moj.gov.jm/library/subsidiary-legislation/the-constables-district-act",
-  "provisions": [],
+  "provisions": [
+    {
+      "provision_ref": "sec1",
+      "section": "1",
+      "title": "Section 1",
+      "content": "1. These Regulations may be cited as the District Constables (Rates\nof Pay) Regulations, 1944."
+    },
+    {
+      "provision_ref": "sec2",
+      "section": "2",
+      "title": "Section 2",
+      "content": "2. In these Regulations-\n    “day” means the period between 6 a.m. and 6 p.m.;\n    “night” means the period between 6. p.m. and 6 a.m."
+    },
+    {
+      "provision_ref": "sec3",
+      "section": "3",
+      "title": "Section 3",
+      "content": "3. Subject to the provisions of regulation 4 every district constable\nshall receive one dollar sixty cents in respect of-\n     (a) any day upon which he performs any duty or duties;\n     (b). any night in which he performs any duty or duties."
+    },
+    {
+      "provision_ref": "sec4",
+      "section": "4",
+      "title": "Section 4",
+      "content": "4. Where any district constable performs any duty or duties in any\nday and also performs any duty or duties in any night immediately pre-\nceding or succeeding such day, he shall receive two dollars in respect\nof the duties performed in such day and night."
+    }
+  ],
   "definitions": []
 }

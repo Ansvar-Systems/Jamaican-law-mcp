@@ -7,6 +7,19 @@
   "status": "in_force",
   "url": "https://laws.moj.gov.jm/library/statute/the-uganda-act",
   "description": "Category: statute | Source: https://laws.moj.gov.jm/library/statute/the-uganda-act | Legal areas: Citizenship and Nationality",
-  "provisions": [],
+  "provisions": [
+    {
+      "provision_ref": "sec2",
+      "section": "2",
+      "title": "Section 2",
+      "content": "2. In this Act-                                                   Interpreta-\n                                                                    tion.\n    “commencement of this Act” means 9th October, 1963;\n    “Minister” means the Minister responsible for external\n         affairs;\n    “Parliament” means the Parliament of Jamaica."
+    },
+    {
+      "provision_ref": "sec3",
+      "section": "3",
+      "title": "Section 3",
+      "content": "3 . 4 1 ) On and after the commencement of this Act, all Operation\n                                                              of existing\nexisting law, that is to say all law which, whether being law.\na rule of law or a provision of an Act of Parliament or of\nany other enactment or instrument whatsoever, is in force\non the date of such commencement or has been passed or\nmade before that date and comes into force thereafter, shall,\nunless and until provision to the contrary is made by\nParliament or some other authority having power in that\nbehalf, and subject to the following provisions of this\nsection, have the same operation in relation to Uganda,\nand persons and things belonging to or connected with\nUganda, as it would have apart from this subsection if\nUganda had not ceased to be part of Her Majesty’s\ndominions.\n       (2) The Minister may, by order, make such adapta-\ntions in any enactment passed before or after the commencz-\nment of this Act, or in any instrument having effect under\nany such enactment as appear to him necessary or expedient\nin consequence of Uganda having ceased to be part of Her\n                              UGANDA\nMajesty’s dominions; and any such order may, though made\nafter the commencement of this Act, be made so as to have\neffect from the date of such commencement.\n      (3) Every order made under subsection (2) shall be\nsubject to negative resolution."
+    }
+  ],
   "definitions": []
 }

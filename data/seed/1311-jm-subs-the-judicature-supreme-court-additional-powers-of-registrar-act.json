@@ -7,6 +7,13 @@
   "status": "in_force",
   "url": "https://laws.moj.gov.jm/library/subsidiary-legislation/the-judicature-supreme-court-additional-powers-of-registrar-act",
   "description": "Category: subsidiary_legislation | Source: https://laws.moj.gov.jm/library/subsidiary-legislation/the-judicature-supreme-court-additional-powers-of-registrar-act",
-  "provisions": [],
+  "provisions": [
+    {
+      "provision_ref": "sec1",
+      "section": "1",
+      "title": "Section 1",
+      "content": "1. This Order may be cited as the Additional Powers of Registrar\nOrder, 1960.\n  2 The Registrar is hereby empowered to exercise jurisdiction in re-\nlation to all of the matters specified in the Schedule to the Act, save and\nexcept those contained in sub-paragraph (0) of paragraph ( 1 ) of the\nSchedule.\n               [The InohYion of this pyc L authorized by L.N. 4119761"
+    }
+  ],
   "definitions": []
 }

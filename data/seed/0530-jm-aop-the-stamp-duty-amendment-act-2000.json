@@ -7,6 +7,19 @@
   "status": "in_force",
   "url": "https://laws.moj.gov.jm/library/act-of-parliament/the-stamp-duty-amendment-act-2000",
   "description": "Category: act_of_parliament | Source: https://laws.moj.gov.jm/library/act-of-parliament/the-stamp-duty-amendment-act-2000 | Year: 2000",
-  "provisions": [],
+  "provisions": [
+    {
+      "provision_ref": "sec1",
+      "section": "1",
+      "title": "Section 1",
+      "content": "1. This Act may be cited as the Stamp Duty (Amend- Short    title\n                                                         and con-\n ment) Act, 2000 and shall be read and construed as one struction.\n with the Stamp Duty Act (hereinafter referred to as the\n principal Act) and all amendments thereto."
+    },
+    {
+      "provision_ref": "sec2",
+      "section": "2",
+      "title": "Section 2",
+      "content": "2. The principal Act is amended by inserting next after Insertion\n                                                           of new\n section 32 the following as section 32A                   section 32A\n                                                            in principal\n                                                                 Aot.\n        \"\",,       32A.--(l) This section applies to money\n        advances. which is to be lent, advanced or paid, or\n                 which may become due on an account Cur-\n                 rent, either with or without money previously\n                 due.\n 2             [No. 17]         The Stamp Duty (Amendment) Act, 2000\n                                            (2) Where, in relation to any money\n                                  to which this section applies, the total amount\n                                  owed or to be ultimately recoverable is un-\n                                  limited or is in any way limited-\n                                         (a) a security for the payment or repay-\n                                           ment of that money shall be\n                                           charged with the same duty as a\n                                           security for the amount advanced;\n                                           and\n                                      (b) the security is to be available for\n                                           such an amount only as is covered\n                                          by the ad va/orem duty, impressed\n                                          thereon,\n                                 so, however, that where such an advance or\n                                 loan is made in excess of the amount covered\n                                 by the ad va/orem duty, the security shall, for\n                                 the purpose of stamp duty, be deemed to be\n                                 a new and separate instrument, bearing the\n                                 date on which the advance or loan is made.\".\nValidation.      3. Where, prior to the date of commencement of the\n              Stamp Duty (Amendment) Act, 2000, any stamp duty or\n              ad valorem duty was collected in relation to the upstamping\n              of securities, such duty as aforesaid shall be deemed to have\n              been validly, properly and lawfully collected.\nPRINTED BY JAMAICA PRINTING SERVICES (IS92) LTD., (GOVERNMENT PRINTERS), DUKE ST., KGN., JAMAICA."
+    }
+  ],
   "definitions": []
 }

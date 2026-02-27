@@ -7,6 +7,139 @@
   "status": "in_force",
   "url": "https://laws.moj.gov.jm/library/subsidiary-legislation/the-credit-reporting-act",
   "description": "Category: subsidiary_legislation | Source: https://laws.moj.gov.jm/library/subsidiary-legislation/the-credit-reporting-act",
-  "provisions": [],
+  "provisions": [
+    {
+      "provision_ref": "sec1",
+      "section": "1",
+      "title": "Section 1",
+      "content": "1. These Regulations may be cited as the Credit Reporting Regulations, cltatlon\n     2010."
+    },
+    {
+      "provision_ref": "sec2",
+      "section": "2",
+      "title": "Section 2",
+      "content": "2 . 4 1 ) An application for a licence under section 4(1) of the Act shall be Licence\n                                                                                      appl~cat~on\n       accordance with the form set out in the Schedule.                              form. fees and\n                                                                                          supporting\n                                                                                          documents\n                                                                                          Schedule\n             (2) For the purposes of section 4( 1) of the Act-\n         (a) the prescribed application fee is twenty-five thousand dollars;\n         (b) the prescribed particulars are the particulars specified in the form set\n             out in the Schedule, together with-\n                       (i) the Articles of Incorporation, or Memorandum of Asso-\n                           ciation and Articles of goc cia ti on, as the case may be,\n                           and Certificate of Incorporation of the applicant com-\n                           pany; and\n                       (ii) the applicant company's audited financial statements for\n                            the three financial years immediately preceding the\n                            application or, in the case of a company in operation for\n                            less than three years, the company's audited opening\n                            balance sheet and audited financial statements for each\n                            financial year of its operations.\n             (3) With the approval of the Minister, the supervising authority may,\n     by order published in the Gazette amend the form set out in the Schedule.\n-Y       3. For the purpose of sections 4(5) and 5(2) of the Act, the prescribed\n     licence fee is one hundred thousand dollars.\n                                                                                          L~cencefee"
+    },
+    {
+      "provision_ref": "sec4",
+      "section": "4",
+      "title": "Section 4",
+      "content": "4 . 4 1 ) For the purpose of section 4(3)(c) of the Act, a licence shall not capital\n                                                                                      requirements\n     be granted unless capital has been subscribed to an amount not less than the\n     Jamaican dollar equivalent of one hundred thousand United States dollars (at\n     the prevailing rate of exchange on the date of the application, as determined\n     by the supervising authority).\n4                                                    CREDIT REPORTING\n                          (2) With the approval of the Minister, the supervising authority may,\n                  by'order published in the Gazette, vary the amount specified in paragraph (1).\n                          (3) An order under paragraph (2) may specify different amounts\n                  which shall apply to specified Classes of applicants based upon an assess-\n                  ment of risk.\nInsurnme             5. It shall be a term and condition of every licence that the licensee\nrequirements.\n                  maintain sufficient liability insurance coverage to cover potential claims by\n                  consumers, and to address any other pertinent risks to its operations.\nFormofAuditor's       6. For the purposes of section 7(l)(a)(iii) of the Act, the auditor's report\nrrpon.            on the credit bureau's operations shall include the auditor's assessment of, and\n                  recommendations on-\n                         (a) the efficacy and reliability of the credit bureau's systems, procedures\n                             and policies relating to collecting, compiling, securing, analyzing,\n                             disseminating and otherwise dealing with credit information;\n                         (6) the efficacy and reliability of the credit bureau's policies for the\n                             identification, assessment and management of risk and the\n                             procedures employed by the credit bureau in connection therewith;\n                         (c) the credit bureau's level of compliance with the laws governing credit\n                     '\n                             bureaus, and the supervisory directionsand guidance issued by the\n                             supervising authority;\n                         ( 4 the efficacy and -reliability of the credit bureau's internal audit and\n                             control functions;\n                         (e) the security and reliability of personal information stored, and of\n                             credit information stored or disclosed, by the credit bureau; and\n                         u> any other matters which, in the view of the auditors may sub-\n                             stantially affect the operations or viability of the credit bureau.\nWitnesses.            7.-(1) For the purposes of section 27(2)(d) of the Act, witnesses\nexpenses.\n                  attending at the request or summons of the investigator shall be entitled to be\n                  paid their expenses at a rate of one thousand dollars per day.\n                         (2) The Minister may by order published in the Gazette increase any\n                  amount payable as witneises' expenses under paragraph (1).\n                    THE CREDIT REPORTING REGULATIONS, 2010\n                                         SCHEDULE                            (Regulation 2)\n                                   APPLICATION FORM\n                         For the Establishment oja Credit Bureau\nSection A: The Applicant Company"
+    },
+    {
+      "provision_ref": "sec5",
+      "section": "5",
+      "title": "Section 5",
+      "content": "5.       Name and contact information of person having conduct of the application on behalf\n         of the applicant company (contact person):"
+    },
+    {
+      "provision_ref": "sec6",
+      "section": "6",
+      "title": "Section 6",
+      "content": "6.       Relationship of contact person with the applicant company:\nSection B: Particulars ojApplicant Company"
+    },
+    {
+      "provision_ref": "sec10",
+      "section": "10",
+      "title": "Section 10",
+      "content": "10. Date of commencement of operations:\n                [The inclusion of this p a p is authorized by LN. 95120131\n                 THE CREDIT REPORTING REGULATIONS, 2010\n                                  SCHEDULE,\n                                         cond\nI I.   Financial Year-End:"
+    },
+    {
+      "provision_ref": "sec14",
+      "section": "14",
+      "title": "Section 14",
+      "content": "14. Which, if any, other regulated activity does the applicant engage in? (Please tick\n    appropriate box)\n           Banking\n           Financial Advisory\n           Insurance\n           Other (specify)"
+    },
+    {
+      "provision_ref": "sec15",
+      "section": "15",
+      "title": "Section 15",
+      "content": "15.    If the applicant engages in regulated activity, provide the name and contact details\n        of the authority responsible for regulating such activity."
+    },
+    {
+      "provision_ref": "sec17",
+      "section": "17",
+      "title": "Section 17",
+      "content": "17. Name and contact details id the applicant's bankers.\n                     inclusion of !his page is authorized by L.N. 95120131\n                     THE CREDITREPORTING REGULATIONS, 2010\n                                      SCHEDULE,\n                                             contd."
+    },
+    {
+      "provision_ref": "sec19",
+      "section": "19",
+      "title": "Section 19",
+      "content": "19. Name and contact details of the applicant's bankers.\n    Section C: Members, Directors and Managers ojthe Applicant Company"
+    },
+    {
+      "provision_ref": "sec20",
+      "section": "20",
+      "title": "Section 20",
+      "content": "20. Shareholding structure:\n        (Provide details of the shareholding structure of the applicant company, including\n    tmes of shares and the ~ r o ~ o r t i o of\n                                             n s shareholdines held bv shareholders and connected\n    persons within the meaning of section 2 of the 1n&me ~ a x ~ c t ) .\n    2 1. Board structure:\n       (Provide details on proposed composition, board committees, membership and\n    mandates).\n,22. Group Structure and regulatory standings:\n        (Where the applicant company is owned by another corporate or non-natural person,\n    provide details of-\n,        (a) the group structure (including a group chart), details of shareholdings along the\n             ownership chain, and details of the ultimate natural person or persons who hold\n             the ultimate beneficial interest in the applicant company; and\n         (b) the regulatory standings of all other credit bureaus operated by that other\n             corporate or non-natural person, whether those credit bureaus are located in\n             J q a i c a or another jurisdiction)."
+    },
+    {
+      "provision_ref": "sec23",
+      "section": "23",
+      "title": "Section 23",
+      "content": "23. Qualification, competence, knowledge and experience:          -\n        (Attach rksumts of all current directors, senior managers, and shareholders holding\n    shares amounting to 10% or more of the voting shares in the applicant company)."
+    },
+    {
+      "provision_ref": "sec24",
+      "section": "24",
+      "title": "Section 24",
+      "content": "24. Fit and Proper requirements:\n        (Attach completed Fit and Propei Questionnaires in relation to all current directors,\n    senior managers, and shareholders holding 10% or more of the voting shares in the\n    appIicant company)."
+    },
+    {
+      "provision_ref": "sec25",
+      "section": "25",
+      "title": "Section 25",
+      "content": "25. Organizational structure:\n       (Provide a chart showing the management and employee structure of the applicant\n    companyi. -                  --\n                THE CREDIT REPORTING REGULATIONS, ZOIO\n                                  SCHEDULE,\n                                         conid.\nSection Di'Operations"
+    },
+    {
+      "provision_ref": "sec26",
+      "section": "26",
+      "title": "Section 26",
+      "content": "26. Business plan and feasibility study:\n    (Provide a business plan and feasibility study which forecasts the operations of the\ncredit bureau for the next three years, and which explicitly includes details as to how the\nbusiness will be funded and operated and the products and services to be offered. Also\nprovide details of all assumptions supporting the forecasts)."
+    },
+    {
+      "provision_ref": "sec27",
+      "section": "27",
+      "title": "Section 27",
+      "content": "27. Capital structure:\n     (Provide details of the initial capital structure of the applicant company, including\nopening balance sheets (if applicable), audited financial statements for the last three years\n(if applicable), paid up capital, and types of issued shares.)"
+    },
+    {
+      "provision_ref": "sec28",
+      "section": "28",
+      "title": "Section 28",
+      "content": "28. Technological capacity:\n     (Provide details of the information technology platforms: software programs\n(including encryptions standards), security measures and other physical infrastructure, and\nany other means by which the applicant intends to collate, analyse, store, secure, distribute\nor otherwise deal with credit information and other customer information received from\ncredit information providers or other sources)."
+    },
+    {
+      "provision_ref": "sec29",
+      "section": "29",
+      "title": "Section 29",
+      "content": "29. Disposal Procedures:\n     (Provide details of the proposed procedures for treatment or disposal of credit\ninformation that is established to be inaccurate, ineligible to be treated as credit\ninformation, or no longer current)."
+    },
+    {
+      "provision_ref": "sec30",
+      "section": "30",
+      "title": "Section 30",
+      "content": "30. Policy and Procedure ~ a n u a l s ? ,\n     (Provide copies of the applicant company's manuals or other documents or proposals\noutlining its policies and procedures as regards-\n       *    Security of customer information\n            Integrity and accuracy of customer information\n            Customer dispute resolution\n            CompIiance with all appl~cablelaws and regulatory requirements\n            Operational risk management (including legal and reputational risks)\n            Capital and financial resource management\n            Employee screening and integrity procedures (both initial and ongoing)\n            Contingency planning and business continuity).\n3 1. Arrangements with credit information providers:\n     (Provide details of all arrangements made or agreements entered into with credit\ninformation providers for the provision of credit information to the applicant company\nonce it is licensed as a credit bureau. If there are no such arrangements or agreements in\nplace, provide a copy of the proposed terms of the agreements that the applicant company\nexpects to govern agreements and arrangements with credit information providers).\n                THE CREDIT REPORTING REGULATIONS, 20010"
+    },
+    {
+      "provision_ref": "sec32",
+      "section": "32",
+      "title": "Section 32",
+      "content": "32. Storage of credit information in another jurisdiction:\n    (Advise whether the applicant company is seeking approval, under section 12(l)(c) of\nthe Act, to store credit, information in another jurisdiction. If so, provide details of the\nproposed arrangements for such storage, including-\n    (a) details of the proposed storage facility, including its name, address, ownership,\n        management and service features;\n    (b) details of the terms and conditions governing the applicant company's use and\n        storage of credit information at the proposed storage facility;\n    (c) details of the security measures that will be applied to credit information stored at\n        the proposed storage facility;\n    (4 the methods proposed for transmission of the credit information into and out of\n        the proposed storage facility;\n    (e) the proposed arrangements for the management and administration of the\n        proposed storage facility;\n        details of the law and other legal requirements that may govern the use and\n        storage of credit hformation and personal information in that jurisdiction;\n    (g) details of any supervisory regime that may apply to the use and storage of credit\n        information and personal information in that jurisdiction;\n    (h) the arrangements proposed to enable an authorized officer to have access to the\n        credit information stored there by the applicant company, as required by section\n        12(4)(b)of the Act.)"
+    },
+    {
+      "provision_ref": "sec33",
+      "section": "33",
+      "title": "Section 33",
+      "content": "33. Scoring methodology:\n     (Advise whether the applicant company intends to offer credit scoring services upon\nlicensing and, if so, provide details of the methodology for credit scoring proposed to be\nused)."
+    },
+    {
+      "provision_ref": "sec34",
+      "section": "34",
+      "title": "Section 34",
+      "content": "34. Insurance:\n     (Provide details of any insurance policies taken out, or proposed to be taken out, by\nthe applicant company, including the nature and scope of coverage and the risks covered).\nSection E: Declaration\n    We hereby apply, under section 4 of the Credit Reporting Act, for a licence as a credit\nbureau.\n    We certify that, to the best of our knowledge, information and belief, all the\ninformation given in this application and contained in supporting statements and\ndocumentation submitted is true and correct.\n     The supporting statements include the documents of incorporation, the rksumks and\ncompleted Fit arid Proper Questionnaires for each individual manager, director, and\nshareholder with ten percent or more of the shareholding; the business plan and feasibility\nstudy, with details of sources of funding: the most recent audited reports and requisite\nfinancial statements; and all other manuals, procedural or policy documents required by\nthis application.\n             [The inclusion of ,this page is authorized by LN. 95120131\n                  CREDlT REPORTING REGULATIONS, 2010\n                                .SCHEDULE,contd.\n    We consent to the supervising authority obtaining information fivm any source as\npermitted by the laws of Jamaica or any other jurisdiction for the purpose of verifying\ninformation furnished in this application.\nName and address of applicant\n                                                      Signature           Date\nName of Managing Director (or person in charge of\nthe applicant's affairs)\n                                                      Signature           Date\nName of Company Secretary\nCompany Seal\n                                                      Signature           Date\n  Name Justice of the Peace                           Signature           Date"
+    }
+  ],
   "definitions": []
 }

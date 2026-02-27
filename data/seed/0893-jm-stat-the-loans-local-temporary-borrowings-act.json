@@ -7,6 +7,31 @@
   "status": "in_force",
   "url": "https://laws.moj.gov.jm/library/statute/the-loans-local-temporary-borrowings-act",
   "description": "Category: statute | Source: https://laws.moj.gov.jm/library/statute/the-loans-local-temporary-borrowings-act | Legal areas: Finance and Banking",
-  "provisions": [],
+  "provisions": [
+    {
+      "provision_ref": "sec1",
+      "section": "1",
+      "title": "Section 1",
+      "content": "1. This Act may be cited as the Loans (Local) (Temporary short title.\nBorrowings) Act."
+    },
+    {
+      "provision_ref": "sec2",
+      "section": "2",
+      "title": "Section 2",
+      "content": "2. In this Act, unless the context otherwise requires, Interpreta-\n                                                           tion.\n“local loan Act” means any other enactment authorizing the\nraising of loans in the Island, and “estimated recurrent 4911963\n                                                           s. 2.\nrevenue” means estimated revenue of Jamaica other than\nrevenue from loans."
+    },
+    {
+      "provision_ref": "sec3",
+      "section": "3",
+      "title": "Section 3",
+      "content": "3.-(1) Subject to the provisions of subsection (2), the Authority\n                                                            for tem-\nMinister is hereby authorized to raise from time to time as porary\n                                                            borrowings.\nmay be convenient sums of money by way of temporary 4p/1963\nborrowing on such terms and subject to such conditions 2.          ss\nas he may think fit.\n        (2) No sum of money shall be raised under this Act\nunless, on the day on which that sum is raised, that sum\nand all principal moneys remaining unpaid in respect of all\nother sums previously raised under the authority of this\nAct do not exceed fifteen per centum of the estimated :!i!963\nrecurrent revenue for the financial year in which that sum\nis raised."
+    },
+    {
+      "provision_ref": "sec4",
+      "section": "4",
+      "title": "Section 4",
+      "content": "4. A certificate of the Auditor-General of the amount of Evidence\nthe principal moneys at any time remaining unpaid in previously\n                                                              as to sums\nrespect of all other sums previously raised under the r*iSed.\nauthority of this Act and of the estimated recurrent revenue 49/1963\nfor any financial year shall, in the hands of a lender, be s. 2.\nconclusive evidence of its contents and a lender shall not be\n      m e inclusion of this page is authorized by L.N. 480/1973]\n2                    LOANS (LOCAL) (TEMPORARY BORROWINGS)\n               concerned or obliged to see or enquire as to the appro-\n               priation or application of any moneys raised under the\n               authority of this Act.\nPrincipal        5. The principal moneys and interest represented by the\nand interest\nto be          temporary borrowings under the authority of this Act are\ncharged on     hereby charged upon, and shall be payable out of, the\nthe Con-\nsolidated      Consolidated Fund and assets of the Government of\nFund.\n4911963        Jamaica.\ns. 2.\nProvision        6. It shall be lawful for the Minister to authorize the\nfor repay-\nment of        repayment of sums raised under the authority of this Act\ntemporary      out of moneys raised under the authority of any local loan\nborrowings.\n49 1 1963      Act.\ns. 2.\n               -me       inclusion of this page is authorized by L.N. 480119731\n                                                                                  -"
+    }
+  ],
   "definitions": []
 }

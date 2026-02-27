@@ -7,6 +7,19 @@
   "status": "in_force",
   "url": "https://laws.moj.gov.jm/library/statute/the-republic-of-malta-act",
   "description": "Category: statute | Source: https://laws.moj.gov.jm/library/statute/the-republic-of-malta-act | Legal areas: Citizenship and Nationality",
-  "provisions": [],
+  "provisions": [
+    {
+      "provision_ref": "sec2",
+      "section": "2",
+      "title": "Section 2",
+      "content": "2. In this Act-                                                    Interpreta-\n                                                                     tion.\n    “Minister” means the Minister for the time being res-\n        ponsible for external affairs;\n    “Parliament” means the Parliament of Jamaica."
+    },
+    {
+      "provision_ref": "sec3",
+      "section": "3",
+      "title": "Section 3",
+      "content": "3.-(1) On and after the 13th day of December, 1974, all Operationof\n                                                            existing law.\nexisting law, that is to say all law which, whether being a\nrule of law or a provision of an Act of Parliament or of\nany other enactment or instrument whatsoever, is in force\non that date or has been passed or made before that date\nand comes into force thereafter, shall, unless and until\nprovision to the contrary is made by Parlament or some\nother authority having power in that behalf, and subject\nto the following provisions of this section, have the same\noperation in relation to the Republic of Malta, and persons\nand things belonging to or connected with the Republic\nof Malta, as it would have apart from this subsection if\nMalta had not become a Republic.\n       (2) The Minister may, by order, make such adapta-\ntions in any enactment passed before or after 13th day of\nDecember, 1974, or in any instrument having effect under\nany such enactment, as appear to him necessary or ex-\npedient in consequence of Malta having become a Republic,\nand any such order may, though made after the 13th day\nof December, 1974, be made so as to have effect from\nthat date.\n       (3) Every order made under subsection (2) shall be\nsubject to negative resolution.\n      [Thc inclusion of this page is authorized by   L.N. 60/1976]"
+    }
+  ],
   "definitions": []
 }
