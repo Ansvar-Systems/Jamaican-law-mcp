@@ -7,6 +7,19 @@
   "status": "in_force",
   "url": "https://laws.moj.gov.jm/library/statute/the-medical-services-change-of-duties-and-titles-act",
   "description": "Category: statute | Source: https://laws.moj.gov.jm/library/statute/the-medical-services-change-of-duties-and-titles-act | Legal areas: Health and Safety",
-  "provisions": [],
+  "provisions": [
+    {
+      "provision_ref": "sec1",
+      "section": "1",
+      "title": "Section 1",
+      "content": "1. This Act may be cited as the Medical Services Shorttitle.\n(Change of Duties and Titles) Act."
+    },
+    {
+      "provision_ref": "sec2",
+      "section": "2",
+      "title": "Section 2",
+      "content": "2. Whenever the duties or title of an office in the Powerto\n                                                               change\nMedical Services of the Island are changed or an office references\n                                                               to oftices\nceases to exist as a consequence of a reorganization of ofwhich\nsuch Services, the Minister may by order direct that refer-       $fc;z\nences to such office in any Statute enacted by the Legislature changed.\nof the Island or in regulations made thereunder shall, with\neffect from a date specified in the order, be construed as\nreferences to such other office in the Medical Services of\nthe Island as may be specified in the order.\n      me inclusion of this page is authorized by L.N. 480/1973]"
+    }
+  ],
   "definitions": []
 }

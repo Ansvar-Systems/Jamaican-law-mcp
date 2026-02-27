@@ -7,6 +7,19 @@
   "status": "in_force",
   "url": "https://laws.moj.gov.jm/library/subsidiary-legislation/the-loans-canada-and-usa-and-other-specified-countries-act",
   "description": "Category: subsidiary_legislation | Source: https://laws.moj.gov.jm/library/subsidiary-legislation/the-loans-canada-and-usa-and-other-specified-countries-act",
-  "provisions": [],
+  "provisions": [
+    {
+      "provision_ref": "sec1",
+      "section": "1",
+      "title": "Section 1",
+      "content": "1. This Order may be cited as the Loans (Canada and United\nStates of America and Other Specified Countries) (United Kingdom)\n(Application) Order. 1963."
+    },
+    {
+      "provision_ref": "sec2",
+      "section": "2",
+      "title": "Section 2",
+      "content": "2. The Act shall be applicable to the raising of loans in the United\nKingdom, subject to the modifications specified in the Schedule.       Schedule.\n                                      SCHEDULE                           (Paragraph 2)\n           Enactment                                             Modification\n  In the definition of \"country of issue\"               The reference to Canada and\napparing. in subsection. (1) of section 2, and        the United States of America\nin subsectton (1) of sectron 5.                       or to both such countries shall\n                                                      be construed as references ta\n                                                      the United Kingdom.\n  In subsection (1) of section 5.                       The reference to dollars shall\n                                                      be construed (to include pounds\n                                                      sterling.\n  In subsection (2) of section 5.                        The reference to Stock Ex-\n                                                      changes in the country of issue\n                                                      shall be construed to include\n                                                      Stock Exchanges in such\n                                                      countries as the Minister deems\n                                                      fit.\n                 phe inJusion of thin page is authorized by L.N. 4119761"
+    }
+  ],
   "definitions": []
 }

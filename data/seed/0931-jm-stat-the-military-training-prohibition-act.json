@@ -7,6 +7,31 @@
   "status": "in_force",
   "url": "https://laws.moj.gov.jm/library/statute/the-military-training-prohibition-act",
   "description": "Category: statute | Source: https://laws.moj.gov.jm/library/statute/the-military-training-prohibition-act | Legal areas: Defence and National Security",
-  "provisions": [],
+  "provisions": [
+    {
+      "provision_ref": "sec1",
+      "section": "1",
+      "title": "Section 1",
+      "content": "1. This Act may be cited as the Military Training Short title.\n(Prohibition) Act ."
+    },
+    {
+      "provision_ref": "sec2",
+      "section": "2",
+      "title": "Section 2",
+      "content": "2. All meetings and assemblies of persons for the Meetings of\npurpose of training or drilling themselves, or of being the\n                                                        persons for\n                                                            purpose\ntrained or drilled to the use of arms, or for the purpose of $ai:::ary\npractising military exercise, movements, or evolutions, prohibited.\nwithout authority from the Governor-General, by commis-\nsion or otherwise, shall be and the same are hereby pro-\nhibited."
+    },
+    {
+      "provision_ref": "sec3",
+      "section": "3",
+      "title": "Section 3",
+      "content": "3. Every person who shall be present at, or attend any Training at\nsuch meeting or assembly, for the purpose of training or\ndrilling any other person or persons to the use of arms, or\nthe practice of military exercise, movements, or evolutions,\nor who shall train or drill any other person or persons to\nthe use of arms or the practice of military exercise,\nmovements, or evolutions, or who shall aid or assist therein,\nbeing legally convicted thereof, shall be liable to be ~ ~ ~ 1 ~ ; .\nimprisoned for a term not exceeding seven years, with or\nwithout hard labour."
+    },
+    {
+      "provision_ref": "sec4",
+      "section": "4",
+      "title": "Section 4",
+      "content": "4. Every person who shall attend or be present at any Attendingto\nsuch meeting as aforesaid for the purpose of being, or who be trained.\nshall at any such meeting or assembly be, trained, or\ndrilled to the use of arms, or the practice of military\nexercise, movements, or evolutions, being legally convicted\nthereof, shall be liable to be punished by fine and imprison-\nment for a term not exceeding two years.\n\\\n    2                         MILITARY TRAINlNG (PROHIBITION)\n    Persons so      5. It shall be lawful for any Justice, or for any constable\n    assembled\n    may be        or peace officer, or for any officer of the Jamaica Defence\n    dispersed,    Force, or for any other person or persons acting in their\n    etc.\n    121 1962\n    S. 215.\n                  aid or assistance, to disperse any such unlawful meeting\n                  or assembly, and to arrest and detain any person present\n                  at, or aiding, assisting, or abetting any such assembly or\n                  meeting; and it shall be lawful for the Justice who shall\n                  arrest any such person, or before whom any person so\n                  arrested shall be brought, to commit such person for trial,\n                  unless such person can and shall give sufficient bail for his\n                  appearance at the next Circuit Court of the parish in which\n                  he may have been apprehended to answer to any indict-\n                  ment which may be preferred against him for any such\n                  offence against this Act.\n    Offenders        6. Nothing- in this Act contained shall extend to prevent\n    may be\n    prosecuted    any prosecution, indictment, or otherwise for anything\n    as if this\n    Act had not   which shall be an offence within the intent and meaning\n    been made.    of this Act, and which might have been so prosecuted if\n                  this Act had not been made, unless the offender shall have\n                  been prosecuted for such offence under this Act, and con-\n                  victed or acquitted of such offence.\n                         [The inclusion of this p3ge is authorized by L.N. 480/1973]"
+    }
+  ],
   "definitions": []
 }

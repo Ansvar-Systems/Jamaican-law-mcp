@@ -7,6 +7,25 @@
   "status": "in_force",
   "url": "https://laws.moj.gov.jm/library/statute/the-conveyances-voluntary-act",
   "description": "Category: statute | Source: https://laws.moj.gov.jm/library/statute/the-conveyances-voluntary-act | Legal areas: Real Estate",
-  "provisions": [],
+  "provisions": [
+    {
+      "provision_ref": "sec2",
+      "section": "2",
+      "title": "Section 2",
+      "content": "2. Subject as hereinafter mentioned no voluntary con- ~ o b o n a\n                                                                   fide volun-\nveyance of any lands, tenements, or hereditaments, whether tary con-\nmade before or after the passing of this Act, if in .fact ;          I               ~\nmade bona fide and without any fraudulent intent, shall frauddent.\nhereafter be deemed fraudulent or covinous within the\nmeaning of the United Kingdom Act 27 Elizabeth I, chapter"
+    },
+    {
+      "provision_ref": "sec3",
+      "section": "3",
+      "title": "Section 3",
+      "content": "3. This Act does not apply in any case in which the Wherethis\n                                                            Act does\nauthor of a voluntary conveyance of any lands, tenements, not apply.\nor hereditaments has subsequently, but before the passing\nof this Act disposed of or dealt with the same lands, tene-\nments, or hereditaments to or” in favour of a purchaser for\nvalue."
+    },
+    {
+      "provision_ref": "sec4",
+      "section": "4",
+      "title": "Section 4",
+      "content": "4. In this Act “conveyance” includes every mode of Interpre-\n                                                        tation.\ndisposition mentioned or referred to in the said United\nKingdom Act or under the Registration of Titles Act.\n      me inclusion of this page is authorized by L.N. 480/1973]"
+    }
+  ],
   "definitions": []
 }

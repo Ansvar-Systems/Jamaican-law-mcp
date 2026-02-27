@@ -7,6 +7,31 @@
   "status": "in_force",
   "url": "https://laws.moj.gov.jm/library/subsidiary-legislation/the-pilotage-act",
   "description": "Category: subsidiary_legislation | Source: https://laws.moj.gov.jm/library/subsidiary-legislation/the-pilotage-act",
-  "provisions": [],
+  "provisions": [
+    {
+      "provision_ref": "sec1",
+      "section": "1",
+      "title": "Section 1",
+      "content": "1. This Order may be cited as the Pilotage (Waiver of Compulsory\nPilotage) Order, 1981."
+    },
+    {
+      "provision_ref": "sec2",
+      "section": "2",
+      "title": "Section 2",
+      "content": "2. Where, in relation to the navigation within a pilotage area of any\nship-\n       (a) no licensed pilot is available to perform pilotage duties; or\n       (6) one or more licensed pilots refuse to perform pilotage duties for\n            any reason other than the safety of the ship; or\n       (c) being a yacht is-\n             (i) going directly from outside of any pilotage area to a marina\n                   similar in Jamaica; or\n             (ii) cruising Jamaican waters solely for pleasure,\nthe ship shall not be required to be under pilotage of a pilot licensed for such\narea by the Authority if the conditions set out in paragraph 3 are complied\nwith prior to the ship proceeding without a licensed pilot."
+    },
+    {
+      "provision_ref": "sec3",
+      "section": "3",
+      "title": "Section 3",
+      "content": "3. The conditions referred to in paragraph 2 are complied with if-\n      (a) the master of the ship furnishes the Authority with the following\n           inforrnation-\n              (i) the name, nationality, call sign, draft and gross registered\n                    tonnage of the ship;\n              (ii) the immediate and ultimate destination of the ship within\n                    the compulsory pilotage area;\n              (iii) the nature of any cargo on board the ship;\n              (iv) whether the master of the ship is familiar with the route\n                    and marine traffic regulating system in the compulsory\n                    pilotage area;\n              (v) whether the master of the ship is prepared to proceed\n                    without the service of a pilot; and\n       (b) the Authority, after considering the information, indicates that it\n           offers no objection to the ship proceeding without a licensed\n           pilot."
+    },
+    {
+      "provision_ref": "sec4",
+      "section": "4",
+      "title": "Section 4",
+      "content": "4. The navigation of any ship pursuant to tlus Order shall be subject to\nthe Authority's directions."
+    }
+  ],
   "definitions": []
 }

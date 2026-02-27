@@ -7,6 +7,52 @@
   "status": "in_force",
   "url": "https://laws.moj.gov.jm/library/statute/the-sharing-of-forfeited-property-act",
   "description": "Category: statute | Source: https://laws.moj.gov.jm/library/statute/the-sharing-of-forfeited-property-act | Legal areas: Courts and Judiciary",
-  "provisions": [],
-  "definitions": []
+  "provisions": [
+    {
+      "provision_ref": "sec1",
+      "section": "1",
+      "title": "Section 1",
+      "content": "1. This Act may be cited as the Sharing of Forfeited Property                      tit'e.\nAct."
+    },
+    {
+      "provision_ref": "sec2",
+      "section": "2",
+      "title": "Section 2",
+      "content": "2.-(1) In this Act, unless the context otherwise requires-    _,,,,,e,t,I\n                                                                             tion.\n     \"Convention\" means the Vienna Convention Against\n          Illicit Traffic in Narcotic Drugs and Psychotropic\n          Substances, 1988;\n     \"convention state\" means a foreign state which is a party\n          to the Convention;\n     \"forfeited property\" means any property which is the\n          subject of a relevant agreement, being property which\n          falls within any of the following categories-\n                (a) any property which is forfeited property\n                    pursuant to a forfeiture order or a pecuniary (i).\n                    penalty order made under section 5(3) of the\n                    Proceeds of Crime Act;\n               (b) any amount paid under an order made under 4noo.r\n                                                                  S. 140(3)(a)\n                    section 5(5) of that Act;                     ,.\n                                                                  fi).\n               (c) any property which, pursuant to a request by a\n                    convention state is the subject of-\n                               (i) foreign forfeiture order or a foreign\n                                   pecuniary penalty order registered\n                                   in the Supreme Court and having\n                                   effect, pursuant to section 27(3) and\n                                    (4) of the Mutual Assistance\n                                    (Criminal Matters) Act; or\n                               (ii) a forfeiture order or a pecuniary\n                                     penalty order under the Proceeds of 4DOO-I\n                                     Crime Act made and enforced S.140(3)(a)\n                                                                         (9.\n                                     under section 27(8) of the Mutual\n                                     Assistance (Criminal Matters) Act;\n                                SHARlNG OF FORFEITED PROPERTY\n                                (4 any property located in a convention state-\n                                               (i) in relation to which a request is\n                                                   made to that state, under section 13\n                                                   of the Mutual Assistance (Criminal\n                                                   Matters) Act, for the enforcement of\n                                                   a forfeiture order or pecuniary\n                                                   penalty order made under the\n                                                   Proceeds of Crime Act; or\n                                             (ii) which is forfeited in a convention\n                                                  state under the laws of that state;\n                      \"relevant agreement\" means an agreement made between\n                           Jamaica and a convention state, providing for the\n                           sharing of forfeited property.\n                         (2) For the purposes of this Act \"foreign forfeiture\n                 order\" and \"foreign pecuniary order\" have the same meaning as\n                 in the Mutual Assistance (Criminal Matters) Act.\nApplication of      3.--(1) Where a relevant agreement has been made with a\nAct to conven-\ntion states.     convention state, the Minister may, by order, declare that the\n                 provisions of this Act shall apply in respect of that state subject\n                 to such exceptions, adaptations or modifications as the\n                 Minister, having due regard to the terms of such agreement,\n                 may deem expedient to specify in the order for the purpose of\n                 implementing such terms.\n                          (2) An order under subsection (1) shall be subject to\n                 affirmative resolution.\nAttorney-            4.--(1)  Forfeited property may be shared with a convention\nGeneral to\ncertify          state only if the Attorney-General certifies in writing that it is\nproperty for     proper for the property to be so shared.\nsharing.\n                        (2) The Attorney-General shall, in issuing a certificate\n                 under subsection (I), have regard to the provisions of the\n                 Proceeds of Crime Act and any other relevant law.\n             SHARING OF FORFEITED PROPERTY                                            3"
+    },
+    {
+      "provision_ref": "sec5",
+      "section": "5",
+      "title": "Section 5",
+      "content": "5.-(1) There shall be established for the purposes of this               krsei'ed\n                                                                           Property\nAct, a fund into which shall be paid-                                      Fund.\n     (a) any amount paid to the Crown pursuant to section 5 of             412007\n                                                                           S. 140(3)(c).\n          the Proceeds of Crime Act in relation to property\n          which is the subject of a relevant agreement;\n    (b) the proceeds of the sale of any property to which a\n         certificate under section 4 relates; and\n    (c) any amounts transmitted to Jamaica pursuant to a\n        relevant agreement.\n       (2) The fund referred in subsection (1) shall be under\nthe control and management of a public officer designated by\nthe Minister.\n       (3) The moneys of the fund shall be-\n     ( a ) held in a bank approved by the Minister, in which\n           public funds may lawfblly be deposited;\n     (b) used in accordance with directions in writing issued by\n         the Minister, for the purposes of health, education and\n         national security."
+    },
+    {
+      "provision_ref": "sec6",
+      "section": "6",
+      "title": "Section 6",
+      "content": "6. The Minister may make regulations for the purpose of                  Regulations.\ngiving effect to the provisions of this Act.\n             [The inclusion o f this page is authorized by L.N. llnOl0 1"
+    }
+  ],
+  "definitions": [
+    {
+      "term": "Convention",
+      "definition": "the Vienna Convention Against",
+      "source_provision": "sec2"
+    },
+    {
+      "term": "convention state",
+      "definition": "a foreign state which is a party",
+      "source_provision": "sec2"
+    },
+    {
+      "term": "forfeited property",
+      "definition": "any property which is the",
+      "source_provision": "sec2"
+    },
+    {
+      "term": "relevant agreement",
+      "definition": "an agreement made between",
+      "source_provision": "sec2"
+    }
+  ]
 }

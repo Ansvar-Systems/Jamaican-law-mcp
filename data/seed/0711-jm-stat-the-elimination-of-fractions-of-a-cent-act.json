@@ -7,6 +7,19 @@
   "status": "in_force",
   "url": "https://laws.moj.gov.jm/library/statute/the-elimination-of-fractions-of-a-cent-act",
   "description": "Category: statute | Source: https://laws.moj.gov.jm/library/statute/the-elimination-of-fractions-of-a-cent-act | Legal areas: Finance and Banking",
-  "provisions": [],
+  "provisions": [
+    {
+      "provision_ref": "sec1",
+      "section": "1",
+      "title": "Section 1",
+      "content": "1. This Act may be cited as the Elimination of shorttitle.\nFractions of a Cent Act."
+    },
+    {
+      "provision_ref": "sec2",
+      "section": "2",
+      "title": "Section 2",
+      "content": "2. In all payments to or by Government officers where paymmtr\n                                                            to or by\nthe amount due includes a fraction of a cent, payment Gov-at\nshall be made as follows-                                   offiacra\n                                                            where\n     (a) Where the fraction is less than one half of a\n         cent the fraction shall be discarded.              fradion of\n                                                            a cent.\n     (b) Where the fraction is more than one half of a !$jIM9,\n         cent, the fraction shall be regarded as a cent and\n         payment made accordingly.\n     (c) Where the fraction is exactly one half of a cent\n         the fraction shall be discarded if the number of\n         cents is an even number or zero, and shall be\n         regarded as a cent when the number of cents is an\n         uneven number.\n      me inclusion of this page is authorized by LN. 480119731"
+    }
+  ],
   "definitions": []
 }

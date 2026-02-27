@@ -7,6 +7,19 @@
   "status": "in_force",
   "url": "https://laws.moj.gov.jm/library/statute/the-law-reform-common-employment-act",
   "description": "Category: statute | Source: https://laws.moj.gov.jm/library/statute/the-law-reform-common-employment-act | Legal areas: Employment",
-  "provisions": [],
+  "provisions": [
+    {
+      "provision_ref": "sec2",
+      "section": "2",
+      "title": "Section 2",
+      "content": "2.41) It shall not be a defence to an employer who is wrm\n    sued in respect of personal injuries caused by the negligend mployment\n                                                                 nottpbea\n                                                                     I\n    of a person employed by him, that that p o n was at tha dcf-\n    time the injuries were caused in common employment with/\n    the person injured.\n           (2) Any provision contained in a contract of service(\n    or apprenticeship or in an agreement collateral thereto\n    (including a contract or agreement entered into before the\n    passing of this Act) shall be void in so far as it would\n                                                                     i\n    have the effect of excluding or limiting any liability of the\n    employer in respect of personal injuries caused to the1\n    person employed 01 apprenticed by the negligence of per-1\n    sons in common employment with him.\n                                                                     I"
+    },
+    {
+      "provision_ref": "sec3",
+      "section": "3",
+      "title": "Section 3",
+      "content": "3. This Act shall bind the Crown.\n                                                                         I\n                                                                         ICTOWI.\n          me inclusion of thia page is authorized by LN. 480/19731"
+    }
+  ],
   "definitions": []
 }

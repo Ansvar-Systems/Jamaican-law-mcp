@@ -7,6 +7,25 @@
   "status": "in_force",
   "url": "https://laws.moj.gov.jm/library/statute/the-provisional-collection-of-tax-act",
   "description": "Category: statute | Source: https://laws.moj.gov.jm/library/statute/the-provisional-collection-of-tax-act",
-  "provisions": [],
+  "provisions": [
+    {
+      "provision_ref": "sec2",
+      "section": "2",
+      "title": "Section 2",
+      "content": "2. In this Act-                                                          Interpre-\n                                                                           tation.\n     any expression referring to the renewal of a tax shall\n         be deemed to refer also to the reimposition of a\n         tax;\n     “Minister” means the Minister responsible for finance;\n     “tax” includes any duty, rate, due, fee or other impost."
+    },
+    {
+      "provision_ref": "sec3",
+      "section": "3",
+      "title": "Section 3",
+      "content": "3.-(1)     The Minister may make an order providing-                     Orders\n                                                                           varying,\n                                                                           renew!ng or\n     (a) for the variation of any tax for the time being in imposing\n         force; or                                             tax, to have\n                                                               statutory\n                                                                      for\n     (b) for the renewal for a further period of any tax effectlimited\n          in force during the previous financial year or period.\n         which was imposed for any limited period; or\n     (c) for the imposition of any tax,\nand notwithstanding anything to the contrary the provisions\nof such an order shall, for the period limited by this section\nand subject to the provisions of this Act, have effect as if\ncontained in an Act of Parliament.\n      (2) Where an order under subsection (1) provides for\nthe renewal of a tax, all enactments which were in force\nwith reference to that tax as last imposed by an Act of\nParliament shall, during the period for which the order\nremains in force and subject to the provisions of this Act,\nhave full force and effect with respect to the tax as renewed\nby the order.\n2                           PROVISIONAL COLLECTION OF TAX\n                   (3) An order under this section shall, subject to sub-\n            section (4), continue for a period of six months next\n            following publication thereof in the Gazette :\n              Provided that the House of Representatives may by\n            Resolution authorize the continuance in force of the order\n            for an additional period of three months.\n                      (4) An order under this section shall cease to have\n            effect-\n                 (a) if it is not confirmed, with or without modification,\n                      by Resolution of the House of Representatives\n                      within the next thirty days on which the House\n                      sits after the date of publication of the order in\n                      the Gazette; or\n                 (b) if Parliament is dissolved; or\n                 (c) if an enactment comes into operation varying,\n                     renewing or imposing the tax.\n                   (5) Where an order under this section is modified by\n            Resolution of the House of Representatives it shall have\n            effect under this Act as so modified.\nRepayment     4 . 4 1 ) Where the provisions of an order made under\nwhere\norder       subsection (1) of section 3 are modified by Resolution of\nceases to   the House of Representatives or by an Act of Parliament\nhave\neffect.     so as to affect the tax payable under that order, any money\n            which has been paid in pursuance of the order and which\n            would not have been payable under the modified provisions,\n            shall be repaid or made good and any deduction made in\n            pursuance of the order shall, so far as it would not have\n            been authorized under the said modified provisions be\n            deemed to be an unauthorized deduction.\n                  (2) Where an order under subsection (1) of section 3\n            ceases to have effect before an enactment comes into\n            operation confirming or modifying the provisions thereof,\n            any money paid in pursuance of that order shall be repaid\n            PROVISIONAL COLLECTION OF TAX                                3\nor made good and any deduction made in pursuance of that\norder shall be deemed to be an unauthorized deduction."
+    },
+    {
+      "provision_ref": "sec5",
+      "section": "5",
+      "title": "Section 5",
+      "content": "5. Where any tax is reduced by an order under section Provisional\n                                                            deposit of"
+    }
+  ],
   "definitions": []
 }

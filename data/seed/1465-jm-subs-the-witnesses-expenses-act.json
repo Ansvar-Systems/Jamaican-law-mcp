@@ -7,6 +7,31 @@
   "status": "in_force",
   "url": "https://laws.moj.gov.jm/library/subsidiary-legislation/the-witnesses-expenses-act",
   "description": "Category: subsidiary_legislation | Source: https://laws.moj.gov.jm/library/subsidiary-legislation/the-witnesses-expenses-act",
-  "provisions": [],
+  "provisions": [
+    {
+      "provision_ref": "sec1",
+      "section": "1",
+      "title": "Section 1",
+      "content": "1. These Regulations may be cited as the Witnesses Expenses                    404/69\nRegulations, 1943."
+    },
+    {
+      "provision_ref": "sec2",
+      "section": "2",
+      "title": "Section 2",
+      "content": "2. In these Regulations the expression \"taxing officer\" means-\n    (a) in respect of trials in any division of the Supreme Court while\n         sitting in Kingston, the Registrar of the Supreme Court or an\n         officer deputed by him in that behalf;\n    (b) in respect of trials in any division of the Supreme Court while\n         sitting outside of Kingston, the Clerk of such Court;\n    (c) in respect of preliminary enquiries, coroners' inquests or trials\n         in the Resident Magistrate's Court, the Clerk of such Resident\n         Magistrate's Court;\n    (6) in respect of preliminary enquiries or trials in a Petty Sessions\n         Court, the Clerk of the Resident Magistrate's Court for the\n         Parish in which such Petty Sessions Court is held."
+    },
+    {
+      "provision_ref": "sec3",
+      "section": "3",
+      "title": "Section 3",
+      "content": "3.-41) Every witness who is entitled to have his travelling expenses\npaid from public funds shall be allowed such expenses in the sums\nactually and reasonably expended in proceeding to court and in\nreturning to his residence and where there is a railway or other public\nconveyance which, in the opinion of the taxing officer, may be\nconveniently used by the witness, then the maximum amount allowable\nunder this regulation shall be-\n     (a) in the case of a witness falling within Class I or Class I1 of the\n          Act, the first class railway fare; and\n     (6) in other cases, the second class railway fare.\n       (2) Subject to the provisions of paragraph ( 1 )-\n                IThe inclusion of this page is authorized by L.N. 4119761\n          THE WITNESSES EXPENSES REGULATIONS, 1943\n    (a) where a witness used his own means of transport, the taxing\n        officer may allow travelling expenses at the following rates-\n             motor car         ...      7.5 cents per mile each way\n             buggy             ...      5     \"    \"\n                                                   ' \"\n                                                        \"    \"    \"\n             horseback         ...      3.4 \"                \"    \"\n             motor cycle       ...      2.5 \"      \"    \"    \"    \"\n             bicycle           ...      1.7 \"      \"    \"    \"    \"\n             walking           ...      0.9 cent   \"    \"    \"    \"\n    (b) where a witness used hired transport he shall be reimbursed\n        such sum proved by voucher as expended by him for travelling\n        as the taxing officer may consider reasonable :\n           Provided that the taxing officer shall not allow a sum in\n         excess of the scale of charges at the time in force in respect of\n         the means of transport used by such witness."
+    },
+    {
+      "provision_ref": "sec4",
+      "section": "4",
+      "title": "Section 4",
+      "content": "4. Travelling expenses at the rates provided herein may be paid to\ncomplainants or prosecutors in criminal cases, notwithstanding the fact\nthat such complainants or prosecutors are not entitled to have their\nexpenses paid from public funds."
+    }
+  ],
   "definitions": []
 }

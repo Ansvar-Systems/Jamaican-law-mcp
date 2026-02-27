@@ -7,6 +7,19 @@
   "status": "in_force",
   "url": "https://laws.moj.gov.jm/library/statute/the-telegrams-production-of-act",
   "description": "Category: statute | Source: https://laws.moj.gov.jm/library/statute/the-telegrams-production-of-act | Legal areas: Communication and Technology",
-  "provisions": [],
+  "provisions": [
+    {
+      "provision_ref": "sec2",
+      "section": "2",
+      "title": "Section 2",
+      "content": "2. In this Act-                                                    Interpreta-\n    “telegram” means any message or other communica- 4211969 tion.\n         tion transmitted or intended for transmission by 3rd Rh.\n         telegraphy or by wireless telegraphy;\n    “telegraphy” means a wire or wires used for the\n         purpose of telegraphic communication and any\n         apparatus connected therewith for the purpose of\n         telegraphic communication, and includes any\n         apparatus for transmitting messages or other\n         communications by means of electric signals;\n    “wireless telegraphy” includes wireless telephony and\n         any system for the reception as well as the sending\n         of messages or other communications by means\n         of electric, galvanic, or magnetic signals without\n         the aid of any wire connecting the points from\n         and at which the messages or other communica-\n         tions are sent or received."
+    },
+    {
+      "provision_ref": "sec3",
+      "section": "3",
+      "title": "Section 3",
+      "content": "3.-(1) Where it appears to the Minister that such a Powerto\n                                                                  the\ncourse is expedient in the public interest, he may, by require\nwarrant under his hand, require any person who owns or\ncontrols any telegraphic cable or wire, or any apparatus\n                                                            producbon\n                                                                     ;:-\nfor wireless telegraphy, used for the sending or receipt of\ntelegrams to or from any place out of Jamaica, to produce\nto him, or to any person named in the warrant, the\n2\n    originals and transcripts, either of all telegrams, or of\n    telegrams of any specified class or description or of tele-\n    grams sent from or addressed to any specified person or\n    place, sent or received to or from any place out of Jamaica\n    by means of any such cable, wire, or apparatus, and all\n    other papers relating to any such telegram as aforesaid.\n           (2) Any person who, on being required to produce\n    any mah original M transcript or paper as aforesaid,\n    refuses or neglects to do so shall for each offence be liable\n    on summary conviction before a Resident Magistrate to\n    a fine not exceeding one hundred dollars or to imprison-\n    ment with or without hard labour €or a term not exceeding\n    three months or to both such inprismment and fine."
+    }
+  ],
   "definitions": []
 }

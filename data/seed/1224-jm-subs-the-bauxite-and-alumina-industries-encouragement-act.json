@@ -7,6 +7,43 @@
   "status": "in_force",
   "url": "https://laws.moj.gov.jm/library/subsidiary-legislation/the-bauxite-and-alumina-industries-encouragement-act",
   "description": "Category: subsidiary_legislation | Source: https://laws.moj.gov.jm/library/subsidiary-legislation/the-bauxite-and-alumina-industries-encouragement-act",
-  "provisions": [],
+  "provisions": [
+    {
+      "provision_ref": "sec1",
+      "section": "1",
+      "title": "Section 1",
+      "content": "1. These Regulations may be cited as the Bauxite and Alumina\nIndustries (Encouragement) Regulations, 1953.\n   1 ~In. these Regulations, “Commissioner” means the Commissioner\nof Customs and Excise."
+    },
+    {
+      "provision_ref": "sec2",
+      "section": "2",
+      "title": "Section 2",
+      "content": "2. In these Regulations, unless the context otherwise requires-     .\n    “contractor” means the holder of a contract with a producer to\n        perform construction work under the Act;\n    “duty” includes customs duty, tonnage tax or other similar impost;\n    “producer” means any person declared under the Act to be a\n        recognized bauxite prcducer or a recognized alumina producer\n        or both."
+    },
+    {
+      "provision_ref": "sec3",
+      "section": "3",
+      "title": "Section 3",
+      "content": "3. Every producer or contractor who imports any article free of\nduty under the provisions of the Act, shall if so directed by the\nCommissioner cause a distinctive mark prescribed by the Commissioner\nto be placed upon such article."
+    },
+    {
+      "provision_ref": "sec4",
+      "section": "4",
+      "title": "Section 4",
+      "content": "4 . 4 1 ) Every producer or contractor shall keep a stock book in\nrespect of articles imported free of duty.\n      (2) The following provisions shall have effect in respect of the\nstock book specified in paragraph (1)-\n    (a) the stock book shall be in such form as may be prescribed\n         or may ibe approved by the Commissioner;\n    (b) there shall be entered in the stock book such particulars as may\n         be prescribed by the Commissioner, and the book shall be\n         kept in such manner as may be required by him;\n4     THE BAUXITE A N D ALUMINA INDUSTRIES (ENCOURAGEMENT)\n                         REGULATIONS. 1953\n        (c) any person or persons authorized in writing by the Commis-\n            sioner shall be entitled at all reasonable tima to enter upon\n            the premises occupied by or under the control of a producer\n            or contractor for the purpose of inspecting the stock book\n            or any article imported free of duty;\n        (d) the stock book shall be preserved for six years after the date\n             of the last entry therein."
+    },
+    {
+      "provision_ref": "sec5",
+      "section": "5",
+      "title": "Section 5",
+      "content": "5. Every producer or contractor shall furnish to the Commissioner\n    at such times as the Commissioner may appoint a return of articles\n    imported free of duty, which have been transferred to other persons\n    entitled to import such articles free of duty. Every such person shall\n    also make a return of the articles received:\n       Provided that it shall not be necessary to include in such return any\n    article transferred more than five years next after the date of its importa-\n    tion into Jamaica."
+    },
+    {
+      "provision_ref": "sec6",
+      "section": "6",
+      "title": "Section 6",
+      "content": "6. Any person who contravenes any of these Regulations shall be\n    guilty of an offence and shall be liable on summary conviction before\n    a Resident Magistrate,to a fine not exceeding one thousand dollars or\n    to a term of imprisonment with hard labour not exceeding twelve\n    months or to both such fine and imprisonment.\n                      inolusion of thia page is authorized by L.N. 154/19861\n                                                                 .."
+    }
+  ],
   "definitions": []
 }

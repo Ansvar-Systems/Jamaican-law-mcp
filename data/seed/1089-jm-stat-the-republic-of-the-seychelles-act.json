@@ -7,6 +7,25 @@
   "status": "in_force",
   "url": "https://laws.moj.gov.jm/library/statute/the-republic-of-the-seychelles-act",
   "description": "Category: statute | Source: https://laws.moj.gov.jm/library/statute/the-republic-of-the-seychelles-act | Legal areas: Citizenship and Nationality",
-  "provisions": [],
+  "provisions": [
+    {
+      "provision_ref": "sec1",
+      "section": "1",
+      "title": "Section 1",
+      "content": "1. This Act may be cited as the Republic of The Seychelles Short title.\nAct, 1979."
+    },
+    {
+      "provision_ref": "sec2",
+      "section": "2",
+      "title": "Section 2",
+      "content": "2. In this Act-                                                     Interpre-\n                                                                      tation.\n    “existing law” means all law which, whether being a\n         rule of law or a provision of an Act of Parliament\n         or of any other enactment or instrument whatso-\n         ever, is in force on the 28th day of June, 1976, or\n        has been passed or made before that date and\n         comes into force thereafter;\n    “Minister” means the Minister for the time being\n         responsible for foreign affairs;\n    “Parliament” means the Parliament of Jamaica."
+    },
+    {
+      "provision_ref": "sec3",
+      "section": "3",
+      "title": "Section 3",
+      "content": "3.41) On and after the 28th day of June, 1976, all ex- Operation\n                                                              of existing\nisting laws shall, unless and until provision to the contrary Irrw.\nis made by Parliament or some other authority having power\nin that behalf, and subject to subsection (2), have the same\noperation in relation to the Republic of The Seychelles, and\npersons and things belonging to or connected with the\nRepublic of The Seychelles as it would have apart from this\nsubsection if The Seychelles had not become a republic.\n       (2) The Minister may, by order, make such adapta-\ntions in any enactment passed before or after the 28th day\nof June, 1976, or in any instrument having effect under\nany such enactment, as appear to him necessary or expedient\nin consequent of The Seychelles having become a republic,\nand any such order may, though made after the 28th day\nof June, 1976,be made so as to have effect from that date.\n       Phe inclusion of tbis page is authorized by L.N. 57/1980]\n              REPUBLIC OF THE SEYCHELLES\n      (3) Every order made under subsection (2) shall be\nsubject to negative resolution.\n      D’he inclusion of this page is authorized by L.N. 57/1980]"
+    }
+  ],
   "definitions": []
 }

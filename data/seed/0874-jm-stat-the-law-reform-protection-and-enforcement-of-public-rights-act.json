@@ -7,6 +7,19 @@
   "status": "in_force",
   "url": "https://laws.moj.gov.jm/library/statute/the-law-reform-protection-and-enforcement-of-public-rights-act",
   "description": "Category: statute | Source: https://laws.moj.gov.jm/library/statute/the-law-reform-protection-and-enforcement-of-public-rights-act | Legal areas: Courts and Judiciary",
-  "provisions": [],
+  "provisions": [
+    {
+      "provision_ref": "sec1",
+      "section": "1",
+      "title": "Section 1",
+      "content": "1. This Act may be cited as the Law Reform (Protecticn shofl\"*k\nand Enforcement of Public Rights) Act."
+    },
+    {
+      "provision_ref": "sec2",
+      "section": "2",
+      "title": "Section 2",
+      "content": "2 . 4 1 ) Notwithstanding any provision in any enactment =:&o-f\nor any rule of law, a person may, in the public interest and General not\nwithout the consent of the Attorney-General, make an ap- required in\nplication to the Supreme Court for the protection and\nenforcement of public rights.\n                                                                           -\n       (2) An application under subsection (I) shall not be\nmade unless leave of the Supreme Court has been obtained\nin accordance with rules of court; and the Court shall not\ngrant leave to make such an application unless it considers\nthat the applicant has a sufficient interest in the matter to\nwhich the application relates.\n-~\n         lThc inclusion of !%is   page b a u t h o r i d by L.N. 3/20011\n RL-34"
+    }
+  ],
   "definitions": []
 }

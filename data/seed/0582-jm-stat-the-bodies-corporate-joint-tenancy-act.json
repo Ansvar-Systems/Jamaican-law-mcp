@@ -7,6 +7,19 @@
   "status": "in_force",
   "url": "https://laws.moj.gov.jm/library/statute/the-bodies-corporate-joint-tenancy-act",
   "description": "Category: statute | Source: https://laws.moj.gov.jm/library/statute/the-bodies-corporate-joint-tenancy-act | Legal areas: Companies and Associations",
-  "provisions": [],
+  "provisions": [
+    {
+      "provision_ref": "sec1",
+      "section": "1",
+      "title": "Section 1",
+      "content": "1. This Act may be cited as the Bodies Corporate (Joint shorttitle.\nTenancy) Act."
+    },
+    {
+      "provision_ref": "sec2",
+      "section": "2",
+      "title": "Section 2",
+      "content": "2 . 4 1 ) A body corporate shall be capable of acquiring powerof\nand holding any real or personal property in joint tenancy corporstions\nin the same manner as if it were an individual; and where Pas\"joint\n                                                               P~~Y\na body corporate and an individual, or two or more bodies tenan?\ncorporate, become entitled to any such property under cir-\ncumstances or by virtue of any instrument which would, if\nthe body corporate had been an individual, have c r e a w a\njoint tenancy, they shall be entitled to the property as joint\ntenants :\n   Provided that the acquisition and holding of property\nby a body corporate in joint tenancy shall be subject to the\nlike conditions and restrictions as attach to the acquisition\nand holding of property by a body corporate in severalty.\n      ( 2 ) Where a body corporate is joint tenant of any\nproperty, then on its dissolution the property shall devolve\non the other joint tenant.\n       m e indusion of this page is authorizsd by L.N. 480/1973]"
+    }
+  ],
   "definitions": []
 }

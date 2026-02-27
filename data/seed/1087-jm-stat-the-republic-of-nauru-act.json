@@ -7,6 +7,19 @@
   "status": "in_force",
   "url": "https://laws.moj.gov.jm/library/statute/the-republic-of-nauru-act",
   "description": "Category: statute | Source: https://laws.moj.gov.jm/library/statute/the-republic-of-nauru-act | Legal areas: Citizenship and Nationality",
-  "provisions": [],
+  "provisions": [
+    {
+      "provision_ref": "sec2",
+      "section": "2",
+      "title": "Section 2",
+      "content": "2. In this Act-                                                  Interpreta-\n                                                                   tion.\n    “commencement of this Act” means 31st January, 1968;\n    “Minister” means the Minister responsible for external\n        affairs;\n    “Parliament” means the Parliament of Jamaica."
+    },
+    {
+      "provision_ref": "sec3",
+      "section": "3",
+      "title": "Section 3",
+      "content": "3.-(1) On and after the commencement of this Act, all Operation\nexisting law, that is to say all law which, whether being of\n                                                          law.\n                                                             existing\na rule of law or a provision of an Act of Parliament or of\nany other enactment or instrument whatsoever, is in force\non the date of such commencement or has been passed or\nmade before that date and comes into force thereafter, shall,\nunless and until provision to the contrary is made by Parlia-\nment or some other authority having power in that behalf,\nand subject to the following provisions of this section, have\nthe same operation in relation to Nauru, and persons and\nthings belonging to or connected with Nauru, as it would\nhave apart from this subsection if Nauru had not become\na Republic.\n     (2) The Minister may, by order, make such adaptations\nin any enactment passed before or after the date of com-\nmencement of this Act, or in any instrument having effect\nunder any such enactment, as appear to him necessary or\nexpedient in consequence of the change of status of Nauru\n\\\n    2                        REPUBLIC OF NAURU\n        on that date; and any such order may, though made after\n        the commencement of this Act, be made so as to have\n        effect from the date of such commencement.\n              (3) Every order made under subsection (2) shall be\n        subject to negative resolution.\n                                                                       0"
+    }
+  ],
   "definitions": []
 }

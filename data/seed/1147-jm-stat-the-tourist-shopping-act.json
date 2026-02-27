@@ -7,6 +7,19 @@
   "status": "in_force",
   "url": "https://laws.moj.gov.jm/library/statute/the-tourist-shopping-act",
   "description": "Category: statute | Source: https://laws.moj.gov.jm/library/statute/the-tourist-shopping-act | Legal areas: Tourism",
-  "provisions": [],
+  "provisions": [
+    {
+      "provision_ref": "sec2",
+      "section": "2",
+      "title": "Section 2",
+      "content": "2. In this Act-                                             Inre;[ .-e?.<\n                                                              tisn.\n     “crafts market” means any premises declared by thc\n          Minister by order to be a crafts market in m y\n         district, village or town;\n     “curio shop” means a shop selling curios and approucd\n         by the Minister by instrument in writing as 3\n         curio shop for the purposes of this Act;\n     “prohibited period” means any period during which,\n         by virtue of the provisions of any of the enact-\n         ments specified in the Schedule, all or any of the S C W Y ~\n         following activities are prohibited, namely-\n               (a) the opening of any market or shop;\n               (b) the selling of articles therein;\n               (c) the employment of persons therein;\n     “tourist shop” means a shop licensed to sell to tourists\n          in-bond goods or goods imported at a special low\n         rate of duty, and curios."
+    },
+    {
+      "provision_ref": "sec3",
+      "section": "3",
+      "title": "Section 3",
+      "content": "3.-(1) During such periods as the Minister may from Trading\ntime to time, by order, prescribe, it shall be lawful in any        r&.ld\narea specified in such order-                                prescribed\n                                                             periods.\n     (a) for any crafts market, tourist shop or curio shop\n         to be open for the transaction of business; and\n     (b) for any person to sell or to be employed by other\n         persons in selling therein,\nnotwithstanding that such crafts market, tourist shop or\n      P’he ;nclusion of this page iS authorized by L.N. 480/1973]\n2                        TOURIST SHOPPING\n    curio shop is open for a period which includes the whole\n    or any part of a prohibited period.\n           (2) Where any crafts market or curio shop is open for\n    the transaction of business during a prohibited period, there\n    shall be sold in such crafts market or curio shop during\n    such period only such articles as may be prescribed by the\n    Minister by order.\n                               SCHEDULE                        (Section 2)\n           The Holidays (Public General) Act.\n           The Towns and Communities Act.\n           The Women (Employment of) Act.\n           The Shops and Offices Act.\n         me inclusion of this page is authorized by L.N. 480/1973]"
+    }
+  ],
   "definitions": []
 }

@@ -7,6 +7,25 @@
   "status": "in_force",
   "url": "https://laws.moj.gov.jm/library/statute/the-hotelkeepers-liability-act",
   "description": "Category: statute | Source: https://laws.moj.gov.jm/library/statute/the-hotelkeepers-liability-act | Legal areas: Tourism",
-  "provisions": [],
+  "provisions": [
+    {
+      "provision_ref": "sec2",
+      "section": "2",
+      "title": "Section 2",
+      "content": "2. In this Act-                                                  Interpreta-\n                                                                   tion\n“hotel” means any building containing not less than ten\n    bedrooms for the accommodation for reward of guests;\n“hotelkeeper” means the person by whom is carried on the\n    business of keeping any hotel."
+    },
+    {
+      "provision_ref": "sec3",
+      "section": "3",
+      "title": "Section 3",
+      "content": "3. No hotelkeeper shall be liable to make good to any Hole,kceper\nguests of such hotelkeeper any loss of or injury to goods or ;?;;:p,”,\nproperty brought to his hotel, not being a horse or other 1oss.etc..\nlive animal, or any gear appertaining thereto, or any car- beyond\n                                                             except in\n                                                                      $60,\nriage, to a greater amount than the sum of sixty dollars, g:gn\nexcept in the following cases; (that is to say)\n     (a) where such goods or property shall have been\n        stolen, lost, or injured through the wilful act, de-\n        fault, or neglect of such hotelkeeper or any servant\n        in his employ;\n    (b) where such goods or property shall have been\n       deposited expressly for safe custody with such\n       hotelkeeper:\n  Provided always, that in the case of such deposit it shall\nbe lawful for such hotelkeeper, if he thinks fit, to require,\nas a condition of his liability, that such goods or property\nshalI be deposited in a box or other receptacle, fastened\nand sealed by, the person depositing the same.\n2                                 HOTELKEEPER'S LlABlLlTY\nObligation      4. If any hotelkeeper shall refuse to receive for safe\nto receive\nproperty of   custody,  as before mentioned, any goods or property of his\nguests for\nSafc cuslody. guest, or if any such guest shall, through any default of\n              such hotelkeeper, be unable to deposit such goods or\n              property as aforesaid, such hotelkeeper shall not be entitled\n              to the benefit of this Act in respect of such goods or\n              property.\nNotice of\nAct, etc., to"
+    },
+    {
+      "provision_ref": "sec5",
+      "section": "5",
+      "title": "Section 5",
+      "content": "5. Every hotelkeeper shall cause at least one copy of the\nbe wnspi-       third section of this Act, printed in plain type, to be ex-\ncuously\nexhibited       hibited in a conspicuous part of the hall or entrance to his\n                hotel; and he shall be entitled to the benefit of this Act in\n                respect of such goods or property only as shall be brought\n                to his hotel while such copy shall be so exhibited.\n                      IThe inclusion of this page is authorized by L.N. 480/1973]"
+    }
+  ],
   "definitions": []
 }

@@ -7,6 +7,19 @@
   "status": "in_force",
   "url": "https://laws.moj.gov.jm/library/subsidiary-legislation/the-burial-within-towns-limits-act",
   "description": "Category: subsidiary_legislation | Source: https://laws.moj.gov.jm/library/subsidiary-legislation/the-burial-within-towns-limits-act",
-  "provisions": [],
+  "provisions": [
+    {
+      "provision_ref": "sec1",
+      "section": "1",
+      "title": "Section 1",
+      "content": "1. This Order may be cited as the Discontinuance of Burials\n(Montego Bay Methodist Cemetery) Order, 1955."
+    },
+    {
+      "provision_ref": "sec2",
+      "section": "2",
+      "title": "Section 2",
+      "content": "2. From and after the 1st day of June, 1955, burials in the Methodist\nCenietery situated at Gloucester Avenue in the town of Montego\nBay shall be discontinued wholly.\n               b e hclusi& of tbjs p&e is authorized by L.N. 4/19761"
+    }
+  ],
   "definitions": []
 }

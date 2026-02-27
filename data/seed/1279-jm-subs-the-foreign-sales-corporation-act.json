@@ -7,6 +7,13 @@
   "status": "in_force",
   "url": "https://laws.moj.gov.jm/library/subsidiary-legislation/the-foreign-sales-corporation-act",
   "description": "Category: subsidiary_legislation | Source: https://laws.moj.gov.jm/library/subsidiary-legislation/the-foreign-sales-corporation-act",
-  "provisions": [],
+  "provisions": [
+    {
+      "provision_ref": "sec1",
+      "section": "1",
+      "title": "Section 1",
+      "content": "1. This Order may be cited as &e Foreign Mes Corporation (Ex-\nemption from Filing Accounts and Declaration of Assets) Order. 1984.\nAssets) Order. 1984.\n   2 It is hereiby declared that for the Wer carrying out of the puqmsts\nof this Act, a Foreign Sales Corporation shall be exempt from the obU-\ngations imposed by section 123 (3), 124 and 1 2 4 ~of the Companies Act.\n             lThe inclusion of this page is authorized by L.N. 86/198q"
+    }
+  ],
   "definitions": []
 }

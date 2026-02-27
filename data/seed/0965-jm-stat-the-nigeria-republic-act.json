@@ -7,6 +7,19 @@
   "status": "in_force",
   "url": "https://laws.moj.gov.jm/library/statute/the-nigeria-republic-act",
   "description": "Category: statute | Source: https://laws.moj.gov.jm/library/statute/the-nigeria-republic-act | Legal areas: Citizenship and Nationality",
-  "provisions": [],
+  "provisions": [
+    {
+      "provision_ref": "sec2",
+      "section": "2",
+      "title": "Section 2",
+      "content": "2. In this Act-                                                Intmprcta-\n                                                                 tion.\n    “commencement of this Act” means 1st October, 1963;\n    “Minister” means the Minister responsible for external\n        &airs;\n    “Parliament” means the Parliament of Jamaica."
+    },
+    {
+      "provision_ref": "sec3",
+      "section": "3",
+      "title": "Section 3",
+      "content": "3.-(1) On and after the commencement of this Act, all op““t!on\nexisting law, that is to say all law which, whether being L;,xlat‘ng\na rule of law or a provision of an Act of Parliament or of\nany other enactment or instrument whatsoever, is in force\non the date of such commencement or has been passed\nor made before that date and comes into force thereafter,\nshall, unless and until provision to the contrary is made\nby Parliament or some other authority having power in that\nbehalf and subject to the following provisions of this sec-\ntion, have the same operation in relation to Nigeria and\npersons and things belonging to or ~ 0 ~ ~with   t Nigeria\n                                                    - d\nas it would have apart from this subsection if Nigeria had\nnot become a Republic.\n       (2) The Minister may, by order, make such adapta-\ntions in any enactment passed before or after the com-\nmencement of this Act, or in any instrument having effect\nunder any such enactment, as appear to him necessary or\nexpedient in consequence of Nigeria having become a Re-\npublic; and any such order may, though made after the\n       p h c incluioo of thia p~ h mlhaircd by LN.480/19731\n2                         NIGERIA REPUBLIC\n    commencement of this Act, be made so as to have effect\n    from the date of such commenement.\n          (3) Every order made under subsection (2) shall be\n    subject to negative resolution."
+    }
+  ],
   "definitions": []
 }

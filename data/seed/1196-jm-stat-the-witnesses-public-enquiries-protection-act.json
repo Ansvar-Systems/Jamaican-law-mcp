@@ -7,6 +7,31 @@
   "status": "in_force",
   "url": "https://laws.moj.gov.jm/library/statute/the-witnesses-public-enquiries-protection-act",
   "description": "Category: statute | Source: https://laws.moj.gov.jm/library/statute/the-witnesses-public-enquiries-protection-act",
-  "provisions": [],
-  "definitions": []
+  "provisions": [
+    {
+      "provision_ref": "sec1",
+      "section": "1",
+      "title": "Section 1",
+      "content": "1. This Act may be cited as the Witnesses (Public Shorttitle.\nEnquiries) Protection Act."
+    },
+    {
+      "provision_ref": "sec2",
+      "section": "2",
+      "title": "Section 2",
+      "content": "2. In this Act \"enquiry\" means any proceedings-        Interprcta-\n                                                         tion.\n     (a) in the Senate, or the House of Representatives,\n         or a joint committee of both Houses of Parlia-\n         ment, or a committee of either House; or\n     (b) before any Commission appointed under the Com-\n         missions of Enquiry Act; or\n     (c) before any statutory body or authority having\n         power to summon and examine witnesses,\nwhether the evidence in such proceedings is or is not\ngiven on oath, but shall not include any proceedings\nbefore any court."
+    },
+    {
+      "provision_ref": "sec3",
+      "section": "3",
+      "title": "Section 3",
+      "content": "3.-(1) Every person who threatens or in any way obstruction\npunishes, injures, or causes any damage to, any other $:?&-\nperson-                                                    witoeaser.          I\n      (a) for having given evidence in any enque, or\n      (b) on account of the evidence which such other                          I\n                                                                               1\n          person has given in any enquiry,                                     i\nshall, except where such evidence was given in bad faith,\nbe guilty of an offence and be liable upon summary con-\nviction before a Resident Magistrate to a fine not exceed-\ning two hundred dollars and in default of payment there-                       I\nof to imprisonment with or without hard labour for a term\nnot exceeding six months.\n      me inclusion of this page is authorized by LN. 480/1973]\n2                  WITNESSES (PUBWC ENQUIRIES) PROTECTION\n                  (2) Every person who dissuades, intimidates, prevents,\n            or tries to dissuade, intimidate, or prevent, any other per-\n            son who has been summoned to give evidence in any\n            enquiry from giving such evidence, shall be guilty of an\n            offence and be liable upon summary conviction before a\n            Resident Magistrate to a fine not exceeding two hundred\n            dollars and in default of payment thereof to imprisonment\n            with or without hard labour for a term not exceeding six\n            months.\nCostsand\ncompensa-\n               4*-(1) The court before which any person is convicted\ntion.       of an offence against this Act may, in addition to imposing\n            a fine or imprisonment upon such person-\n                  (a) order him to pay the whole or any part of the\n                      cost and expenses incurred in and about the pro-\n                      secution and conviction of the offence of which\n                      he is convicted, and\n                  (b) upon the application of the complaint, and\n                      immediately after such conviction, award to the\n                      complainant any sum of money which the court\n                      thinks reasonable, having regard to all the cir-\n                      cumstances of the case, by way of satisfaction or\n                      compensation for any loss of employment, wages\n                      or status or for any injury or damage suffered\n                      through or by means of the offence of which such\n                      person was convicted.\n                   (2) Any amount awarded under this section for\n            satisfaction or compensation shall be a judgment debt due\n            to the person entitled to receive it from the person so\n            convicted and shall be recoverable accordingly.\nSavings.       5. Nothing in this Act shall be construed as in any way\n            lessening or affecting any power or privilege of the Senate\n            or House of Representatives.\n                  me inclusion of this page is authorized by U.480/1973]"
+    }
+  ],
+  "definitions": [
+    {
+      "term": "enquiry",
+      "definition": "any proceedings-        Interprcta-",
+      "source_provision": "sec2"
+    }
+  ]
 }

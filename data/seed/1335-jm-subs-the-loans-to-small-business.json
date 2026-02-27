@@ -7,6 +7,19 @@
   "status": "in_force",
   "url": "https://laws.moj.gov.jm/library/subsidiary-legislation/the-loans-to-small-business",
   "description": "Category: subsidiary_legislation | Source: https://laws.moj.gov.jm/library/subsidiary-legislation/the-loans-to-small-business",
-  "provisions": [],
+  "provisions": [
+    {
+      "provision_ref": "sec1",
+      "section": "1",
+      "title": "Section 1",
+      "content": "1. These Regulations may be cited as the Loans to Small Businasses\n(Limitation) Regulations, 1956."
+    },
+    {
+      "provision_ref": "sec2",
+      "section": "2",
+      "title": "Section 2",
+      "content": "2. It is hereby prescribed that loans to be granted or guaranteed\npursuant to paragxaph (a) or (b), as the case may be, of subsection (2)\nof section 5 of the Act shall not exceed $40,000 in respect of any one\nbusiness.\n                  tnoludaa of thb plpe b wtbohd by L.N. %/1911)"
+    }
+  ],
   "definitions": []
 }

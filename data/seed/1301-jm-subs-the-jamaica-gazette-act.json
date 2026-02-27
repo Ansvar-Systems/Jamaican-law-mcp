@@ -7,6 +7,43 @@
   "status": "in_force",
   "url": "https://laws.moj.gov.jm/library/subsidiary-legislation/the-jamaica-gazette-act",
   "description": "Category: subsidiary_legislation | Source: https://laws.moj.gov.jm/library/subsidiary-legislation/the-jamaica-gazette-act",
-  "provisions": [],
+  "provisions": [
+    {
+      "provision_ref": "sec1",
+      "section": "1",
+      "title": "Section 1",
+      "content": "1. These Regulations may be cited as the Gazette Regulations, 1967.\n 2 The following fees shall be payable for the publication in the\nGazette of the notices, matters or things specified in the Schedule. schedub.\n           $1.50 for each quartea column\n           $2.00 \" \" one-third column\n           $3.00 \" \" half                       9,\n           $4.00 \" \" two-thirds \"\n           $6.00 \" \" threequarters column\n           $8.00 \" \" full column"
+    },
+    {
+      "provision_ref": "sec2",
+      "section": "2",
+      "title": "Section 2",
+      "content": "2. Notices and papers in connection with the following trusts, bodies, or\nmatters--\n     (a) trusts, endowments, etc.;\n     (b) notices or returns by commercial concerns, banks, warehouses, etc.;\n     (c) application and notices undtr the Electric Lighting Act and regu-\n          lations;\n     (d) advertisements under the Patent Act;\n     (e) .transfers of business."
+    },
+    {
+      "provision_ref": "sec3",
+      "section": "3",
+      "title": "Section 3",
+      "content": "3, With effect from the 19th day of May, 1967-\n    (a) the fees specified in regulation 2 shall be payable for the\n        publication in the Gazette of printed matter accompanying\n        wood blocks or elechro-types, or both wood blocks and electro-\n        types in connection with the advertisement of applications for\n        the registration of trade marks under the Trade Marks Act\n        exclusive of any printed matter included within the four\n        corners of the block or electro-type and impressed thereon;\n        and\n    (b) the following fees shall be payable for the insertion in the\n        Gazette of representations of trade marks by means of wood\n        blocks or electro-types, or both wood blocks and electro-types\n        inclusive of any printed matter within the four corners of the\n        block or electro-type and impressed thereon in advertisements\n        of applications for the registration of such trade marks under\n        the provisions of the Trade Marks Act-\n           (i) in cases where the wood block or electro-type of the\n               trade mark does not exceed three inches in breadth or\n               depth                  ..-\n                                            .    ...        ... $1.50\n                 idusbn of tbb p a s k aulboriztd by L.N. 411974\n                    THE GAZETTE REGULATIONS, 1967\n            (ii) for each inch or fraction of an inch, in excess of three\n                 inches, in breadth or depth ...             ... $0.60"
+    },
+    {
+      "provision_ref": "sec4",
+      "section": "4",
+      "title": "Section 4",
+      "content": "4. Administration: Notices in respect of estatw administered in the Supreme\nCourt of Judicature.\n                     h c d h of thL pgc ia authorized by L.N. 4119761 -"
+    },
+    {
+      "provision_ref": "sec5",
+      "section": "5",
+      "title": "Section 5",
+      "content": "5. The price of the Gazette, Gazette Extraordinary and Gazette\nSupplements shall be 8c per copy."
+    },
+    {
+      "provision_ref": "sec7",
+      "section": "7",
+      "title": "Section 7",
+      "content": "7. No fee shall be payable on notices under section 110 of the\nJudicature (Resident Magistrates) Act.\n                                    SCABWLB                               (Regulation 2)"
+    }
+  ],
   "definitions": []
 }

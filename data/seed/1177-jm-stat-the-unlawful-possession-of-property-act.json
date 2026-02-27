@@ -7,6 +7,31 @@
   "status": "in_force",
   "url": "https://laws.moj.gov.jm/library/statute/the-unlawful-possession-of-property-act",
   "description": "Category: statute | Source: https://laws.moj.gov.jm/library/statute/the-unlawful-possession-of-property-act | Legal areas: Criminal Procedures",
-  "provisions": [],
+  "provisions": [
+    {
+      "provision_ref": "sec6",
+      "section": "6",
+      "title": "Section 6",
+      "content": "6. Power of constable or aut.horized person on reasonable cause\n      for belief."
+    },
+    {
+      "provision_ref": "sec10",
+      "section": "10",
+      "title": "Section 10",
+      "content": "10. Trial of person brought before Resident Magistrate under sections\n      8 and 9."
+    },
+    {
+      "provision_ref": "sec13",
+      "section": "13",
+      "title": "Section 13",
+      "content": "13. Penalty for assaulting, etc., constables, authorized persons and\n     their assistants."
+    },
+    {
+      "provision_ref": "sec14",
+      "section": "14",
+      "title": "Section 14",
+      "content": "14. Power to vary Schedule.\n                              SCHEDULE\n           UNLAWFUL POSSESSION OF PROPERTY\n                              SCHEDULE\nAnnatto                              Jippi-jappa\nApples of any kind                   Lancewood\nArrowroot                            Kola\nAvocado Pears                        Lignum-vitae\nBadoos                               Logwood\nBamboo                               Mahoe\nBananas                              Mahogany\nBitter damsel wood                   Mahogany bark\nBitterwood spars                     Mangoes\nBreadfruit                           Mangrove bark, red and white\nBroadleaf                            Nutmeg\nBullet tree, black red and           Orange sticks\n  white                              Paddy\nBum-nose or Wild Ackee               Peas, Beans\nCacao or chocolate                   Pepper-leaf sweetwood\nCanes                                Pimento\nCashew nuts                          Pimento sticks\nCassava                              Pineapples\nCedar                                Plantains\nCitrus fruit of any kind             Potatoes and sweet potatoes\nCitrus oils of any kind              Prickly yellow wood\nCoconut oil                          Pumpkins\nCoconuts                             Foliage and seeds of Ramoon and\nCocoes, and head of COCO~S             Breadnut trees\nCoffee                               Sarsaparilla\nEbony                                Satin wood\nFanbroom                             Seed cotton\nFodder grass of any kind             Sweet peppers\nForbiddenfruit                       Thatch or thatch head\nFustic                               Tobacco\nGarden vegetables                    Tomatoes\nGinger                               Toyas\nGrapes                               Yams of any kind, and heads of\nGuinea corn                            yams\nIndian corn or maize                 Plants or suckers of any of the\n                                       above."
+    }
+  ],
   "definitions": []
 }

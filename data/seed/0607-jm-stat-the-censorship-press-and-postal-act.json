@@ -7,6 +7,25 @@
   "status": "in_force",
   "url": "https://laws.moj.gov.jm/library/statute/the-censorship-press-and-postal-act",
   "description": "Category: statute | Source: https://laws.moj.gov.jm/library/statute/the-censorship-press-and-postal-act | Legal areas: Communication and Technology",
-  "provisions": [],
+  "provisions": [
+    {
+      "provision_ref": "sec2",
+      "section": "2",
+      "title": "Section 2",
+      "content": "2. In this Act “Press Censor” means the person of Interpre-\npersons for the time being appointed by the Governor- tation.\nGeneral to perform the duties of Press Censor under this\nAct."
+    },
+    {
+      "provision_ref": "sec3",
+      "section": "3",
+      "title": "Section 3",
+      "content": "3. The Governor-General may at any time which he shall Governor-\ndeem to be a time of emergency forbid by proclamation General            may\n                                                               f orbid pub-\nthe publication of all information with respect to troops, ;E,.”a”p.\nships, aircraft, or war material, or to the plans of the naval with\n                                                               information\n                                                                     respect\nor military authorities or to any measures taken for or con- totroops.\nnected with the defence of the Commonwealth or any part\nthereof and also any statement, comment or suggestion\ncalculated directly or indirectly to convey any such\ninformation."
+    },
+    {
+      "provision_ref": "sec4",
+      "section": "4",
+      "title": "Section 4",
+      "content": "4. From and after the publication of any such procla- of fa^.\nmation and while such proclamation remains in for-\n    (a) any owner, publisher, printer or editor of any\n        newspaper, magazine, book, pamphlet or other\n        publication who without the consent in writing of\n        the Press Censor first had and obtained, knowingly\n        publishes any information, statement, comment or\n        suggestion forbidden by the said proclamation;\n        and\n    (b) any person who without the consent in writing\n        of the Press Censor first had and obtained sells\n       me inclusion of this page is authorized by L.N. 480119731\n2                           CENSORSHIP (PRESS AND POSTAL)\n                          or delivers or is concerned in the sale or delivery\n                          of any newspaper, magazine, book, pamphlet, or\n                          other publication knowing it to contain, or who\n                          is otherwise knowingly responsible for the publica-\n                          tion of, any information, statement, comment or\n                          suggestion forbidden by such proclamation,\n                shall be guilty of an offence under this Act and shall be\n                liable on summary conviction before a Resident Magistrate\n                to a fine not exceeding one thousand dollars and in default\n                of payment of such fine to imprisonment with or without\n                hard labour for a term not exceeding six months; or in the\n                case of a second or subsequent offence either to such fine\n                with such imprisonment in default or to imprisonment with\n                or without hard labour for a term not exceeding twelve\n                months.\nGuilty            5. In any proceedings under section 4 the accused shall\nknowledge\npresumed.       be deemed, unless the contrary is proved, to have had the\n                knowledge referred to in the said section.\nDuration of       6. Any proclamation under this Act shall be deemed\nproclama-\ntion.           to be in force until revoked by order of the Governor-\n                General.\nLetter, etc.,     7. Any letter, book, packet or parcel in course of trans-\nmay be\nopened.         mission by post or any Island telegram may at any time,\ndetained or     whether any proclamation as in this Act mentioned has\ndelayed by\nofficer in      been published, or is in force or not, be opened, detained or\nPost office.\n                delayed by an officer of the Post Office in obedience to an\n                express warrant in writing under the hand of the Governor-\n                General.\nProsecution     8. A prosecution for an offence under this Act shall not\nonly with\nconsent of    be instituted except by or with the consent of the Director\nDirector of of Public Prosecutions :\nPublic\nProsecutions.\n            CENSORSHIP (PRESS AND POSTAL)                          3\n  Provided that a person charged with such an offence may\nbe arrested, or a warrant for his arrest may be issued and\nexecuted, and any such person may be remanded in custody\nor on bail, notwithstanding that the consent of the Director\nof Public Prosecutions to the institution of a prosecution\nfor the offence has not been obtained, but no further or\nother proceedings shall be taken until that consent has been\nobtained.\n      Dhe inclusion of this page is authorized by L.N. 480119731"
+    }
+  ],
   "definitions": []
 }

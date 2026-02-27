@@ -7,6 +7,76 @@
   "status": "in_force",
   "url": "https://laws.moj.gov.jm/library/subsidiary-legislation/the-jamaica-dairy-development-board-act",
   "description": "Category: subsidiary_legislation | Source: https://laws.moj.gov.jm/library/subsidiary-legislation/the-jamaica-dairy-development-board-act",
-  "provisions": [],
-  "definitions": []
+  "provisions": [
+    {
+      "provision_ref": "sec1",
+      "section": "1",
+      "title": "Section 1",
+      "content": "1. This Order may be cited as the Jamaica Dairy Development (Cess) Ciu\"On\nOrder, 20 10.\n                                                                                 Interpmatim"
+    },
+    {
+      "provision_ref": "sec2",
+      "section": "2",
+      "title": "Section 2",
+      "content": "2. In this Order-\n      \"fluid equivalent volume\" means the equivalent volume of fiesh milk\n            required to produce one kilogram of a specified dairy product;\n      \"fresh milk\" means milk that has its original qualities,unimpaired;\n      \"milk fluid equivalent chart\" means a chart supplied by the Board to\n           guide the conversion of imported quantities of dairy products into\n           fluid equivalent volume;\n      \"specified dairy product\" means the dairy products specified in the\n           Schedule.,"
+    },
+    {
+      "provision_ref": "sec3",
+      "section": "3",
+      "title": "Section 3",
+      "content": "3. A cess is hereby imposed on-\n      (a). the importation into Jamaica of a specified dairy product; and\n      (b) the trade in fresh milk produced in Jamaica."
+    },
+    {
+      "provision_ref": "sec4",
+      "section": "4",
+      "title": "Section 4",
+      "content": "4.-41) The cess imposed on the import of any specified dairy product\nshall be. assessed on the fluid equivalent volume of the imported dairy\nproduct at a rate of one per cent of the average f m gate price of the\nlocally produced fresh milk in the previous calendar year.\n         (2) The cess imposed on the trade in fiesh milk produced in Jamaica\nshall be at a rate of one per cent of the average f m gate price of fiesh milk\nproduced in Jamaica recommended in the previous year by the Board\npursuant to section 5 (2) (e) of the Act.\n        (3) The Board shall, no later than the fifteenth day of January in\neach year-\n               [% inclusion of this page is authorized by LN. 95/2013]\n                   THE JAMAICA DAIRY DEVELOPMENT BOARD\n      (a) provide the Commissioner of Customs with a milk fluid equivalent\n          chart; and\n      (b) cause the average farm gate price to be applied to the calculation of\n          the cess payable for that year to be published in the Gazette."
+    },
+    {
+      "provision_ref": "sec5",
+      "section": "5",
+      "title": "Section 5",
+      "content": "5. The Commissioner of Customs shall collect the cess on the items\nmentioned in paragraph 3 (a) and shall, remit the cess collected to the\nMinister responsible for finance for the account of the Board.                      0"
+    },
+    {
+      "provision_ref": "sec6",
+      "section": "6",
+      "title": "Section 6",
+      "content": "6.--(1) The Processor shall collect from each producer who delivers\nfresh milk to the processing plant, a sum equivalent to one-half of the cess\npayable on the quantity of fresh milk produced in Jamaica delivered and shall\nremit the sums to the Board in accordance with paragraph 7.\n        (2) The processor shall pay the other half of the cess payable under\nthese Regulations."
+    },
+    {
+      "provision_ref": "sec7",
+      "section": "7",
+      "title": "Section 7",
+      "content": "7. A person who is required under this Order to pay or remit cess to\nthe Board, shall do so on a monthly basis and in each case within a period\nof ten days after the last day of the month during which the fresh milk\nproduced in Jamaica in respect of which the cess is payable, was sold or\npurchased."
+    },
+    {
+      "provision_ref": "sec8",
+      "section": "8",
+      "title": "Section 8",
+      "content": "8.--(1) A person who fails to pay or remit the cess to the Board as\nprovided under Regulation 3 shall, in addition to the cess, be liable to pay\ninterest of twelve per cent for the first month or part of the month in which\nthe cess remains unpaid and six per cent compound interest for each\nsubsequent month or part of a month in which the cess remains unpaid.\n         (2) A person who fails to pay the cess to the Commissioner prior to\nthe release of the imported dairy product as provided under Regulation 4\nshall, in addition to the cess, be liable to pay interest of twenty-five per cent\nfor the first month or part of a month in which the cess remains unpaid and\ntwelve per cent compound interest for each subsequent month or part of a\nmonth in which the cess remains unpaid.\n         (3) The interest rates set out in paragraphs (1) and (2)me monthly\ninterest rates and not annual interest rates.\n                    inclusion of this page is authorized by LN. 9SR0131"
+    }
+  ],
+  "definitions": [
+    {
+      "term": "fluid equivalent volume",
+      "definition": "the equivalent volume of fiesh milk",
+      "source_provision": "sec2"
+    },
+    {
+      "term": "fresh milk",
+      "definition": "milk that has its original qualities,unimpaired",
+      "source_provision": "sec2"
+    },
+    {
+      "term": "milk fluid equivalent chart",
+      "definition": "a chart supplied by the Board to",
+      "source_provision": "sec2"
+    },
+    {
+      "term": "specified dairy product",
+      "definition": "the dairy products specified in the",
+      "source_provision": "sec2"
+    }
+  ]
 }

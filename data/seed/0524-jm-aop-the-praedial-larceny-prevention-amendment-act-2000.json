@@ -7,6 +7,31 @@
   "status": "in_force",
   "url": "https://laws.moj.gov.jm/library/act-of-parliament/the-praedial-larceny-prevention-amendment-act-2000",
   "description": "Category: act_of_parliament | Source: https://laws.moj.gov.jm/library/act-of-parliament/the-praedial-larceny-prevention-amendment-act-2000 | Year: 2000",
-  "provisions": [],
+  "provisions": [
+    {
+      "provision_ref": "sec1",
+      "section": "1",
+      "title": "Section 1",
+      "content": "1. This Act may be cited as the Praedial Larceny (Pre- Short      title\n                                                               and con-\n vention) (Amendment) Act, 2000, and shall be read and struction.\n construed as one with the Praedial Larceny (Prevention) Act\n (hereinafter referred to as the principal Act) and all amend-\n ments thereto."
+    },
+    {
+      "provision_ref": "sec2",
+      "section": "2",
+      "title": "Section 2",
+      "content": "2. Subsections\n         .\n                     (l)\n                      .\n                         and (3) of section 11 and subsection • (8) oAmendment\n                                                                       scchons\n of section 14 of the principal Act are amended by deleting 1r ad 14 ot\n the words \"two thousand\" wherever they appear and sub- ~cipal\n stituting therefor in each case the words \"forty thousand\".\n                 [No. 12]           The Praedial Larceny (Prevention) (Amendment)\n2                                                     Act. 2000\nAmendment\nof sections"
+    },
+    {
+      "provision_ref": "sec3",
+      "section": "3",
+      "title": "Section 3",
+      "content": "3. Sections 15, 16 and 19 of the principal Act are\n                                                                      nd\n                                                                                                                 am"
+    },
+    {
+      "provision_ref": "sec15",
+      "section": "15",
+      "title": "Section 15",
+      "content": "15, 16 and\n                 by deleting the words \"one thousand\" wherever they e ed\n19 of prin-      and substituting therefor in each case the words \":PJ>ear\ncipal Act.\n                 thousand\".                                                                                             '·Wenty\n     PRIMYES SY JAMAICA PRI\n     .                        fflNG SUVICIS 111921 LT         I\n    , .   .       .                                     O..       GOYUNIIENT •Rllffe:1111. DUkE ST •• K~N •• JAMAICA,"
+    }
+  ],
   "definitions": []
 }

@@ -7,6 +7,25 @@
   "status": "in_force",
   "url": "https://laws.moj.gov.jm/library/statute/the-financial-investigations-division-act",
   "description": "Category: statute | Source: https://laws.moj.gov.jm/library/statute/the-financial-investigations-division-act | Legal areas: Finance and Banking",
-  "provisions": [],
+  "provisions": [
+    {
+      "provision_ref": "sec3",
+      "section": "3",
+      "title": "Section 3",
+      "content": "3. Object of Act.\n                  PART11. Financial -InvestigationsDivision\n                         Establishment and Functions"
+    },
+    {
+      "provision_ref": "sec10",
+      "section": "10",
+      "title": "Section 10",
+      "content": "10. Obligation for secrecy.\n                             Reports and Information"
+    },
+    {
+      "provision_ref": "sec14",
+      "section": "14",
+      "title": "Section 14",
+      "content": "14.. Protection of persons exercising functions under this kct.\n                              PART111. Enforcement\n                         Production and Inspection Orders"
+    }
+  ],
   "definitions": []
 }

@@ -7,6 +7,19 @@
   "status": "in_force",
   "url": "https://laws.moj.gov.jm/library/subsidiary-legislation/the-general-consumption-tax-act",
   "description": "Category: subsidiary_legislation | Source: https://laws.moj.gov.jm/library/subsidiary-legislation/the-general-consumption-tax-act",
-  "provisions": [],
-  "definitions": []
+  "provisions": [
+    {
+      "provision_ref": "sec16",
+      "section": "16",
+      "title": "Section 16",
+      "content": "16.---(1) Where a registered taxpayer who is required to account for          II.~ a&.\ntax on an invoice basis under regulation 10 1(-)\n     (a) has made a taxable supply for consideration in money which\n           has not been paid in whole or in part and reasonable efforts\n           have been made to secure payment thereof;\n     (b) has made a return in relation to the taxable period during\n           which the supply was made;\n     (c) has properly accounted fm output tax for that period; and\n     (6) has written off as a bad debt the whole or part of the con-\n           sideration which has not been paid.\nthe registered taxpayer may. in making a return for the taxable period\nin which the bad debt is written off, deduct from the total amount\nof output tax payable in respect of that period such amount as\nrepresents the tax paid in respect of the bad debt.\n         (2) The amount which may be deducted by virtue of para-\ngraph (1) shall be the amount arrived at by applying the following\nformula, that is to say-\n               (The inclusion of this page is authorized by L.N. 4119971\n                   THE GENERAL COArSUMTION T A X REGULATIONS. I991\n                  (a) in respect ofa supply other than a supply referred to in\n                      paragraph (bk-\n                                                BD x              R\n                                                         (100    + R);\n                  (b) in respect of a supply made under a hire purchase agree\n                       ment-\n                           (BD - HPO x        R\n                                                     (100    + R).\n                (3) Where any amount in respect of which a deduction has\n         been made in accordance with paragraph (2) is at any time wholly\n         or partly recovered by a registered taxpayer, he shall be liable to\n         pay as output tax the amount amved at by applying the following\n         formula. that is to say-\n                                    BDR x         R\n                                                                (100    + R).\n                    (4) In paragraphs (2) and 3\n                                              (-)\n                  \"BD\" means bad debt;\n                  \"BDR\"means amount of bad debt recovered;\n                  \"HPC\" means hire purchase charge (interest element);\n              \"R\" means rate of tax.\nDemand\n-.          17. A demand notice issued under section 37 of tho Act shall\n         etate-\n              (a) the period for which tax has not been paid:\n                  (b) the amount of tax payable;\n                  (c) the rate and amount of penalty on the unpaid amount of\n                      tax:\n              (d) the rate and amount of surcharge and intmst;\n              (e)    the period within which payment of tax, penalty, surcharge\n                     and interest are to be made.\n                             [The inclusion of this page i s a u t h o h d by L.N. 411997)"
+    }
+  ],
+  "definitions": [
+    {
+      "term": "HPC",
+      "definition": "hire purchase charge (interest element)",
+      "source_provision": "sec16"
+    }
+  ]
 }

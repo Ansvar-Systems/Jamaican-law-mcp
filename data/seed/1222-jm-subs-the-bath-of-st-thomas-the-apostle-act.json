@@ -7,6 +7,49 @@
   "status": "in_force",
   "url": "https://laws.moj.gov.jm/library/subsidiary-legislation/the-bath-of-st-thomas-the-apostle-act",
   "description": "Category: subsidiary_legislation | Source: https://laws.moj.gov.jm/library/subsidiary-legislation/the-bath-of-st-thomas-the-apostle-act",
-  "provisions": [],
+  "provisions": [
+    {
+      "provision_ref": "sec1",
+      "section": "1",
+      "title": "Section 1",
+      "content": "1. R o o m with bath and balcony\n        Single          ...        ...       ...    518.00 per day or $108 per week\n        Double          ...        ...       ...    530.00 per day or $180 per week"
+    },
+    {
+      "provision_ref": "sec2",
+      "section": "2",
+      "title": "Section 2",
+      "content": "2. There shall be paid to each director in respect of each attend-\nance at-\n    (a) a general meeting of the Corporation, the sum of $2.10;\n    (b) a special meeting of the Corporation, the s u m of $1.05."
+    },
+    {
+      "provision_ref": "sec3",
+      "section": "3",
+      "title": "Section 3",
+      "content": "3. R o o m without bath\n         (Running water in bosin)\n         Single        ...   ...             ...    512.00 per day or S 72 per week\n         Double        ...   ...             ...    322.00 per day or 5132 per week"
+    },
+    {
+      "provision_ref": "sec4",
+      "section": "4",
+      "title": "Section 4",
+      "content": "4. Subject to the provisions of regulations 5 and 6 there shall be\ncharged in respect of the services specified in the first column of the\nSchedule the rates specified in the second coluann of the Schedule. scbcdub."
+    },
+    {
+      "provision_ref": "sec5",
+      "section": "5",
+      "title": "Section 5",
+      "content": "5. Every director shall be exempt from the payment of the rates\nspecified in the Schedule in respect of-\n     (a) lodging for a period of two weeks in each year;\n    (b) the use of the baths."
+    },
+    {
+      "provision_ref": "sec6",
+      "section": "6",
+      "title": "Section 6",
+      "content": "6. The following persons shall be exempt from the payment of\nthe rates specified in the Schedule in respect of the use of the baths-\n     (a) the postmistress of the Bath Post Office;\n     (b) Mr. J. A. Halliburton;\n     (c) Mr. I. Johnson;\n     (6) any person who is, in the opinion of the clerk, in destitute\n         circumstances.\n              IThc hclusion of thfs paw is authorized by L.N 286119761\n4     THE BATH OF ST. THOMAS THE APOSTLE (FEES AND RATES)\n                        REGULATIONS, 1943\n                                           SCHEDULE                               (Regulation 4)\n                         SERVICES                                 RATE$ PER PERSON"
+    },
+    {
+      "provision_ref": "sec7",
+      "section": "7",
+      "title": "Section 7",
+      "content": "7 . Public Baths\n          Adults         ...       ...       ...    S 0.50\n         Children        ...       ...       ...    s 0.25\n                       [The indusiaa of thir page h authorized by L.N 266l19761"
+    }
+  ],
   "definitions": []
 }

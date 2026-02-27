@@ -7,6 +7,25 @@
   "status": "in_force",
   "url": "https://laws.moj.gov.jm/library/statute/the-poor-persons-legal-proceedings-act",
   "description": "Category: statute | Source: https://laws.moj.gov.jm/library/statute/the-poor-persons-legal-proceedings-act | Legal areas: Courts and Judiciary",
-  "provisions": [],
+  "provisions": [
+    {
+      "provision_ref": "sec1",
+      "section": "1",
+      "title": "Section 1",
+      "content": "1. This Act may be cited as the Poor Persons (Legal shorttitlc\nProceedings) Act."
+    },
+    {
+      "provision_ref": "sec2",
+      "section": "2",
+      "title": "Section 2",
+      "content": "2. Any person may be admitted to take, or defend, or be Admission\n                                                            of poor\na party. to, legal proceedings in the Supreme Court as a persons.\npoor person, in the circumstances, and subject to the terms\nand conditions, provided for by rules made under this\nAct."
+    },
+    {
+      "provision_ref": "sec3",
+      "section": "3",
+      "title": "Section 3",
+      "content": "3 .41) Rules of court may be made providing for, Rulesol\nprescribing and regulating the practice and procedure for, CQUh\nand relating to, the admission of poor persons for the\npurposes of this Act, anti all matters connected therewith.\n        (2) In particular, and. without prejudice to the\ngenerality of the foregoing powers, such @es may provide\nfor all or any of the following matters-\n     (a) the procedure for making application to be\n           admitted as a poor person, and the particulars\n           to be supplied and conditions to be observed in\n           connection with such applications and the person\n           or persons by whom such applications are to be\n           considered, granted or refused;\n     (b) the qualifications required of, and the conditions\n           to be f u W d by, persons before they can be\n           admitted as poor persons, including their\n           maximum worth or iricome and the proof required\n           as to such matters;\n      (c) sptcifying the legal proceedings in respect of\n           which poor persons may not be admitted;\n                          p10a fr authorized by LN.480/1973]\n       Sra;.i&uiolr af thi~~\n2        POOR PERSONS (LEGAL PROCEEDINGS)\n    (4the assignment of counsel and solicitors to assist\n         poor persons, and the payment of out of pocket\n         expenses in connection therewith;\n    (e) the taxation of, and security for, costs, and the\n         payment of costs to and by poor persons;\n     U, the forms and certificates to be used."
+    }
+  ],
   "definitions": []
 }

@@ -7,6 +7,25 @@
   "status": "in_force",
   "url": "https://laws.moj.gov.jm/library/statute/the-apportionment-act",
   "description": "Category: statute | Source: https://laws.moj.gov.jm/library/statute/the-apportionment-act | Legal areas: Trusts and Estates",
-  "provisions": [],
+  "provisions": [
+    {
+      "provision_ref": "sec2",
+      "section": "2",
+      "title": "Section 2",
+      "content": "2. In this Act-                                                   Intcrprcta-\n                                                                    tion.\n“rents” includes rent-service, rent-charge and rent-seck\n    and all periodical payments in lieu of or in the nature\n    of rent;\n“annuities” includes salaries and pensions;\n“dividends” includes (besides dividends strictly so called)\n     all payments made by the name of dividend, bonus or\n     otherwise out of the revenue of trading or other public\n     companies, divisible between all or any of the members\n     of such respective companies, whether such payments\n     shall be usually made or declared at any fixed times\n     or otherwise; and all such divisible revenue shall, for\n    the purposes of this Act, be deemed to have accrued\n    by equal daily increment during and within the period\n     for or in respect of which the payment of the same\n     revenue shall be declared or expressed to be made, but\n     the said word “dividend” does not include payments\n     in the nature of a return or reimbursement of capital."
+    },
+    {
+      "provision_ref": "sec3",
+      "section": "3",
+      "title": "Section 3",
+      "content": "3. All rents, annuities, dividends and other periodical Apportion-\npayments in the nature of income (whether reserved or made ment\npayable under an instrument in writing or otherwise), shall\nlike interest on money lent, be considered as accruing from\nday to day, and shall be apportionable in respect of time\naccordingly.\n      me inclusion of this page is authorized by L.N. 480119731\n2                                    APPORTIONMENT\nWhen             4. The apportioned part of any such rent, annuity,\navwriioned\npait shau     dividend, or other payment shall be payable or recoverable\nbe payable\nor recovcr-   in the case of a continuing rent, annuity, or other such\nable.         payment when the entire portion of which such apportioned\n              part shall form part shall become due and payable, and\n              not before, and in the case of a rent, annuity, or other such\n              payment determined by re-entry, death or otherwise, when\n              the next entire portion of the same would have been payable\n              if the same had not so determined and not before.\nwho a n\nrecover."
+    },
+    {
+      "provision_ref": "sec5",
+      "section": "5",
+      "title": "Section 5",
+      "content": "5. All persons and their respective heirs, executors,\n              administrators, and assigns, and also all the executors,\n              administrators and assigns respectively of persons whose\n              interest determine with their own deaths, shall have such\n              or the same remedies at law and in equity for recovering\n              such apportioned parts as aforesaid when payable (allowing\n              proportionate parts of all just allowances) as they respec-\n              tively would have had for recovering such entire portions\n              as aforesaid if entitled thereto respectively:\n                 Provided that persons liable to pay rents reserved out of\n              or charged on lands and the same lands shall not be resorted\n              to for any such apportioned part forming part of an entire\n              or continuing rent as aforesaid specifically, but the entire\n              or continuing rent, including such apportioned part, shall\n              be recovered and received by the heir or other person who,\n              if the rent had not been apportionable under this Act, or\n              otherwise, would have been entitled to such entire or con-\n              tinuing rent, and such apportioned part shall be recover-\n              able from such heir or other person by the executors or other\n              parties entitled under this Act to the same by action at\n              law or suit in equity.\nLimitation      6. This Act shall not render apportionable any annual\nOf extent\n              sums made payable in policies of assurance of any descrip\n              tion and shall not extend to any case in which it is or shall\n              be expressly stipulated that no apportionment shall take\n              place.\n                    me inclusion of this page is authorized by L.N. 480119731"
+    }
+  ],
   "definitions": []
 }

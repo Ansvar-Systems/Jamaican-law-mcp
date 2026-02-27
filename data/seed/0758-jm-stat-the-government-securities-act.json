@@ -7,6 +7,31 @@
   "status": "in_force",
   "url": "https://laws.moj.gov.jm/library/statute/the-government-securities-act",
   "description": "Category: statute | Source: https://laws.moj.gov.jm/library/statute/the-government-securities-act | Legal areas: Finance and Banking",
-  "provisions": [],
+  "provisions": [
+    {
+      "provision_ref": "sec1",
+      "section": "1",
+      "title": "Section 1",
+      "content": "1. This Act may be cited as the Government Securities ShorttitLe.\nAct.\n                                                                     IClterptChp-"
+    },
+    {
+      "provision_ref": "sec2",
+      "section": "2",
+      "title": "Section 2",
+      "content": "2. In this Act-                                                    lion.\n     “competent court” means a court of competent\n          jurisdiction in the United Kingdom;\n     “final judgment, decree, rule or order” means in case\n          of appeal the final judgment, decree, rule or\n          order of the ultimate competent court hearing\n          the appeal."
+    },
+    {
+      "provision_ref": "sec3",
+      "section": "3",
+      "title": "Section 3",
+      "content": "3. This Act shall apply to all securities created or issued Application\nprior to the 6th August, 1962 in the United Kingdom on of Act.\nbehalf of the Government of Jamaica in which a trustee\nmight at any time have invested by virtue of section 2 of\nthe United Kingdom Colonial Stock Act, 1900, and to all 311963\nsecurities issued after the 26th February, 1963, but prior           ’.\nto the 1st January, 1964. in the United Kingdom on behalf\nof the Government of Jamaica by the conditions of issue of\nwhich it is provided that the provisions of this Act shall\napply to them, each and all of which securities are herein-\nafter referred to as “Jamaica Government securities”."
+    },
+    {
+      "provision_ref": "sec4",
+      "section": "4",
+      "title": "Section 4",
+      "content": "4. Whenever by the final judgment, decree, rule or Provisions\norder of any competent court any sum of money is for payment\nadjudged or declared to be payable by the Government of ;tU,Fdz;fmk-\nJamaica in respect of any Jamaica Government securities,\nthat sum shall, without further appropriation than this\n       (The inclusion of this page is authorized by L.N. 480119731\n2                               GOVERNMENT SECURITIES\n              Act be charged on and paid out of the Consolidated Fund\n              and adequate funds (as and when required) shall be made\n              available in the United Kingdom by the Government of\n              Jamaica to meet any such final judgment, decree, rule or\n              order.\nCertificate     5. A certificate specifying the sum paid under order of\nof paying\nagent.        any competent court to satisfy any final judgment, decree,\n              rule or order and issued by the agent in the United King-\n              dom of the Government of Jamaica authorized to make\n              such payment shall be sufficient authority to the Auditor-\n              General or other officer having the auditing of the accounts\n              of such agent for passing such sum without further appro-\n              priation.\n                    me inclusion of this page is authorized by L.N. 480/1973]"
+    }
+  ],
   "definitions": []
 }

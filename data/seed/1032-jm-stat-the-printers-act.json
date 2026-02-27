@@ -7,6 +7,31 @@
   "status": "in_force",
   "url": "https://laws.moj.gov.jm/library/statute/the-printers-act",
   "description": "Category: statute | Source: https://laws.moj.gov.jm/library/statute/the-printers-act | Legal areas: Intellectual Property",
-  "provisions": [],
+  "provisions": [
+    {
+      "provision_ref": "sec1",
+      "section": "1",
+      "title": "Section 1",
+      "content": "1. This Act may be cited as the Printers Act.                        Short title."
+    },
+    {
+      "provision_ref": "sec2",
+      "section": "2",
+      "title": "Section 2",
+      "content": "2. In this Act-                                              Interpreta-\n“document” means every book and volume and every part tion.\n     of a book and volume and every newspaper, sheet of\n     paper or other printed material, every pamphlet, leaflet,\n     sheet of music, map, chart and plan."
+    },
+    {
+      "provision_ref": "sec3",
+      "section": "3",
+      "title": "Section 3",
+      "content": "3. Every person who-                                       Documents\n                                                             to bear name\n     (a) prints any document and who fails to print legibly of printer.\n         upon the first or last printed leaf of the document\n         his name and usual place of abode or business; or\n     (b) publishes, distributes or disperses, or assists or\n         aids or abets in publishing, distributing or\n         dispersing any document upon which the name\n         and usual place of abode or business of the\n         printer has not been printed as required by\n         paragraph (a),\nshall be guilty of an offence against this Act."
+    },
+    {
+      "provision_ref": "sec4",
+      "section": "4",
+      "title": "Section 4",
+      "content": "4, to a penalty not exceeding one hundred dollars\n                       and in default of payment to imprisonment for a\n                       term not exceeding three months;\n                  (b) if he is convicted of an offence under paragraph\n                       (b)of section 3, to a penalty not exceeding twenty\n                       dollars and in default of payment to imprison-\n                       ment for a term not exceeding one month.\nExemptions.     6. The provisions of this Act shall not apply to-\n                  (a) the impression of any engraving, or to the print-\n                      ing of any business or visiting card, or to any\n                      business bill-head, or to any letter heading; or\n                  (b) any bill of exchange, or promissory note, or any\n                      bond or other security for payment of money, or\n                      any bill of lading, policy of insurance, letter of\n                      attorney, deed, or agreement, or any transfer or\n                      assignment of any public stocks, funds, or other\n                      securities, or any transfer or assignment of the\n                      stocks of any public corporation or company\n                      authorized or sanctioned by law, or any dividend\n                      warrant of or for any such public or other stocks,\n                      funds, or securities, or any receipt for money or\n                      goods, or any proceeding in any court of law or\n                      equity, or in any inferior court, or any warrant,\n                      order, or other papers printed by the authority of\n                      any public board or public officer in the execution\n                      of the duties of their respective offices, notwith-\n                      standing the whole or any part of the said several\n                      securities, instruments, proceedings, matters, and\n                      things aforesaid shall have been or shall be\n                      printed."
+    }
+  ],
   "definitions": []
 }

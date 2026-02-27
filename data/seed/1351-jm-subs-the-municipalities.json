@@ -7,6 +7,19 @@
   "status": "in_force",
   "url": "https://laws.moj.gov.jm/library/subsidiary-legislation/the-municipalities",
   "description": "Category: subsidiary_legislation | Source: https://laws.moj.gov.jm/library/subsidiary-legislation/the-municipalities",
-  "provisions": [],
+  "provisions": [
+    {
+      "provision_ref": "sec1",
+      "section": "1",
+      "title": "Section 1",
+      "content": "1. This Order may be cited as the Municipalities (Exercise of Powers by\nSt. Catherine Parish Council in respect of the Municipality of Portmore)\nOrder, 2003."
+    },
+    {
+      "provision_ref": "sec2",
+      "section": "2",
+      "title": "Section 2",
+      "content": "2. The St. Catherine Parish Council shall exercise, in respect of the\nMunicipality of Portmore, the powers of the Parish Council or Competent\nAuthority, as the case may require, specified in the following Acts-\n      (a) The Burial Within Towns' Limits Act;\n      (6) The Keeping of Animals Act;\n      (c) The Poor Relief Act;\n      (4 The Pound Act; and\n      (e) The Public Cemetery Management and Regulation Act."
+    }
+  ],
   "definitions": []
 }

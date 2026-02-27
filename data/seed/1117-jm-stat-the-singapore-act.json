@@ -7,6 +7,19 @@
   "status": "in_force",
   "url": "https://laws.moj.gov.jm/library/statute/the-singapore-act",
   "description": "Category: statute | Source: https://laws.moj.gov.jm/library/statute/the-singapore-act | Legal areas: Citizenship and Nationality",
-  "provisions": [],
+  "provisions": [
+    {
+      "provision_ref": "sec2",
+      "section": "2",
+      "title": "Section 2",
+      "content": "2. In this Act, unless the context otherwise requires-         Interpre-\n    “commencement of this Act” means 9th August, 1965; totion-\n    “Minister” ’means the Minister responsible for external\n        afEairs;\n    “Parliament” means the Parliament of Jamaica."
+    },
+    {
+      "provision_ref": "sec3",
+      "section": "3",
+      "title": "Section 3",
+      "content": "3.41) On and after the commencement of this Act, all opera-\nlaw which, whether being a rule of law or a provision of         z:&t-\nan Act of Parliament or of any other enactment or instru- iwlaw.\nment whatsoever, was in force on the date of such com-\nmencement or was passed or made before that date and\ncame into force thereafter, shall, unless and until provision\nto the contrary is made by Parliament or some other\nauthority having power in that behalf and subject to the\nfollowing provisions of this section, have the same operation\nin relation to Singapore and persons and things belonging\nto or connected with Singapore as it would have apart from\nthis subsection if Her Majesty’s sovereignty and jurisdiction\nin respect of Singapore had not been relinquished.\n       (2) The Minister may, by order, make such adapta-\ntions in any enactment passed before or after the commence-\nment of this Act, or in any instrument having effect under\nany such enactment, as appear to him necessary or expedient\nin consequence of Singapore’s having become an indepcn-\ndent sovereign state within the Commonwealth; and any\nsuch order may, though made after the commencement of\n      IJlu Mu8ion af this page is autherigcd by L.N. 480/1973]\n\\\n    2                             SINGAPORE\n        this Act, be made so as to have effect from the date of such\n        commencement.\n              (3) Every order made under subsection (2) shall be\n        subject to negative resolution.\n         .. .\n                                   ..\n                                                                        .   . .\n                                                                    .   .   .\n                                        .   .                  ..\n                  Musiod of thia page is auth-   by L.N. 480/19?3)."
+    }
+  ],
   "definitions": []
 }

@@ -7,6 +7,19 @@
   "status": "in_force",
   "url": "https://laws.moj.gov.jm/library/statute/the-poor-relief-officers-unified-service-act",
   "description": "Category: statute | Source: https://laws.moj.gov.jm/library/statute/the-poor-relief-officers-unified-service-act | Legal areas: Local Government",
-  "provisions": [],
+  "provisions": [
+    {
+      "provision_ref": "sec1",
+      "section": "1",
+      "title": "Section 1",
+      "content": "1. This Act may be cited as the Poor Relief Officers shorttitle.\n(Unified Service) Act."
+    },
+    {
+      "provision_ref": "sec2",
+      "section": "2",
+      "title": "Section 2",
+      "content": "2 . 4 1 ) From and after the 1st April, 1964 the functions Transferof\nto which this section refers and which relate to poor relief fuoctions*\nofficers in the employ of a Parish Council or the Kingston\nand Saint Andrew Corporation shall be exercised by the\nParish Councils Services Commission or by the Municipal\nService Commission, as the case may be.\n      (2) The functions to which this section refers are-\n    (a) as respects a Parish Council, those described in\n         subsection (1) of section 10 of the Parish Councils\n         (Unified Service) Act, as matters which shall stand\n         referred to the Parish Councils Services Commis-\n         sion; and\n    (b) as respects the Kingston and Saint Andrew Cor-\n         poration, those described in section 13 of the\n         Municipal Service Commission Act, as matters\n         which shall stand referred to the Municipal Service\n         Commission."
+    }
+  ],
   "definitions": []
 }

@@ -7,6 +7,19 @@
   "status": "in_force",
   "url": "https://laws.moj.gov.jm/library/statute/the-grays-charity-act",
   "description": "Category: statute | Source: https://laws.moj.gov.jm/library/statute/the-grays-charity-act | Legal areas: Trusts and Estates",
-  "provisions": [],
+  "provisions": [
+    {
+      "provision_ref": "sec1",
+      "section": "1",
+      "title": "Section 1",
+      "content": "1. The endowment in the preamble mentioned shall be Short tiue\ncalled Gray's Charity, and this Act may be cited as Gray's ~~~~~w\nCharity Act.\n2                                    GRAY’S CHARITY\nAppoint-         2. After the passing of this Act it shall be lawful for the\nment and\nremoMl of      Governor-General to appoint a trustee or trustees of Gray’s\nLrusLces.      Charity, and to remove any such trustee and appoint or not\n               appoint another in his stead :\nProviso.         Provided, that there be always one trustee so appointed.\npropcny of       3. On any appointment of a trustee as aforesaid, all the\n-wt0\nvest in        land, money and other property belonging to Gray’s\nmstcs.         Charity shall vest in such trustee, or if there be more than\n               one trustee in him jointly with such other trustee or trustees.\nInvestment       4. It shall be lawful for the trustees, with the approval of\nof moneys\nOf ihhc        the Govemor-General, from time to time invest the money\nCharity.       belonging to Gray’s Charity, or any portion thereof, in such\n               securities as to them shall seem fic and it shall be lawful\n               for the Governor-General to allow from the Consolidated\n               Fund interest at the rate of five per cent per m u m on any\n               of the said money that may with his approval be left or\n               deposited in the Treasury:\n                 Provided, that if at any time hereafter Jamaica shall bor-\n               row money at a rate of interest less than five per cent the\n               interest on any money so left or deposited shall be allowed\n               only at such lesser rate.\npower of         5. The trustees shall have power, with the approval of\nw s ~ c s L’   the Governor-General, to apply such portion of the money\napply funds.\n               belonging to Gray’s Charity, as the Governor-General may\n               approve, in the purchase of lands and buitdings in some\n               part of the present parish of Saint Mary, included in the\n               district which formed the parish of Saint Mary as it existed\n               in the year 1854, and in the erection of buildings on any\n               land so purchased, and in fitting up the same for the pur-\n               pose of an alms-house to be known as Gray’s Home for the\n               reception of poor persons of the said district.\n                     me imhsion of this p a p is autho&d   by L.N. 480/19731\n                        GRAY’S CHARITY                                    3"
+    },
+    {
+      "provision_ref": "sec6",
+      "section": "6",
+      "title": "Section 6",
+      "content": "6. It shall be lawful for the Governor-General in Coun- R U I ~ Sfor\ncil, from time to time to make and alter rules for the man- manage-\n                                                            mentof\nagement of Gray’s Charity, and of the property and money\nbelonging thereto, and for the due rendering of accounts by\nthe trustees, and for the drawing and application of all\nmoneys beIonging to the charity, and for the selection of\ninmates for the alms-house, and for the management and\nthe appointment of the officers of the alms-house, and\ngenerally in relation to the said charity. Subject to such\nrules, the trustees, shall have the management and control\nof Gray’s Charity, and of the property belonging thereto."
+    }
+  ],
   "definitions": []
 }

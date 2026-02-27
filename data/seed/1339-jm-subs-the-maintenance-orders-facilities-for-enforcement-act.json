@@ -7,6 +7,19 @@
   "status": "in_force",
   "url": "https://laws.moj.gov.jm/library/subsidiary-legislation/the-maintenance-orders-facilities-for-enforcement-act",
   "description": "Category: subsidiary_legislation | Source: https://laws.moj.gov.jm/library/subsidiary-legislation/the-maintenance-orders-facilities-for-enforcement-act",
-  "provisions": [],
+  "provisions": [
+    {
+      "provision_ref": "sec1",
+      "section": "1",
+      "title": "Section 1",
+      "content": "1. TMs Order may be cited as the Maintenance Orders (Deolaration\nof Reciprocating States) Order, 1988."
+    },
+    {
+      "provision_ref": "sec2",
+      "section": "2",
+      "title": "Section 2",
+      "content": "2. The States specified in the Schedule are hereby declared to be        Schedule.\nreciprocating States for the purposes of the Act.\n          Antigua and Barbuda\n          The Bahamas\n          Belize\n          Cayman Islands\n          Cook Islands\n          Dominica\n          Grenada\n          Baliwick of Guernsey\n          Guyana\n          Isle of Man\n          Jersey\n          Montserrat\n          New Zealand\n          Niue\n          St. Chfistopher and Nevis\n          St. Lucia\n          St. V i n m t and the Grenadines\n          Trinidad and Tobago\n          United Kingdom\n          British Virgin Islands\n          Western Samoa"
+    }
+  ],
   "definitions": []
 }

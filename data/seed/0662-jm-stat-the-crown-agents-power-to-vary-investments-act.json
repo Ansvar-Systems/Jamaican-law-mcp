@@ -7,6 +7,19 @@
   "status": "in_force",
   "url": "https://laws.moj.gov.jm/library/statute/the-crown-agents-power-to-vary-investments-act",
   "description": "Category: statute | Source: https://laws.moj.gov.jm/library/statute/the-crown-agents-power-to-vary-investments-act | Legal areas: Courts and Judiciary",
-  "provisions": [],
+  "provisions": [
+    {
+      "provision_ref": "sec1",
+      "section": "1",
+      "title": "Section 1",
+      "content": "1. This Act may be cited as the Crown Agents (Power Short\n                                                      title.\nto vary Investments) Act."
+    },
+    {
+      "provision_ref": "sec2",
+      "section": "2",
+      "title": "Section 2",
+      "content": "2. In connection with the investment of funds remitted Crown Agents.\nto or held by the Crown Agents-                                authorized\n                                                               to invest\n     (a) under the provisions of any Loan Act of this funds\n          Island heretofore or hereafter to be enacted; or remitted.\n     (b) for investment in such securities authorized by\n          any enactment as the Minister shall from time to\n          time direct,\nand subject to the provisions of any such enactment the\nCrown Agents are hereby authorized :\n      (i) in the case of debentures redeemable on a date\n          named when issuing the debentures, to invest so\n          much of the money remitted to them as shall not\n          be required for the payment of interest for the\n          current half-year in the purchase of such securities\n          as may be approved by the Minister as a sinking 42/1969\n          fund for the final extinction of the debt, and also 3rd Sch.\n          to invest the dividends, interest or produce of such\n          investments in the purchase of like securities, and\n          from time to time, with the approval of the\n           Minister, to change any such investments and to\n           hold such fund in trust for the repayment of the\n           principal moneys for the time being represented\n           by the debentures;\n     (ii) for the purpose of forming a sinking fund for the\n           redemption of inscribed stock, from time to time,\n2   CROWN AGENTS (POWER TO VARY INVESTMENTS)\n          to invest so much of the money remitted to them\n          under any such enactment as shall not be required\n          for the payment of interest for the current half-\n          year in the purchase of such securities, as may\n          from time to time be approved by the Minister,\n          and also to invest the dividends, interest or produce\n          of such investments in the purchase of like\n          securities, and from time to time, with the approval\n          of the Minister to change any such investments\n          and to hold such fund in trust for repayment of\n          the principal moneys for the time being represented\n          by inscribed stock;\n    (iii) from time to time, with the approval of the\n          Minister to change any such investments.\n      me inclusion of this page is authorized by L.N. 480/1973]"
+    }
+  ],
   "definitions": []
 }

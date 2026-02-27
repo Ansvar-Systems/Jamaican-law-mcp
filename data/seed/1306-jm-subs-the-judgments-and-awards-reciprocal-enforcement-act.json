@@ -7,6 +7,13 @@
   "status": "in_force",
   "url": "https://laws.moj.gov.jm/library/subsidiary-legislation/the-judgments-and-awards-reciprocal-enforcement-act",
   "description": "Category: subsidiary_legislation | Source: https://laws.moj.gov.jm/library/subsidiary-legislation/the-judgments-and-awards-reciprocal-enforcement-act",
-  "provisions": [],
+  "provisions": [
+    {
+      "provision_ref": "sec1",
+      "section": "1",
+      "title": "Section 1",
+      "content": "1. This Order may be cited as the Judgments and Awards (Reciprocal\nEnforcement) (Nigeria) Order. 1956.\n   2 It is hereby declared that the Judgments and Awards (Reciprocal\nEnforcement) Act shall extend to judgments obtained in a Superior Court\nin Nigeria (including a Superior Court in the Southern Cameroons) in the\nlike manner as it extends to judgments obtained in a Superior Court in\nthe United Kingdom.\n              CIhc ineluston of thh pase h authorized by L.N. 4119761"
+    }
+  ],
   "definitions": []
 }

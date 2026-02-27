@@ -7,6 +7,37 @@
   "status": "in_force",
   "url": "https://laws.moj.gov.jm/library/statute/the-marriage-deceased-wifes-sister-or-brothers-widow-act",
   "description": "Category: statute | Source: https://laws.moj.gov.jm/library/statute/the-marriage-deceased-wifes-sister-or-brothers-widow-act | Legal areas: Family",
-  "provisions": [],
+  "provisions": [
+    {
+      "provision_ref": "sec1",
+      "section": "1",
+      "title": "Section 1",
+      "content": "1. This Act may be cited as the Marriage (Deceased shorttitle.\nWife’s Sister or Brother’s Widow) Act."
+    },
+    {
+      "provision_ref": "sec2",
+      "section": "2",
+      "title": "Section 2",
+      "content": "2. In this Act the word “sister” shall include a sister of tion.\n                                                             Interpreta-\nthe half-blood."
+    },
+    {
+      "provision_ref": "sec3",
+      "section": "3",
+      "title": "Section 3",
+      "content": "3. No marriage heretofore or hereafter contracted with        Marriage\n                                                                      de-\nbetween a man and his deceased wife’s sister, or his deceased ceased wife’s\n                                                                       or\nbrother’s wife, within this Island or without, shall be deemed sister\n                                                                brother’s\nto have been or shall be void or voidable, as a civil contract, ~ ~ ~ ~ , ! $ d -\nby reason only of such affinity.                                able as a\n                                                                civil con-\n                                                                     tract."
+    },
+    {
+      "provision_ref": "sec4",
+      "section": "4",
+      "title": "Section 4",
+      "content": "4. No right, title, estate or interest, whether in posses- ~ o e s t a t e .\n                                                                     etc., to be\nsion or expectancy, and whether vested or contingent at prejudicially\nthe time of the coming into operation of this Act, exist- affected.\ning in, to, or in respect of, any dignity, title of honour,\nor property, and no act or thing lawfully done or omitted\nbefore the coming into operation of this Act shall be\nprejudicially affected nor shall any will be deemed to have\nbeen revoked by reason of any marriage heretofore con-\ntracted as aforesaid being made valid by this Act. And\nno claim by the Crown for duties leviable on or with ~ o c i a i m b y\n                                                              the Crown,\nreference to death, and before the coming into operation of etc.,  to be\nthis Act due and payable, and no payment, commutation, ~ ‘ ~ ~ ~ a l l y\ncomposition, discharge, or settlement of account in respect\nof any duties leviable on or with reference to death before\nthe coming into operation of this Act duly made or given,\nshall be prejudicially affected by anything herein contained.\n2             MARRIAGE (DECEASED WIFE'S SISTER OR BROTHER'S\n                                           WIDOW)\n               Nothing in this Act shall affect the devolution or\n            distribution of the real or personal estate of any intestate,\n            not being a party to the marriage, who at the time of the\n            coming into operation of this Act shall be, and shall until\n            his death continue to be, a lunatic, so found by enquiry.\nNotlawful\nto marry"
+    },
+    {
+      "provision_ref": "sec5",
+      "section": "5",
+      "title": "Section 5",
+      "content": "5. It shall not be lawful for a man to marry the sister\nsisterof    of his divorced wife, or of his wife by whom he has been\ndivorced\nwife.       divorced, or the wife of his divorced brother or by whom\n            she has been divorced, during the lifetime of such wife\n            or brother."
+    }
+  ],
   "definitions": []
 }

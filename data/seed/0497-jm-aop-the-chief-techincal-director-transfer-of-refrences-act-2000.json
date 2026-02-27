@@ -7,6 +7,19 @@
   "status": "in_force",
   "url": "https://laws.moj.gov.jm/library/act-of-parliament/the-chief-techincal-director-transfer-of-refrences-act-2000",
   "description": "Category: act_of_parliament | Source: https://laws.moj.gov.jm/library/act-of-parliament/the-chief-techincal-director-transfer-of-refrences-act-2000 | Year: 2000",
-  "provisions": [],
+  "provisions": [
+    {
+      "provision_ref": "sec1",
+      "section": "1",
+      "title": "Section 1",
+      "content": "1. This Act may be cited as the Chief Technical Director Short title.\n  (Transfer of Functions and Change of Statutory References)\n  Act, 2000."
+    },
+    {
+      "provision_ref": "sec2",
+      "section": "2",
+      "title": "Section 2",
+      "content": "2. The powers, duties and responsibilities vested in the II'ransfer\n                                                              functions\n                                                                         of\n  Chief Technical Director are hereby vested in the Chief of Chief\n  Executive Officer of the National Works Agency and any {{\"   ?'\n  reference (however expressed) to the Chief Technical Direc- ,\",\n                                                                  Officer.\n2              [No. 8)             The Chief Technical Director (Transfer of\n                                            References) Act, 2000\n               tor in any Act or regulation shall be construed as a reference\n               to the Chief Executive Officer of the National Works\n               Agency.\nPRINTED BY JAMAICA PRINTING SERVICES (1992) LTD., (GOVERNMENT PRINTERS), DUKE ST., KGN., JAMAICA."
+    }
+  ],
   "definitions": []
 }

@@ -7,6 +7,19 @@
   "status": "in_force",
   "url": "https://laws.moj.gov.jm/library/statute/the-judgment-lien-act",
   "description": "Category: statute | Source: https://laws.moj.gov.jm/library/statute/the-judgment-lien-act",
-  "provisions": [],
+  "provisions": [
+    {
+      "provision_ref": "sec2",
+      "section": "2",
+      "title": "Section 2",
+      "content": "2. If any person against whom any judgment shall be Judgeplay\n                                                               order judg-\nentered up, has or is entitled to, any Government, Island or ment   to bc\n                                                               a charge\nother stock, funds, or annuities or any stock or shares of or upongov-\nin any public company in this Island (whether incorporated ernmenr\n                                                               securities.\nor not) standing in his name in his own right or in the name etc.\nof any person in trust for him, it shall be lawful for any\nJudge of the Supreme Court, on the application of any\njudgment creditor, to order that such stock, funds, annuities,\nor shares, or such of them or such part thereof respectively\nas he shall think fit, shall stand charged with the payment\nof the amount for which judgment shall have been so\nentered up, and all interest due thereon; and such order\nshall entitle the judgment .creditor to all such remedies as\nhe would have been entitled to if such charge had been\nmade in his favour by the judgment debtor :\n  Provided, that no proceedings shall be taken to have the\nbenefit of such charge until after the expiration of three\ncalendar months from the date of such order."
+    },
+    {
+      "provision_ref": "sec3",
+      "section": "3",
+      "title": "Section 3",
+      "content": "3. Every such order charging any Government or Island EtI&ot\nstock, funds, or annuities, or any stock or shares in any order.\npublic company, under this Act shall be made in the first\ninstance ex parce, and without any notice to the judgment\ndebtor, and shall be an order to show cause only; and every\nsuch order shall restrain the directors of such bank or\ncompany, or the Accountant-General of this Island, from\npermitting a transfer of such stock, or making payment of\n       me inclusion of this page is authorized by L.N. 480119131\n2                          JUDGMENT LIEN\n    any dividends or interest arising thereon, in the meantime,\n    m d until such order shall be made absolute or discharged,\n    and if, after notice of such order to the person or persons\n    to be restrained thereby, or in case of a corporation, to any\n    authorized agent of such corporation, and before the same\n    order shall be discharged or made absolute, such corpora-\n    tion, or person or persons, shall permit any such transfer\n    to be made, then and in such case the corporation, or person\n    or persons so permitting such transfer, shall be liable to the\n    judgment creditor for the value or amount of the property\n    so charged and so transferred, or such part thereof as may\n    be sufficient to satisfy his judgment; and no disposition of\n    the judgment debtor in the meantime shall be kalid or\n    effectual as against the judgment creditor; and unless the\n    judgment debtor shall, within a time to be mentioned in\n    such order, show to a Judge of the Supreme Court sufficient\n    cause to the contrary, the said order shall, after proof of\n    notice thereof to the judgment debtor, his procuration\n    attorney or agent, be made absolute:\n       Provided, that any such Judge shall, upon the applica-\n    tion of the judgment debtor, or any person interested, have\n    full power to discharge or vary such order in all cases, and\n    to award such costs as he may think fit.\n          [TIC indusion of this page is authorized by LN. 480/19731"
+    }
+  ],
   "definitions": []
 }

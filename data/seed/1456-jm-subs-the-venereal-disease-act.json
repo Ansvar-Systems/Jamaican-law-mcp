@@ -7,6 +7,19 @@
   "status": "in_force",
   "url": "https://laws.moj.gov.jm/library/subsidiary-legislation/the-venereal-disease-act",
   "description": "Category: subsidiary_legislation | Source: https://laws.moj.gov.jm/library/subsidiary-legislation/the-venereal-disease-act",
-  "provisions": [],
+  "provisions": [
+    {
+      "provision_ref": "sec1",
+      "section": "1",
+      "title": "Section 1",
+      "content": "1. This Olrder may be cited as the Venereal Disease (Parish of\nKingston) Order, 1942."
+    },
+    {
+      "provision_ref": "sec2",
+      "section": "2",
+      "title": "Section 2",
+      "content": "2. The parish of Kingston is hereby declared to be a declared\ndistrict within the meaning of subsection (2) of section 3 of the Act."
+    }
+  ],
   "definitions": []
 }

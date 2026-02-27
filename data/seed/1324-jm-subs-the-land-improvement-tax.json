@@ -7,6 +7,31 @@
   "status": "in_force",
   "url": "https://laws.moj.gov.jm/library/subsidiary-legislation/the-land-improvement-tax",
   "description": "Category: subsidiary_legislation | Source: https://laws.moj.gov.jm/library/subsidiary-legislation/the-land-improvement-tax",
-  "provisions": [],
-  "definitions": []
+  "provisions": [
+    {
+      "provision_ref": "sec1",
+      "section": "1",
+      "title": "Section 1",
+      "content": "1. This Order may be cited as the Land Improvemelit (Rio Cobre\nDrainage Area) Order, 1970."
+    },
+    {
+      "provision_ref": "sec2",
+      "section": "2",
+      "title": "Section 2",
+      "content": "2. In this Order \"scheduled area\" means the Rio Cobre drainage\narea as specified in the Schedule.                               Schedule."
+    },
+    {
+      "provision_ref": "sec4",
+      "section": "4",
+      "title": "Section 4",
+      "content": "4.25 cents on every dollar or fractional part of a dollar of the value of\nsuch propexty.\n               [The inclusion of thLs page ia authorized by L.N. 4119761\n THE LAND IMPROVEMENT (RIO COBRE DRAINAGE AREA) ORDER,\n                          1970\n                                     SCHEDULE                            (Paragraph 2)\n   Commencing at the intersection of the sea coast and the right bank of the\nDuhaney River in Hunts Bay, Kingston Harbour;.thence northerly and generally\nnorthwesterly along the r~ghtbank of the s a ~ drlver to the confluence of the\nDuhaney River and the Ferry River; thence generally westerly along the right\nbank of the Ferry River to its intersection with the southern boundary of the\nmain road leading from Kingston to Spanish Town; thence generally south\nwesterly and westerly along the southern boundary of the said main road to\nits intersection in Central Village with the eastern boundary of parochial road\nNo. 39; thence southeasterly along the eastern boundary of the said parochial\nroad to its intersection with the contour line marking 50-feet above mean sea\nlevel; thence generally southeasterly along the said 50-foot contour, crosslng\nparochial road No. 56 to its intersection with the eastern boundary of the said\nparochial road; thence generally southerly and southeasterly along the eastern\nboundary of the said parochial road to its intersection with the contour line\nmarking 55 feet above mean sea level; thence generally southerly, generally\nwesterly and generally southwesterly along the said %-foot contour to its inter-\nsection with the eastern boundary of Twickenham Park; thence due south in a\nstraight line crossing the Rio Cobre to intersect the said 55-foot contour line;\nthence generally easterly, generally southerly, and generally southwesterly along\nthe said 55-foot contour line to its intersection with the northern boundary of\nparochial road No. 9; thence due south in a straight line to intersect the southern\nboundary of the said parochial road; thence generally southwesterly along the\nsouthern boundary of parochial road No. 9 to its intersection with the northern\nboundary of parochial road No. 3; thence generally easterly along the northern\nboundary of parochial road No. 3 to a point opposite the junction of the said\nparochial road and the property road through Morris Park; thence easterly in a\nstraight line to the source of the Naggo Head Spring; thence generally easterly\nand generally southeasterly along the centre line of the Naggo Head Spring to\nits intersection with the centre line of the main road leading from Gregory Park\nto Naggo Head; thence generally southwesterly along the centre line of the said\nmain road to its junction at Naggo Head with the centre line of the main road\nleading from Spanish Town to Port Henderson; thence generally southeasterly\nalong the centre line of the last mentioned main road to its junction at Port\nHenderson with the centre line of parochial road No. 50; thence due east in a\nstraight line to intersect the sea coast; thence generally northeasterly, generally\n southwesterly, generally northeasterly, generally southeasterly and generally\nnortherly along the sea coast, excluding the Dawkins Pond, back to the starting\n point.\n                  [The bclusion of thh m e is wthorkod by L.N. 411976l"
+    }
+  ],
+  "definitions": [
+    {
+      "term": "scheduled area",
+      "definition": "the Rio Cobre drainage",
+      "source_provision": "sec2"
+    }
+  ]
 }

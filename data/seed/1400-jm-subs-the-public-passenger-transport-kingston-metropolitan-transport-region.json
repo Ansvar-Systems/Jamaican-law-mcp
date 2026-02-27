@@ -7,6 +7,19 @@
   "status": "in_force",
   "url": "https://laws.moj.gov.jm/library/subsidiary-legislation/the-public-passenger-transport-kingston-metropolitan-transport-region",
   "description": "Category: subsidiary_legislation | Source: https://laws.moj.gov.jm/library/subsidiary-legislation/the-public-passenger-transport-kingston-metropolitan-transport-region",
-  "provisions": [],
+  "provisions": [
+    {
+      "provision_ref": "sec1",
+      "section": "1",
+      "title": "Section 1",
+      "content": "1. This Order may be cited as the Public Passenger Transport (Kingston\nMetropolitan Transport Region) Order, 2002."
+    },
+    {
+      "provision_ref": "sec2",
+      "section": "2",
+      "title": "Section 2",
+      "content": "2. Regulation 26 of the Road Traflic Regulations 1938 shall apply in\nrelation to the services provided under or by virtue of any exclusive licence\ngranted under section 3 of the Act or the vehicles from time to time\nused for the purposes of any of those services with the following\nmodification:\nThe substitution of the words \"Form A of the Schedule to the Public\nPassenger Transport (angston Metropolitan Transport Region) Order, 2002\"\nfor the words \"Form B1 of the Schedule\".\n                                   SCHEDULE                                     (Paragraph 2)"
+    }
+  ],
   "definitions": []
 }

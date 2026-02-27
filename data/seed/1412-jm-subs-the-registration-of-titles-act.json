@@ -7,6 +7,43 @@
   "status": "in_force",
   "url": "https://laws.moj.gov.jm/library/subsidiary-legislation/the-registration-of-titles-act",
   "description": "Category: subsidiary_legislation | Source: https://laws.moj.gov.jm/library/subsidiary-legislation/the-registration-of-titles-act",
-  "provisions": [],
+  "provisions": [
+    {
+      "provision_ref": "sec1",
+      "section": "1",
+      "title": "Section 1",
+      "content": "1. These Regulations may be cited as the Registration of Titles\nRegulations, 1914."
+    },
+    {
+      "provision_ref": "sec2",
+      "section": "2",
+      "title": "Section 2",
+      "content": "2. A certificate of title shall not include more than one parcel of\nland except as hereinafter mentioned unless the Registrar of Titles shall\notherwise direct."
+    },
+    {
+      "provision_ref": "sec3",
+      "section": "3",
+      "title": "Section 3",
+      "content": "3. A certificate of title may include two or more parcels of land\nwhich are oontiguous."
+    },
+    {
+      "provision_ref": "sec4",
+      "section": "4",
+      "title": "Section 4",
+      "content": "4. A certificate of title may include two or more parcels of land\nwhich are not contiguous if they are situated in the same parish and\nare held and worked together as one estate such as a sugar estate with\ndetached wharf land or detached mountain land."
+    },
+    {
+      "provision_ref": "sec5",
+      "section": "5",
+      "title": "Section 5",
+      "content": "5. Any person applying for one certificate of title in respect of two\nor more parcels of land or of lands described in two or more parcels\nmust satisfy the Registrar of Titles in such manner as he may require\nthat such parcels may be included in one certificate of title."
+    },
+    {
+      "provision_ref": "sec6",
+      "section": "6",
+      "title": "Section 6",
+      "content": "6. The severance of lands by a road or such like shall not render\nsuch lands discontiguous within the meaning of these Regulations."
+    }
+  ],
   "definitions": []
 }

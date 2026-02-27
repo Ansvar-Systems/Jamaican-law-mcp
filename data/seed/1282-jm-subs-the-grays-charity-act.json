@@ -7,6 +7,73 @@
   "status": "in_force",
   "url": "https://laws.moj.gov.jm/library/subsidiary-legislation/the-grays-charity-act",
   "description": "Category: subsidiary_legislation | Source: https://laws.moj.gov.jm/library/subsidiary-legislation/the-grays-charity-act",
-  "provisions": [],
-  "definitions": []
+  "provisions": [
+    {
+      "provision_ref": "sec2",
+      "section": "2",
+      "title": "Section 2",
+      "content": "2. In these Rules \"the Trustees\" means the Trustees of Gray's\nCharity appointed by the Governor-General."
+    },
+    {
+      "provision_ref": "sec3",
+      "section": "3",
+      "title": "Section 3",
+      "content": "3. The Trustees shall have the management of Gray's Charity and\nof the property and money belonging thereto and in the exercise\nof such management shall function as a Board. The quorum of the\nBoard shall be three members."
+    },
+    {
+      "provision_ref": "sec4",
+      "section": "4",
+      "title": "Section 4",
+      "content": "4. Meetings of the Board of Trustees shall be held at least once\na quarter and such meetings shall be convened in accordance with\na notice in writing issued under the direction of the Chairman and\nsent to each member. Further notice of such meetings shall also\nbe given by publication in the Gazette."
+    },
+    {
+      "provision_ref": "sec5",
+      "section": "5",
+      "title": "Section 5",
+      "content": "5. The Trustees shall annually submit to the Governor-General an\nestimate of expenditure for the coming year and the Governor-General\nmay thereupon fix the expenditure for such year."
+    },
+    {
+      "provision_ref": "sec6",
+      "section": "6",
+      "title": "Section 6",
+      "content": "6. The Trustees shall have power to appoint and remove all officers\nof the Gray's Home as may seem to them advisable."
+    },
+    {
+      "provision_ref": "sec7",
+      "section": "7",
+      "title": "Section 7",
+      "content": "7. The selection of inmates of the Gray's Home shall be restricted\nto the poor of the district which formed the parish of Saint Mary\nas it existed in the year 1854. The selection and admission of inmates\nshall be made and granted by the Trustees.\n                  THE GRAY'S CHARITY RULES, 1941"
+    },
+    {
+      "provision_ref": "sec8",
+      "section": "8",
+      "title": "Section 8",
+      "content": "8. The number of inmates at any one time shall not exceed fourteen\nand each inmate shall receive an allowance not exceeding ninety cents\nper week and be also supplied with water and furniture. Inmates are\nrequired to provide their own food and to keep their apartments clean."
+    },
+    {
+      "provision_ref": "sec9",
+      "section": "9",
+      "title": "Section 9",
+      "content": "9. The Matron shall reside on the premises and be responsible for\nthe care of all buldings and furniture belonging to the Charity. She\nshall be responsible for the good order and discipline of all inmates\nand servants of the Gray's Home."
+    },
+    {
+      "provision_ref": "sec10",
+      "section": "10",
+      "title": "Section 10",
+      "content": "10. The Clerk shall visit the Gray's Home at least twice every\nweek and oftener if required to exercise supervision over the Matron\nand the inmates. In the performance of his duties of supervision\nhe 'shall have power to settle complaints of an ordinary nature.\nComplaints of a serious nature shall be dealt with by the Trustees on\na report f r ~ mthe Clerk."
+    },
+    {
+      "provision_ref": "sec11",
+      "section": "11",
+      "title": "Section 11",
+      "content": "11. All accounts of the Charity shall from time to time be examined\nand audited by the Auditor-General or some person or persons acting\nunder his authority who shall have power to call for any returns.\nbooks, vouchers or papers necessary for such examination and audit.\n              IThe indusioa of thir page is authorized by L.N. 4119761"
+    }
+  ],
+  "definitions": [
+    {
+      "term": "the Trustees",
+      "definition": "the Trustees of Gray's",
+      "source_provision": "sec2"
+    }
+  ]
 }

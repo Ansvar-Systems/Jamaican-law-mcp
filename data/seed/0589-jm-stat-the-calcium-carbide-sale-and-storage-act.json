@@ -7,6 +7,37 @@
   "status": "in_force",
   "url": "https://laws.moj.gov.jm/library/statute/the-calcium-carbide-sale-and-storage-act",
   "description": "Category: statute | Source: https://laws.moj.gov.jm/library/statute/the-calcium-carbide-sale-and-storage-act | Legal areas: Environment",
-  "provisions": [],
+  "provisions": [
+    {
+      "provision_ref": "sec1",
+      "section": "1",
+      "title": "Section 1",
+      "content": "1. This Act may be cited as the Calcium Carbide (Sale shorttitle.\nand Storage) Act."
+    },
+    {
+      "provision_ref": "sec2",
+      "section": "2",
+      "title": "Section 2",
+      "content": "2. In this Act, “calcium carbide” means any substance Intcrpre-\n                                                                   tation.\ncapable of evolving acetylene when treated with water."
+    },
+    {
+      "provision_ref": "sec3",
+      "section": "3",
+      "title": "Section 3",
+      "content": "3. No person shall deal in, seU, or store calcium carbide Licmccto\n                                                            deal in, sell\nanywhere within this Island without a licence given in or store\naccordance with this Act or otherwise than .according to\nthe terms of such licence, under a penalty not exceeding pcnaity.\nforty dollars for each offence. Small quantities not\nexceeding five pounds when kept in separate, substantial\nhermetically closed metal vessels, each containing not more\nthan one pound, may be kept without a licence."
+    },
+    {
+      "provision_ref": "sec4",
+      "section": "4",
+      "title": "Section 4",
+      "content": "4. The Minister may make rules for the storage of Ruler\ncalcium carbide. Such rules shall be published in the\nGazette and thereafter they shall have the force of law.\nSuch rules shall not apply to any house or building which\nis not within a distance of one hundred yards from any\nother house."
+    },
+    {
+      "provision_ref": "sec5",
+      "section": "5",
+      "title": "Section 5",
+      "content": "5. A licence shall be granted by the Minister if Grantand\nhe is satisfied that the rules have been complied with, with- cancellation\n                                                              oflicence.\nout any charge, and shall not be subject to any stamp duty.\nA licence may be cancelled and revoked at any time by\norder of the Minister. Such cancellation and revocation\nshall be published in the Gazette and shall take effect from\nthe date of such publication.\n       The inclusion of this p w is authorized by L.N. 480119731\n2                     CALCIUM CARBIDE (SALE A N D STORAGE)\nfor sale of     6. No person shall sell, or expose for sale by retail any\ncarbide.      calcium carbide which is not free from impurities which\n              may render the gas evolved liable to ignite spontaneously.\n              All vessels containing the said calcium carbide shall bear\n              in conspicuous characters the words “calcium carbide”,\n              “dangerous if not kept dry”, with the following caution-\n                    “The contents of this package are liable, if brought\n                         into contact with moisture, to give off a highly\n                         inflammable gas”, and with the addition-\n                            (U) in the case of a vessel kept, of the name and\n                                 address of the consignee or owner;\n                            (6) in the case of a vessel sent or conveyed, of\n                                 the name and address of the sender;\n                            (c) in the case of a vessel sold or exposed for\n                                sale, the name and address of the vendor.\n                 It shall be lawful for any officer of the Customs or Police\n              to take samples of any calcium carbide imported or\n              offered for sale, and to submit the same to the Island\n              Chemist for his report as to whether the given sample\n              is fit and safe for use. Any carbide thus certified to be\n              impure to a dangerous extent shall be subject to confis-\n              cation.\nPenaltics.      7. If any person shall commit an offence against any\n              provision of this Act for which no penalty is prescribed, or\n              shall offend against any rule made under its authority, he\n              shall be liable on summary conviction before a Resident\n              Magistrate to a penalty not exceeding ten dollars.\n                     F h c inclusion of this page is authorized by L.N. 480119731"
+    }
+  ],
   "definitions": []
 }

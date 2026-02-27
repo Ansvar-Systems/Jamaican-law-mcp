@@ -7,6 +7,31 @@
   "status": "in_force",
   "url": "https://laws.moj.gov.jm/library/subsidiary-legislation/the-wharfage-act",
   "description": "Category: subsidiary_legislation | Source: https://laws.moj.gov.jm/library/subsidiary-legislation/the-wharfage-act",
-  "provisions": [],
+  "provisions": [
+    {
+      "provision_ref": "sec1",
+      "section": "1",
+      "title": "Section 1",
+      "content": "1. This Order may be cited as the Wharfage (Periods of Storage and\nKeeping) (Montego Bay) Order, 1972."
+    },
+    {
+      "provision_ref": "sec2",
+      "section": "2",
+      "title": "Section 2",
+      "content": "2. In respect of goods left on a wharf at the Harbour of Kingston after the\nperiod of seven clear days allowed by paragraph (a) of subsection (1) of\nsection 18 of the Act, additional sums shall be payable for the periods\nspecified in the Schedule at the respective rates so specified.                 Schedule\n                                         SCHEDULE                                (Paragraph 2)\nCategory of Goods                                                  Daily rates charged after\n                                                                    expiration of fiee time\nContainerized Cargo\n     20 foot container\n     40 \"          6'\nOver 40 \"           66\nMotor Vehicles\n     Per unit\nBreak bulk\n      Per revenue ton\n                 [Tlie inclusion of this page is autliorized by L.N. 1712009]\n                                 WHARFAGE\n                       THE WHARFAGE ACT\n                                 ORDER\n                        (under section 20(2) (a) )\n THE WHARFAGE\n            (PERIODSOF STORAGE\n                             AND KEEPING)\n                                        (MONTEGO\n                                               BAY)\n                     ORDER,1972\n      (Made by the Minister on the 22nd day of June, 1972)                         L.N. 111172\n                                                             [Ist August, 1972.1"
+    },
+    {
+      "provision_ref": "sec3",
+      "section": "3",
+      "title": "Section 3",
+      "content": "3.-(1) In respect of goods (including lumber, shingles, coal and\npatent fuel) stored or kept in transit sheds on a wharf at the Harbour\nof Montego Bay after the fixed period, the charges specified in sub-\nparagraph (iii) of paragraph (a) and in paragraph (b) of subsection (1)\nof section 20 of the Act are hereby varied to the charges specified in the\nSchedule.                                                                  Schedule.\n      (2) In respect of goods left in open storage (patios) on a whad\nas aforesaid the charges shall be one-half those specified in sub-\nparagraph (1).\n    THE WHARFAGE (ADDITIONAL CHARGES) (MONTEGO BAY)\n                                   ORDER, 1990\n                                                                              (Paragraph 3)\n                        Period of tine\n      Goods             after free time                Unit Basis                  Rate\n       -                                                                            -\n                                                                                    5\nGoods (other than     First day                 Per tonne (1,000 K,g.)or          20.00\nmotor vehiclm) left   Second day                pmt (thereof or 1.13 cu.          22.00\nin transit sheds or   Third day                  metres or part thereof           24.00\nopen storage          Pouroh day                  whiohever is greater            26.00\n                      Fiflh day                             ss"
+    },
+    {
+      "provision_ref": "sec28",
+      "section": "28",
+      "title": "Section 28",
+      "content": "28.00\n                      Sixbh cEay                                                  30.00\n                      Sevenah day                                                 32.00\n                      After the seven,th\n                      day the rate shall\n                      be increased daily\n                      by adding $15.00\n                      to the preceding\n                      day's rate\nMotor vehicles        First day\n                      Second day\n                      Third day\n                       Fourth day\n                      Fifth day\n                      Sixbh day\n                      Seventh day\n                      After Uhe seventh\n                      day the rate shall\n                      be increased daily\n                      by addinrg $30.00\n                      tb bhe preceding\n                      day's rate\n                                 WHARFAGE\n                        THE WHARFAOE ACT\n                                RESOLUTION\n                             (under section 34)\n          (Confirmed by the House af Representatives on the\n                      18th day af March. 1986.)                              L.N. 82186"
+    }
+  ],
   "definitions": []
 }

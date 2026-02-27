@@ -7,6 +7,43 @@
   "status": "in_force",
   "url": "https://laws.moj.gov.jm/library/statute/the-obeah-act",
   "description": "Category: statute | Source: https://laws.moj.gov.jm/library/statute/the-obeah-act | Legal areas: Criminal Procedures",
-  "provisions": [],
+  "provisions": [
+    {
+      "provision_ref": "sec4",
+      "section": "4",
+      "title": "Section 4",
+      "content": "4. Punishmentfor consulting for fraudulent purpose puson practising\n      Obeah."
+    },
+    {
+      "provision_ref": "sec8",
+      "section": "8",
+      "title": "Section 8",
+      "content": "8. In charging any person with being a person practising beingChargeof\n                                                                     a\nobeah, it shall be sufficient in the charge to state that he is person\na person practising obeah, and if any one of the acts Eri2ng\nmentioned in the definition of a person practising obeah in\nsection 2, is proved against him, he shall be liable to con-\nviction on such charge, and to the punishment provided\nby section 3."
+    },
+    {
+      "provision_ref": "sec9",
+      "section": "9",
+      "title": "Section 9",
+      "content": "9. It shall be lawful for any constable to arrest without Powerto\n                                                           arrest.\nwarrant any person practising obeah."
+    },
+    {
+      "provision_ref": "sec10",
+      "section": "10",
+      "title": "Section 10",
+      "content": "10. If any person shall compose. print, sell, or distribute Obtah\n                                                                  literature\nany pamphlet, or printed matter calculated to promote the suppressed.\nsuperstition of obeah, he shall be guilty of an offence\nagainst this Act, and shall be liable to a penalty not\nexceeding forty dollars, or in default, to imprisonment,\nwith or without hard labour, for a term not exceeding six\nmonths."
+    },
+    {
+      "provision_ref": "sec11",
+      "section": "11",
+      "title": "Section 11",
+      "content": "11. All offences under this Act shall be tried in a Jurisdiction.\nsummary manner before the Resident Magistrate for the\nparish in which the same shall be committed."
+    },
+    {
+      "provision_ref": "sec12",
+      "section": "12",
+      "title": "Section 12",
+      "content": "12. When any person is convicted of an offence against Persons\nthis Act, the Resident Magistrate may, in his discretion, ~~~~~~s\ndirect that such person shall be subject to the supervision       E:jzLb;\nof the police. For the purpose of such direction the upervision.\n                                                            police\nResident Magistrate shall have the same authority as is\ngiven by the Criminal Justice (Administration) Act to the\ncourt in the case of a second conviction, and the person\nplaced under police supervision by the Resident Magistrate\nunder the authority of this Act, shall be subject to\nthe duties, obligations and punishments affecting persons\nso placed by virtue of the said Criminal Justice\n(Administration) Act.\n       me inclusion of this page is authorized by L.N.480/1973]"
+    }
+  ],
   "definitions": []
 }

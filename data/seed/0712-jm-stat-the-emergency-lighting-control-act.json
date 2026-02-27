@@ -7,6 +7,25 @@
   "status": "in_force",
   "url": "https://laws.moj.gov.jm/library/statute/the-emergency-lighting-control-act",
   "description": "Category: statute | Source: https://laws.moj.gov.jm/library/statute/the-emergency-lighting-control-act | Legal areas: Public Utilities",
-  "provisions": [],
+  "provisions": [
+    {
+      "provision_ref": "sec2",
+      "section": "2",
+      "title": "Section 2",
+      "content": "2. On any occasion which the Governor-General may P O W C ~ ~ O\nconsider to be an occasion of emergency or public danger, m~a L C~ ~ d                      ~   t\nand also whenever he may consider it necessary by way               .$:1A:!\nof experiment or practice for any such occasion, the\nGovernor-General may make such regulations as he may\nconsider desirable providing, either by express command or\nby request for co-operation, for the total or partial cessation\nof lighting in the Island."
+    },
+    {
+      "provision_ref": "sec3",
+      "section": "3",
+      "title": "Section 3",
+      "content": "3. Compliance with any such express command or with Exoneration\nany such request for co-operation shall exonerate any i ' z i t y of\nperson from any liability contractual or otherwise for Ed&,s\ndamage resulting from such compliance, provided that such                tviviLati0..\nperson has taken all other reasonable measures possible\nto avoid such damage."
+    },
+    {
+      "provision_ref": "sec4",
+      "section": "4",
+      "title": "Section 4",
+      "content": "4. Any person who refuses or fails to comply with any penalty for\n                                                         reiuaal or\nsuch express command shall be liable on summary tailurc         to\nconviction before a Resident Magistrate to a penalty not comply  with\n                                                         mPmdatory\nexceeding two hundred dollars.                           r:gdations."
+    }
+  ],
   "definitions": []
 }

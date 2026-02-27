@@ -7,6 +7,43 @@
   "status": "in_force",
   "url": "https://laws.moj.gov.jm/library/statute/the-children-guardian-and-custody-act",
   "description": "Category: statute | Source: https://laws.moj.gov.jm/library/statute/the-children-guardian-and-custody-act | Legal areas: Children",
-  "provisions": [],
-  "definitions": []
+  "provisions": [
+    {
+      "provision_ref": "sec13",
+      "section": "13",
+      "title": "Section 13",
+      "content": "13. If at the time of the application for a writ or order for Powerof\n    the production of the child, the child is being brought up by ~ ~ ~ , ! & g Y Y\n    another person, the Court may, in its discretion, if it orders the mentof\n    child to be given up to the parent, further order that the parent\n    shall pay to such person the whole of the costs properly incurred up child.\n                                                                                ~~~~~\n    in bringing up the child, or such portion thereof as shall seem\n    to the Court to be just and reasonable, having regard to the\n    circumstances of the case.\n    ?."
+    },
+    {
+      "provision_ref": "sec14",
+      "section": "14",
+      "title": "Section 14",
+      "content": "14. Where the parent has-                                    'court in\n                                                                       making\n                                                                       order to\n             (a) abandoned or deserted his child; or,         ,. .     have regard\n                                                                       to conduct\n             (b) allowed his child to be brought up by another person ofparen'\n                 at that person's expense for such a length of time and\n                 under such circumstances as to satisfy the Court that\n         ,       the parent was unmindful of his parental duties,\n    theeCourtshall not make an order for the -delivery of the child to\n    the parent, unless the parent has satisfied the Court that, having\n    ;egard to the welfare of the child, he or she is a fit person to\n:   have the custody.of the child.\n                 ?   ,\n      1 5 : 4 1 ) Upon any application by the parent for the produc- Powerof\n.' tion & custody-of a child, if the Court is of opinion that the               F$fz\n   parent ought not to have the custody of'the child; and that rel~g~ous\n   the child is being brought up in a different religion to that in educat'On.\n   which the par=nt has a legal right to require that the child\n   should be brought up,'the Court shall have power to make such\n   ord& irs it may think fit to secure that the child be brought up\n' in the religioh in which the parent has a legal right to require\n   that the child should be brought up.\n             (2) Nothing contained in this section or in sections\n    12 to 14 '(inclusive) shall interfere with or affect the power\n    of the 'Court to consult the wishes of the child in consider-\n    ing what order ought to be made under this section, or\n    diminish the right which any child now possesses to the\n    exercise of its own free choice.\n10                        CHILDREN (GUARDZANSHZPAND CUSTODY)\nDefinition        16. For the purposes of sections 12 to 15 (inclusive) the\nof \"Court\".\n\"parent\"        expression-\nand \"person\".\n                     \"Court\" means the Supreme Court;\n                     \"parent\" of a child includes any person at law liable to\n                          maintain such child or entitled to its custody;\n                     \"person\" includes any local authority, school or institution.\nEnforcement         17.+1) Any person for the time being under an obligation to\nof orders for\npayment of       make payments in pursuance of any order for the payment of\nmoney.           money under this Act, shall give notice of any change of address\n                 to such person (if any) as may be specified in the order, and any\n                 person failing without reasonable excuse to give such a notice\n                 shall be liable on summary conviction before a Resident Magis-\n71201 1          trate to a fine not exceeding two hundred and fifty thousand\nSch.\n                 dollars or imprisonment for a term not exceeding three months.\n                          (2) Where the Couit has made any such order, the Court\n                  shall, in addition to any other powers for enforcing compliance\n                  with the order, have power, in any case where there is any\n                  pension or income payable to the person against whom the order\n                  is made and capable of being attached, after giving the person\n                  by whom the pension or income is payable an opportunity of\n                ' being heard, to order that such part as the Court may think fit of\n                  any such pension or income, be attached and paid to the person\n                  named by the Court, and such further order shall be an authority\n                  to the person by whom such pension or income is payable to\n                  make the payment so ordered, and the receipt of the person to\n                  whom the payment is ordered to be made shall be a good dis-\n                  charge to the person by whom the pension or income is payable.\nMinister           1 7 ~The\n                          . Minister may, by order subject to affirmative reso-\nmay amend\nmonetary         lution, amend the monetary penalties specified in this Act.\npenalties.\n71201 1\nSch.\n       CHILDREN (GUARDIANSHIP AND CUSTODY)                             11"
+    },
+    {
+      "provision_ref": "sec18",
+      "section": "18",
+      "title": "Section 18",
+      "content": "18. Where in any proceeding before any Court the Principle\ncustody or upbringing of a child or the administration of on which\n                                                          questions\n                                                           relating\nany property belonging to or held on trust for a child, or tocustody,\nthe application of the income thereof, is in question, the :;bPfging$\nCourt in deciding that question, shall regard the welfare children\n                                                           are to be\nof the child as the first and paramount consideration, and decided.\nshall not take into consideration whether from any other\npoint of view the claim of the father, or any right at\ncommon law possessed by the father, in respect of such\ncustody, upbringing, administration or application is\nsuperior to that of the mother, or the claim of the mother\nis superior to that of the father."
+    },
+    {
+      "provision_ref": "sec19",
+      "section": "19",
+      "title": "Section 19",
+      "content": "19.-(1) Rules of court shall be made directing the Rulesof\nmanner in which applications to the Supreme Court are court  42/1969\nto be made and dealing generally with all the matters of 3rd Sch.\nprocedure therein and incidental matters arising out of this\nAct and for carrying this Act into effect shall be made by\nthe Rules Committee of the Supreme Court.\n       (2) Rules directing the manner in which applications\nto the Resident Magistrate’s Court are to be made and\ndealing generally with all matters of procedure therein shall\nbe made by Resident Magistrates authorized to make rules\nunder section 135 of the Judicature (Resident Magistrates)\nAct.\n       (3) Rules made under this section may provide for\napplications being heard and determined otherwise than in\nopen Court."
+    },
+    {
+      "provision_ref": "sec20",
+      "section": "20",
+      "title": "Section 20",
+      "content": "20. Nothing in this Act contained shall restrict or affect Saving.\nthe jurisdiction of the Supreme Court to appoint or remove\nguardians."
+    }
+  ],
+  "definitions": [
+    {
+      "term": "Court",
+      "definition": "the Supreme Court",
+      "source_provision": "sec14"
+    }
+  ]
 }
